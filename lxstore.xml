@@ -17,7 +17,7 @@
 </categories>
   <offers>
   
-<offer id="722240443" available="false" >
+<offer id="722240443" available="true" >
     <url>https://leobox.com.ua/p722240443-ryukzak-anmeilu-25l.html</url>
     <price>1199</price>
     <currencyId>UAH</currencyId>
@@ -156,7 +156,7 @@
     <picture>http://i.piccy.info/i9/9b1e0cccb89f3a89f418e9b4a3fbc65b/1564386735/217364/1329562/bl_red_01.jpg</picture>
     <picture>http://i.piccy.info/i9/efcc2e1d802da3e6522028269f38d432/1564386768/133129/1329562/bl_red_03.jpg</picture>
     <picture>http://i.piccy.info/i9/084832804fd65a415b32dac3909d4bd5/1564386792/169280/1329562/bl_red_02.jpg</picture>
-    <name>Рюкзак Anmeilu 25 л Black (1012)</name>
+    <name>Рюкзак Anmeilu 25 л (1012)</name>
     <vendor>Anmeilu</vendor>
     <vendorCode>1012-dr</vendorCode>
     <description>
@@ -1266,7 +1266,7 @@
 	<param name="цвет">Зеленый</param>
   </offer> 
   
-<offer id="998381504" available="false" >
+<offer id="998381504" available="true" >
     <url>https://leobox.com.ua/p998381504-turisticheskij-ryukzak-pentagram.html</url>
     <price>1499</price>
     <currencyId>UAH</currencyId>
@@ -2112,7 +2112,7 @@
 	<param name="цвет">Зеленый</param>
   </offer> 
 
-<offer id="928203677" available="false" >
+<offer id="928203677" available="true" >
 <url>https://leobox.com.ua/p928203677-ryukzak-pentagram-max.html</url>
     <price>1499</price>
     <currencyId>UAH</currencyId>
@@ -2172,7 +2172,7 @@
 	<param name="цвет">Синий</param>
   </offer>
 
-<offer id="1013177380" available="false" >
+<offer id="1013177380" available="true" >
 <url>https://leobox.com.ua/p1013177380-ryukzak-pentagram-max.html</url>
     <price>1499</price>
     <currencyId>UAH</currencyId>

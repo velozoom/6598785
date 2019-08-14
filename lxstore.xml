@@ -2338,7 +2338,7 @@
 	<param name="цвет">Синий</param>
   </offer>
  
-<offer id="1000878433" available="true" >
+<offer id="1000878433" available="false" >
 <url>https://leobox.com.ua/p1000878433-ryukzak-pentagram-turizm.html</url>
     <price>1899</price>
     <currencyId>UAH</currencyId>

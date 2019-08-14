@@ -601,7 +601,7 @@
 	<param name="цвет">Серый</param>
   </offer> 
 
-<offer id="998200899" available="true" >
+<offer id="998200899" available="false" >
 <url>https://leobox.com.ua/p998200899-ryukzak-anmeilu-20l.html</url>
     <price>1299</price>
     <currencyId>UAH</currencyId>

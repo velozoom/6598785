@@ -2457,6 +2457,65 @@
 	<param name="Цвет">Черный</param>
   </offer>
  
+ <offer id="925878426" available="true" >
+<url>https://leobox.com.ua/p925878426-t95q-432-s905x2.html</url>
+    <price>1899</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>3</categoryId>
+    <picture>http://i.piccy.info/i9/3e3c63dfe2028e0be84139ee4bb2f155/1565867790/100618/1329562/01.jpg</picture>
+    <picture>http://i.piccy.info/i9/1150479cc39a7c354b17e632b9a0f5a0/1565867811/130801/1329562/03.jpg</picture>
+	<picture>http://i.piccy.info/i9/884f325b2a61bea6e218339f49141948/1565867827/145794/1329562/02.jpg</picture>
+	<name>Смарт тв приставка T95Q 4gb/32gb</name>
+    <vendor>LX Store</vendor>
+    <vendorCode>T95Q_32b</vendorCode>
+    <description>
+<![CDATA[ 
+<p>Приставка T95Q є відмінним представником Андроід ТВ боксів на Amlogic S905X2, який отримав 4 ядра нового покоління з частотою до 2 ГГЦ та графічним ядром Mali-G31 MP2 "Dvalin", підтримує WiFi 2,4 / 5.8 ГГц , Bluetooth 4.1 та Ethernet 100Mbit, і працює на новій ОС Android 8.1. </p>
+<p>TV-Box T95Q, безсумнівно, виділяється своєю особливою круглою формою. Ще однією важливою особливістю є світлодіодне освітлення, яке змінює свій колір повільним ритмом.</p>
+
+<p>Характеристики:</p>
+<ul>
+<li>Процесор - Amlogic S905X2 4 ядра ARM Cortex-A53 @ до 2,0 ГГц</li>
+<li>GPU - Mali-G31 MP2 "Dvalin" GPU</li>
+<li>Система: Андроїд 8.1</li>
+<li>Тип оперативної пам'яті: DDR4</li>
+<li>Відеокодеки - VP9 Profile-2 до 4K 60 кадрів / с, 10-розрядний H.265 до 4K 60 кадрів / с, AVS2-P2 до 4K 60 кадрів / с, H.264 / AVC до 4K 30 кадрів / сек, H.264 MVC до 1080p60, MPEG -4 ASP до 1080p60 (ISO-14496) та ін. </li>
+<li>Формат відео: ASF, AVI, DAT, FLV, ISO, MKV, MKV, TS, VOB, WMV.</li>
+<li>Формат Аудіо: AAC, APE, DDP, FLAC, HD, MP3, OGG, WAV, WMA</li>
+<li>Формат Фото: BMP, GIF, JPEG, PNG, TIFF</li>
+<li>Wi-Fi: 802.11 a/b/g/n/ac</li>
+<li>Bluetooth: Блютуз 4.1</li>
+<li>Інтерфейси: HDMI, слот для мікро SD карти, RJ45, SPDIF, USB 3.1 Тип-C, USB2.0</li>
+<li>Сертифікат: CE, FCC, RoHs</li>
+<li>Версія HDMI: 2.0</li>
+</ul>
+
+<p>Особливості:</p>
+<ul>
+<li><strong>Нове покоління ТВ-приставок</strong></li>
+<li>Підтримка 4К відео</li>
+<li>Унікальний дизайн</li>
+<li>Зручна та швидка прошивка.</li>
+</ul>
+ ]]>
+</description>
+
+    <param name="Особливості">OC Android</param>
+    <param name="Мережеві можливості">Bluetooth, Ethernet, WI-FI</param>
+	<param name="Максимальна роздільна здатність">4K Ultra HD (3840x2160)</param>
+	<param name="Тип">Стаціонарний</param>
+	<param name="Наявність дисплея">Нет</param>
+	<param name="Входи і виходи">1 x USB 3.0, 1 x USB 2.0, 1 x HDMI выход, 1 x LAN, SPDIF, Слот для карт памяти</param>
+	<param name="Жорсткий диск (Вбудована пам'ять)">32 ГБ</param>
+	<param name="Об'єм оперативної пам'яті">4 ГБ</param>
+	<param name="Категорія пристрою">HD медіаплеєри</param>
+	<param name="Продавець">Інші продавці</param>
+	<param name="Додаткові характеристики">Операційна система: Android 8.1, Amlogic S905X2, Графічний процесор: GPU: Mali-G31 MP2, ОЗУ: 4 ГБ DDR4, Беспровідні інтерфейси: Wi-Fi 802.11 b / g / n, Bluetooth, Підтримка USB клавиатури і миші</param>
+	<param name="Комплект постачання">Медіаплеєр, Пульт дистанційного керування, Блок живлення, HDMI кабель, Інструкція</param>
+	<param name="Страна-производитель товара">Китай</param>
+	<param name="Гарантия">6 місяців</param>
+	<param name="Цвет">Черный</param>
+  </offer>
  
  </offers>
 </shop>

@@ -17,7 +17,8 @@
 <category id="7">Зволожувачі повітря</category>
 </categories>
   <offers>
-  
+ 
+#Anmeilu 
 <offer id="722240443" available="true" >
     <url>https://leobox.com.ua/p722240443-ryukzak-anmeilu-25l.html</url>
     <price>1199</price>
@@ -772,7 +773,7 @@
 
 
 
-
+# pentagram 23 max
 <offer id="998688713" available="true" >
 <url>https://leobox.com.ua/p998688713-ryukzak-pentagram-karkasna.html</url>
     <price>1249</price>
@@ -902,7 +903,7 @@
 
 
 
-
+# pentagram 35 1300
 <offer id="928209987" available="true" >
 <url>https://leobox.com.ua/p928209987-ryukzak-pentagram-20l.html</url>
     <price>1199</price>
@@ -1315,7 +1316,7 @@
   
 
 
-
+# pentagram 35 900
 <offer id="722711979" available="true" >
 <url>https://leobox.com.ua/p722711979-ryukzak-pentagram-35l.html</url>
     <price>1249</price>
@@ -1656,7 +1657,7 @@
  
  
  
- 
+ # pentagram 50 1300
 <offer id="1000646214" available="true" >
 <url>https://leobox.com.ua/p1000646214-ryukzak-pentagram-50l.html</url>
     <price>1449</price>
@@ -2092,7 +2093,7 @@
   </offer>
  
  
-
+# pentagram 40 max
 <offer id="847734475" available="false" >
 <url>https://leobox.com.ua/p847734475-ryukzak-pentagram-max.html</url>
     <price>1599</price>
@@ -2276,7 +2277,7 @@
 
 
 
-
+# pentagram 60 max
 <offer id="1000833178" available="false" >
 <url>https://leobox.com.ua/p1000833178-ryukzak-pentagram-turizm.html</url>
     <price>1899</price>
@@ -2389,8 +2390,8 @@
  
  
  
- 
- <offer id="925209614" available="false" >
+ # smart tv box
+<offer id="925209614" available="false" >
 <url>https://leobox.com.ua/p925209614-x99-max-464.html</url>
     <price>3549</price>
     <currencyId>UAH</currencyId>
@@ -2458,7 +2459,7 @@
 	<param name="Цвет">Черный</param>
   </offer>
  
- <offer id="925878426" available="true" >
+<offer id="925878426" available="true" >
 <url>https://leobox.com.ua/p925878426-t95q-432-s905x2.html</url>
     <price>1899</price>
     <currencyId>UAH</currencyId>
@@ -2486,7 +2487,7 @@
 <li>Формат Фото: BMP, GIF, JPEG, PNG, TIFF</li>
 <li>Wi-Fi: 802.11 a/b/g/n/ac</li>
 <li>Bluetooth: Блютуз 4.1</li>
-<li>Інтерфейси: HDMI, слот для мікро SD карти, RJ45, SPDIF, USB 3.1 Тип-C, USB2.0</li>
+<li>Інтерфейси: HDMI, слот для мікро SD карти, RJ45, SPDIF, USB 3.0, USB2.0</li>
 <li>Сертифікат: CE, FCC, RoHs</li>
 <li>Версія HDMI: 2.0</li>
 </ul>
@@ -2518,10 +2519,193 @@
 	<param name="Цвет">Черный</param>
   </offer>
  
+<offer id="854544054" available="true" >
+<url>https://leobox.com.ua/p854544054-t95x2-432-s905x2.html</url>
+    <price>1899</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>3</categoryId>
+    <picture>http://i.piccy.info/i9/9ba865c4926ed377894ad1b65c16651d/1566892080/120492/1329562/01.jpg</picture>
+    <picture>http://i.piccy.info/i9/38aef03748474f67c1a89ef25d7cf3b9/1566892119/167984/1329562/02.jpg</picture>
+	<picture>http://i.piccy.info/i9/033eea4e922ac98bd8b55abf1eade469/1566892134/124573/1329562/03.jpg</picture>
+	<name>Смарт тв приставка T95X2 4gb/32gb</name>
+    <vendor>LX Store</vendor>
+    <vendorCode>T95X2_32</vendorCode>
+    <description>
+<![CDATA[ 
+<p>Приставка T95X2 є відмінним представником Андроід ТВ боксів на Amlogic S905X2, який отримав 4 ядра нового покоління з частотою до 2 ГГЦ та графічним ядром Mali-G31 MP2 "Dvalin", підтримує WiFi 2,4 / 5.8 ГГц , Bluetooth 4.1 та Ethernet 100Mbit, і працює на новій ОС Android 8.1. </p>
+
+<p>Характеристики:</p>
+<ul>
+<li>Процесор - Amlogic S905X2 4 ядра ARM Cortex-A53 @ до 2,0 ГГц</li>
+<li>GPU - Mali-G31 MP2 "Dvalin" GPU</li>
+<li>Система: Андроїд 8.1</li>
+<li>Тип оперативної пам'яті: DDR4</li>
+<li>Відеокодеки - VP9 Profile-2 до 4K 60 кадрів / с, 10-розрядний H.265 до 4K 60 кадрів / с, AVS2-P2 до 4K 60 кадрів / с, H.264 / AVC до 4K 30 кадрів / сек, H.264 MVC до 1080p60, MPEG -4 ASP до 1080p60 (ISO-14496) та ін. </li>
+<li>Формат відео: ASF, AVI, DAT, FLV, ISO, MKV, MKV, TS, VOB, WMV.</li>
+<li>Формат Аудіо: AAC, APE, DDP, FLAC, HD, MP3, OGG, WAV, WMA</li>
+<li>Формат Фото: BMP, GIF, JPEG, PNG, TIFF</li>
+<li>Wi-Fi: 802.11 a/b/g/n/ac</li>
+<li>Bluetooth: Блютуз 4.1</li>
+<li>Інтерфейси: HDMI, слот для мікро SD карти, RJ45, SPDIF, USB 3.0, USB2.0</li>
+<li>Сертифікат: CE, FCC, RoHs</li>
+<li>Версія HDMI: 2.0</li>
+</ul>
+
+<p>Особливості:</p>
+<ul>
+<li><strong>Нове покоління ТВ-приставок</strong></li>
+<li>Підтримка 4К відео</li>
+<li>Унікальний дизайн</li>
+<li>Зручна та швидка прошивка.</li>
+</ul>
+ ]]>
+</description>
+
+    <param name="Особливості">OC Android</param>
+    <param name="Мережеві можливості">Bluetooth, Ethernet, WI-FI</param>
+	<param name="Максимальна роздільна здатність">4K Ultra HD (3840x2160)</param>
+	<param name="Тип">Стаціонарний</param>
+	<param name="Наявність дисплея">Нет</param>
+	<param name="Входи і виходи">1 x USB 3.0, 1 x USB 2.0, 1 x HDMI выход, 1 x LAN, SPDIF, Слот для карт памяти</param>
+	<param name="Жорсткий диск (Вбудована пам'ять)">32 ГБ</param>
+	<param name="Об'єм оперативної пам'яті">4 ГБ</param>
+	<param name="Категорія пристрою">HD медіаплеєри</param>
+	<param name="Продавець">Інші продавці</param>
+	<param name="Додаткові характеристики">Операційна система: Android 8.1, Amlogic S905X2, Графічний процесор: GPU: Mali-G31 MP2, ОЗУ: 4 ГБ DDR4, Беспровідні інтерфейси: Wi-Fi 802.11 b / g / n, Bluetooth, Підтримка USB клавиатури і миші</param>
+	<param name="Комплект постачання">Медіаплеєр, Пульт дистанційного керування, Блок живлення, HDMI кабель, Інструкція</param>
+	<param name="Страна-производитель товара">Китай</param>
+	<param name="Гарантия">6 місяців</param>
+	<param name="Цвет">Черный</param>
+  </offer>
+ 
+<offer id="815178775" available="true" >
+<url>https://leobox.com.ua/p815178775-ugoos-am3-216.html</url>
+    <price>3499</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>3</categoryId>
+    <picture>http://i.piccy.info/i9/f8f52f46706ca982ff7ad3f253f56cbd/1566893978/127794/1329562/01.jpg</picture>
+    <picture>http://i.piccy.info/i9/3b4edb5daf953758ddf7a46ad6648dc0/1566894005/91868/1329562/02.jpg</picture>
+	<picture>http://i.piccy.info/i9/8695993626237acd2ee3fd62ce1e692b/1566894025/82675/1329562/03.jpg</picture>
+	<name>Смарт тв приставка - Ugoos AM3</name>
+    <vendor>LX Store</vendor>
+    <vendorCode>am3</vendorCode>
+    <description>
+<![CDATA[ 
+<p>Смарт-бокс Ugoos AM3 - одна з кращих ТВ Приставок на однойменній ОС. Популярна приставка від Ugoos поставляється з власною оптимізованою системою Android саме під модель AM3, що забезпечує плавність роботи, відсутність будь-яких проблем під час довготривалого користування. Ugoos - якість понад усе!</p>
+<p>Смарт приставка розроблена на базі 8-ми ядерного процесора AMlogic S912.</p>
+<p>Оновлена модель випускається в новому корпусі. Процесор Amlogic S912 є одним з останніх в лінійці Amlogic, відрізняється високою продуктивністю, що дає запас по потужності в багатьох додатках.</p> 
+
+<p>Характеристики:</p>
+<ul>
+<li>Процесор - Amlogic S912 8 ядер Octa-core ARM Cortex-A53  up to 2.0GHZ (DVFS)</li>
+<li>ARM Mali-T820MP3 GPU up to 750MHz(DVFS)</li>
+<li>Система: Андроїд 7.1</li>
+<li>Тип оперативної пам'яті: DDR3</li>
+<li>Відеокодеки - VP9 Profile-2 up to 4Kx2K@60fps, H.265 HEVCMP-10@L5.1 up to 4K*2K@60fps, H.264 AVC HP@L5.1 up to4K*2K@60fps, H2.64 MVC up to1080P@60fps, MPEG-4 ASP@L5 up to 1080P@60fps (ISO-14496), WMV/VC-1 5P/MP/AP up to 1080P@60fps, AVS-P16(AVS+)/AVS-P2 jiZhun Profile up to 1080P@60fps, MPEG-2 MP/HL up to 1080P@60fps(ISO-13818), MPEG-1 MP/HL up to 1080P@60fps(ISO-11172), Підтримка форматів: *.mkv,*.wmv,*.mpg,*.mpeg,*.dat,*.avi,*.mov,*.iso,*.mp4,*.rm and *.jpg</li>
+<li>Формат відео: ASF, AVI, DAT, FLV, ISO, MKV, MKV, TS, VOB, WMV.</li>
+<li>Формат Аудіо: AAC, APE, DDP, FLAC, HD, MP3, OGG, WAV, WMA</li>
+<li>Формат Фото: BMP, GIF, JPEG, PNG, TIFF</li>
+<li>Wi-Fi: 802.11 a/b/g/n/ac</li>
+<li>Bluetooth: Блютуз 4.1</li>
+<li>Інтерфейси: HDMI, слот для мікро SD карти, RJ45, SPDIF, 3 x USB 2.0</li>
+<li>Сертифікат: CE, FCC, RoHs</li>
+<li>Версія HDMI: 2.0</li>
+</ul>
+
+<p>Особливості:</p>
+<ul>
+<li>Підтримка 4К відео</li>
+<li>Металевий корпус</li>
+<li>Зручна та швидка прошивка.</li>
+</ul>
+ ]]>
+</description>
+
+    <param name="Особливості">OC Android</param>
+    <param name="Мережеві можливості">Bluetooth, Ethernet, WI-FI</param>
+	<param name="Максимальна роздільна здатність">4K Ultra HD (3840x2160)</param>
+	<param name="Тип">Стаціонарний</param>
+	<param name="Наявність дисплея">Немає</param>
+	<param name="Входи і виходи">3 x USB 2.0, 1 x HDMI выход, 1 x LAN, SPDIF, Слот для карт памяти</param>
+	<param name="Жорсткий диск (Вбудована пам'ять)">16 ГБ</param>
+	<param name="Об'єм оперативної пам'яті">2 ГБ</param>
+	<param name="Категорія пристрою">HD медіаплеєри</param>
+	<param name="Продавець">Інші продавці</param>
+	<param name="Додаткові характеристики">Операційна система: Android 7.1, Процесор: s912, Графічний процесор: ARM Mali-T820MP3 GPU up to 750MHz(DVFS), ОЗУ: 2 ГБ DDR3, Беспровідні інтерфейси: Wi-Fi 802.11 b / g / n, Bluetooth, Підтримка USB клавиатури і миші</param>
+	<param name="Комплект постачання">Медіаплеєр, Пульт дистанційного керування з гіроскопом та мікрофоном, Блок живлення, HDMI кабель, Інструкція</param>
+	<param name="Страна-производитель товара">Китай</param>
+	<param name="Гарантия">6 місяців</param>
+	<param name="Цвет">Черный</param>
+  </offer>
+ 
+<offer id="981414175" available="true" >
+<url>https://leobox.com.ua/p981414175-ugoos-am6-216.html</url>
+    <price>4599</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>3</categoryId>
+    <picture>http://i.piccy.info/i9/e3d64052ff1019fa310ae4a93e5eab26/1566895313/85463/1329562/02.jpg</picture>
+    <picture>http://i.piccy.info/i9/faed558418bfd2dae518a5560f913cca/1566895331/88848/1329562/01.jpg</picture>
+	<picture>http://i.piccy.info/i9/faed0b8c1f4945bc04f5dc28387a1782/1566895361/91583/1329562/03.jpg</picture>
+	<name>Смарт тв приставка - Ugoos AM6</name>
+    <vendor>LX Store</vendor>
+    <vendorCode>am6_b</vendorCode>
+    <description>
+<![CDATA[ 
+<p>Новинка 2019 року смарт тв приставка <strong>Ugoos AM6</strong> поєднує в собі всі найкращі апаратні та програмні рішення від попередніх моделей і можливостей Amlogic наступного покоління процесорів S922X.</p>
+<p>Ugoos (Угус) AM6 отримав USB 3.0 Fast USB, Bluetooth 5.0, WIFI 5.0 / 2.4 ГГц з підтримкою MIMO, функцією Wake on LAN та іншими покращеннями. Приставка працює в парі з операційною системою Android 9.</p>
+<p>Приставка отримала новий процесор SoC S922X на базі 2 ядер Cortex A53 та чотирьох сучасних ядер Cortex A73 і графічну систему Mali-G52 MP6. Все це працює в зв'язці з оперативною пам'яттю нового стандарту LPDDR4. Також смарт тв приставка оснащена новою операційною системою Android 9.0.</p>
+<p>Новинка Ugoos AM6 працює з 4K форматом з частотою 75 Hz, підтримує  CEC, HDCP і HDR. Бездротові аеромиші і іншу периферію легко синхронізувати по Bluetooth технології v 5.0. Багатоканальну акустику можна підключити по S/PDIF кабелю, а робота з аналоговими стереосистемами і навушниками можлива через аудіовихід Jack 3,5 мм. Управління апаратом здійснюється через ІК пульт дистанційного керування. Смарт-бокс підтримує сучасні кодеки H.265, VP9 і AVS2 та має функцію AFR (Auto Frame Rate).</p>
+
+<p>Характеристики:</p>
+<ul>
+<li>Процесор - Amlogic S922X Hexacore CPU  6 ядер (2 х Cortex A53 та 4 х Cortex A73</li>
+<li>ARM Mali-G52 MP6</li>
+<li>Система: Андроїд 9</li>
+<li>Тип оперативної пам'яті: LPDDR4</li>
+<li>Відеокодеки - VP9 Profile-2 up to 4Kx2K@60fps, H.265 HEVCMP-10@L5.1 up to 4K*2K@60fps, H.264 AVC HP@L5.1 up to4K*2K@60fps, H2.64 MVC up to1080P@60fps, MPEG-4 ASP@L5 up to 1080P@60fps (ISO-14496), WMV/VC-1 5P/MP/AP up to 1080P@60fps, AVS-P16(AVS+)/AVS-P2 jiZhun Profile up to 1080P@60fps, MPEG-2 MP/HL up to 1080P@60fps(ISO-13818), MPEG-1 MP/HL up to 1080P@60fps(ISO-11172), Підтримка форматів: *.mkv,*.wmv,*.mpg,*.mpeg,*.dat,*.avi,*.mov,*.iso,*.mp4,*.rm and *.jpg</li>
+<li>Формат відео: ASF, AVI, DAT, FLV, ISO, MKV, MKV, TS, VOB, WMV.</li>
+<li>Формат Аудіо: AAC, APE, DDP, FLAC, HD, MP3, OGG, WAV, WMA</li>
+<li>Формат Фото: BMP, GIF, JPEG, PNG, TIFF</li>
+<li>1000M Ethernet Integrated IEEE 802.3 10/100/1000M Ethernet MAC with RGMII</li>
+<li>Wi-Fi: 2.4GHz + 5GHz dual band WiFi, IEEE 802.11 a/b/g/n/ac and 2x2 MIMO</li>
+<li>Bluetooth: Блютуз 5.0</li>
+<li>Інтерфейси: HDMI, слот для мікро SD карти, RJ45, SPDIF, 3 x USB 2.0, 1 x USB 3.0, AV-OUT, AUX-IN</li>
+<li>Сертифікат: CE, FCC, RoHs</li>
+<li>Версія HDMI: 2.0</li>
+</ul>
+
+<p>Особливості:</p>
+<ul>
+<li>Новинка 2019 року</li>
+<li>Процесор Amlogic S922X Hexacore</li>
+<li>Підтримка 4К відео</li>
+<li>Металевий корпус</li>
+<li>Зручна та швидка прошивка.</li>
+</ul>
+ ]]>
+</description>
+
+    <param name="Особливості">OC Android</param>
+    <param name="Мережеві можливості">Bluetooth, Ethernet, WI-FI</param>
+	<param name="Максимальна роздільна здатність">4K Ultra HD (3840x2160)</param>
+	<param name="Тип">Стаціонарний</param>
+	<param name="Наявність дисплея">Немає</param>
+	<param name="Входи і виходи">3 x USB 2.0, 1 x USB 3.0, 1 x HDMI вихід, 1 x LAN, SPDIF, Слот для карт памяти, AV-OUT, AUX-IN</param>
+	<param name="Жорсткий диск (Вбудована пам'ять)">16 ГБ</param>
+	<param name="Об'єм оперативної пам'яті">2 ГБ</param>
+	<param name="Категорія пристрою">HD медіаплеєри</param>
+	<param name="Продавець">Інші продавці</param>
+	<param name="Додаткові характеристики">Операційна система: Android 9, Процесор: s922X , Графічний процесор: ARM Mali-T820MP3 GPU up to 750MHz(DVFS), ОЗУ: 2 ГБ DDR4, Беспровідні інтерфейси: Wi-Fi 802.11 b / g / n, Bluetooth, Підтримка USB клавиатури і миші</param>
+	<param name="Комплект постачання">Медіаплеєр, Пульт дистанційного керування з гіроскопом та мікрофоном, Блок живлення, HDMI кабель, Інструкція</param>
+	<param name="Страна-производитель товара">Китай</param>
+	<param name="Гарантия">6 місяців</param>
+	<param name="Цвет">Черный</param>
+  </offer>
  
  
  
  
+ # zvolozhuvachi
 <offer id="985086658" available="true" >
 <url>https://leobox.com.ua/p985086658-meling-158-45l.html</url>
     <price>1149</price>

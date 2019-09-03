@@ -2094,7 +2094,7 @@
  
  
 # pentagram 40 max
-<offer id="847734475" available="false" >
+<offer id="847734475" available="true" >
 <url>https://leobox.com.ua/p847734475-ryukzak-pentagram-max.html</url>
     <price>1599</price>
     <currencyId>UAH</currencyId>
@@ -2275,6 +2275,60 @@
 	<param name="цвет">Черный</param>
   </offer>
 
+#<offer id="1000878433" available="true" >
+<url>https://leobox.com.ua/p1000878433-ryukzak-pentagram-turizm.html</url>
+    <price>1799</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>2</categoryId>
+    <picture>http://i.piccy.info/i9/098a7b1fbd90ec1aab486d2eab4dd17a/1564477270/178925/1329562/pm005_g_01.jpg</picture>
+    <picture>http://i.piccy.info/i9/91dbbc4ba50f812670a2d9a56a9b7dfb/1564477302/114032/1329562/pm005_g_03.jpg</picture>
+	<picture>http://i.piccy.info/i9/b18e21d1eeee7a2fe6172b6920c0eba8/1564477347/114069/1329562/pm005_g_02.jpg</picture>
+	<name>Рюкзак туристический Pentagram 60 max  Green (PM-M005)</name>
+    <vendor>Pentagram</vendor>
+    <vendorCode>M005-60z</vendorCode>
+    <description>
+<![CDATA[ 
+Туристичний рюкзак Pentagram 60L MAX професійне рішення для туризму, та походів в гори. 
+Одною з особливостей рюкзака Pentagram 60L є його залізна вставка, яка рівномірно розподіляє навантаження і спина не втомлюється. Якщо до цього ви користувались звичайним "безкаркасником", після носіння цього рюкзака старі одягати на плечі не захочеться. 
+Металевий каркас та сітка забезпечують вентиляцію спини. Між спиною та рюкзаком завжди є простір. Це досягається завдяки спеціальній вигнутій формі металевої конструкції.
+Рюкзак оснащений двома великими основними відділеннями, кишенею зверху, двома кишенями на поясних шлейках. У великому відділенні передбачено місце для питної системи (гідропаку), наявний клапан для виводу трубки. 
+По боках рюкзака розміщені відкриті кишені для пляшки, термоса чи інших речей.
+Високоякісні пряжки YBS на верхній та нижній частині рюкзака для кріплення каремату, спальника та ін. 
+Стильний та модний дизайн рюкзака підійде для любої статі. Модель унісекс.
+Особливості рюкзака Pentagram 60L:
+	Рюкзак виготовлено з високоякісної та водовідштовхувальної тканини, стійкої до механічних пошкоджень.
+	Місткий туристичний рюкзак професійного рівня
+	Плечовий та поясний ремені регулюються під ваші потреби
+	Каркасна спинка анатомічної форми та дихаюча сітка
+	Знімний каркас спинки, можна класти в пральну машину.
+	Підходить для туризму, альпінізу та ін.
+Характеристики:
+	Розміри: 72*31*26 см
+	Об'єм: 60 л max 
+	Вага: 1750 г
+	Матеріал: водостійкий нейлон
+ Об'єм розраховується виробником, за формулою В*Ш*Г / 1000. 
+Комплектація:
+	Рюкзак Pentagram 60L
+	Дощовик
+ ]]>
+</description>
+
+    <param name="Объем">60 л</param>
+    <param name="Вид">анатомический</param>
+	<param name="назначение">для велотуризма, Для пешего и горного туризма</param>
+	<param name="материал">100% нейлон, подкладка 100% полиэстер</param>
+	<param name="размеры">73 x 31 x 26 см</param>
+	<param name="Тип">рюкзаки</param>
+	<param name="вес">1,75 кг</param>
+	<param name="Регулировка плечевых лямок по вертикали">Есть</param>
+	<param name="Наличие поясного ремня">Есть</param>
+	<param name="Совместимость с питьевой системой">Есть</param>
+	<param name="Габариты упаковки">73 x 31 x 26 см</param>
+	<param name="Страна-производитель товара">Китай</param>
+	<param name="гарантия">14 дней</param>
+	<param name="цвет">Зеленый</param>
+  </offer>
 
 
 # pentagram 60 max
@@ -2332,7 +2386,7 @@
 	<param name="цвет">Синий</param>
   </offer>
  
-<offer id="1000878433" available="false" >
+<offer id="1000878433" available="true" >
 <url>https://leobox.com.ua/p1000878433-ryukzak-pentagram-turizm.html</url>
     <price>1799</price>
     <currencyId>UAH</currencyId>
@@ -2702,7 +2756,126 @@
 	<param name="Цвет">Черный</param>
   </offer>
  
- 
+<offer id="925592188" available="true" >
+<url>https://leobox.com.ua/p925592188-x96-max-464.html</url>
+    <price>2099</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>3</categoryId>
+    <picture>http://i.piccy.info/i9/e1e968d5a8e65eb4799191a7d8c1dad3/1567498416/112509/1329562/01.jpg</picture>
+    <picture>http://i.piccy.info/i9/5f2874b06a6d9a093018136f8f872d5c/1567498482/136243/1329562/02.jpg</picture>
+	<picture>http://i.piccy.info/i9/24f67ac5aeb6a0fd2aacc2dc0dc6fec0/1567498510/120482/1329562/03.jpg</picture>
+	<name>Смарт тв приставка X96 MAX 4gb/64gb</name>
+    <vendor>LX Store</vendor>
+    <vendorCode>x96max_64b</vendorCode>
+    <description>
+<![CDATA[ 
+<p>Приставка X96 MAX є відмінним представником Андроід ТВ боксів на Amlogic S905X2, який отримав 4 ядра нового покоління з частотою до 2 ГГЦ та графічним ядром Mali-G31 MP2 "Dvalin", підтримує WiFi 2,4 / 5.8 ГГц , Bluetooth 4.1 та Ethernet 100Mbit, і працює на новій ОС Android 8.1. </p>
+<p>Смарт бокс має на борті 4 Гб оперативної пам'яті DDR4 і 64 ГБ eMMC, що значно збільшує продуктивність, безпеку та надійність. Приставка має повноцінну підтримку UltraHD 4K відео 60 кадрів/с.</p>
+
+<p>Характеристики:</p>
+<ul>
+<li>Процесор - Amlogic S905X2 4 ядра ARM Cortex-A53 @ до 2,0 ГГц</li>
+<li>GPU - Mali-G31 MP2 "Dvalin" GPU</li>
+<li>Система: Андроїд 8.1</li>
+<li>Тип оперативної пам'яті: DDR4</li>
+<li>Відеокодеки - VP9 Profile-2 до 4K 60 кадрів / с, 10-розрядний H.265 до 4K 60 кадрів / с, AVS2-P2 до 4K 60 кадрів / с, H.264 / AVC до 4K 30 кадрів / сек, H.264 MVC до 1080p60, MPEG -4 ASP до 1080p60 (ISO-14496) та ін. </li>
+<li>Формат відео: ASF, AVI, DAT, FLV, ISO, MKV, MKV, TS, VOB, WMV.</li>
+<li>Формат Аудіо: AAC, APE, DDP, FLAC, HD, MP3, OGG, WAV, WMA</li>
+<li>Формат Фото: BMP, GIF, JPEG, PNG, TIFF</li>
+<li>Wi-Fi: 802.11 a/b/g/n/ac</li>
+<li>Bluetooth: Блютуз 4.1</li>
+<li>Інтерфейси: HDMI, слот для мікро SD карти, RJ45, SPDIF, USB 3.0, USB2.0</li>
+<li>Сертифікат: CE, FCC, RoHs</li>
+<li>Версія HDMI: 2.0</li>
+</ul>
+
+<p>Особливості:</p>
+<ul>
+<li><strong>Нове покоління ТВ-приставок</strong></li>
+<li>Підтримка 4К відео</li>
+<li>Двохдіапазонний WI-FI</li>
+<li>Зручна та швидка прошивка.</li>
+</ul>
+ ]]>
+</description>
+
+    <param name="Особливості">OC Android</param>
+    <param name="Мережеві можливості">Bluetooth, Ethernet, WI-FI</param>
+	<param name="Максимальна роздільна здатність">4K Ultra HD (3840x2160)</param>
+	<param name="Тип">Стаціонарний</param>
+	<param name="Наявність дисплея">Є</param>
+	<param name="Входи і виходи">1 x USB 3.0, 1 x USB 2.0, 1 x HDMI выход, 1 x LAN, SPDIF, Слот для карт памяти</param>
+	<param name="Жорсткий диск (Вбудована пам'ять)">64 ГБ</param>
+	<param name="Об'єм оперативної пам'яті">4 ГБ</param>
+	<param name="Категорія пристрою">HD медіаплеєри</param>
+	<param name="Продавець">Інші продавці</param>
+	<param name="Додаткові характеристики">Операційна система: Android 8.1, Amlogic S905X2, Графічний процесор: GPU: Mali-G31 MP2, ОЗУ: 4 ГБ DDR4, Беспровідні інтерфейси: Wi-Fi 802.11 b / g / n, Bluetooth, Підтримка USB клавиатури і миші</param>
+	<param name="Комплект постачання">Медіаплеєр, Пульт дистанційного керування, Блок живлення, HDMI кабель, Інструкція</param>
+	<param name="Страна-производитель товара">Китай</param>
+	<param name="Гарантия">6 місяців</param>
+	<param name="Цвет">Черный</param>
+  </offer>
+
+<offer id="947645560" available="true" >
+<url>https://leobox.com.ua/p947645560-mecool-km3-464.html</url>
+    <price>2099</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>3</categoryId>
+    <picture>http://i.piccy.info/i9/fe129b15c3515ff4e4d2c848f1088f61/1567499736/102986/1329562/01.jpg</picture>
+    <picture>http://i.piccy.info/i9/2cb398df633727e0a24dc02c581dfa6c/1567499759/111207/1329562/02.jpg</picture>
+	<picture>http://i.piccy.info/i9/3fee1f114156fee7da2de0d79057d3df/1567499933/106381/1329562/03.jpg</picture>
+	<name>Смарт тв приставка Mecool KM3 4gb/64gb</name>
+    <vendor>LX Store</vendor>
+    <vendorCode>Km3_atv_b</vendorCode>
+    <description>
+<![CDATA[ 
+<p>Приставка Mecool KM3 є відмінним представником Андроід ТВ боксів на Amlogic S905X2, який отримав сертифіковану операційну систему Google TV, яка дозволяє повноцінно використовувати голосовий пошук, 4 ядра нового покоління з частотою до 2 ГГЦ та графічним ядром Mali-G31 MP2 "Dvalin", підтримує WiFi 2,4 / 5.8 ГГц , Bluetooth 4.1 та Ethernet 100Mbit, Android 9. </p>
+<p>Смарт бокс має на борті 4 Гб оперативної пам'яті DDR4 і 64 ГБ eMMC, що значно збільшує продуктивність, безпеку та надійність. Приставка має повноцінну підтримку UltraHD 4K відео 60 кадрів/с.</p>
+
+<p>Характеристики:</p>
+<ul>
+<li>Процесор - Amlogic S905X2 4 ядра ARM Cortex-A53 @ до 2,0 ГГц</li>
+<li>GPU - Mali-G31 MP2 "Dvalin" GPU</li>
+<li>Система: Google TV Андроїд 9</li>
+<li>Тип оперативної пам'яті: DDR4</li>
+<li>Відеокодеки - VP9 Profile-2 до 4K 60 кадрів / с, 10-розрядний H.265 до 4K 60 кадрів / с, AVS2-P2 до 4K 60 кадрів / с, H.264 / AVC до 4K 30 кадрів / сек, H.264 MVC до 1080p60, MPEG -4 ASP до 1080p60 (ISO-14496) та ін. </li>
+<li>Формат відео: ASF, AVI, DAT, FLV, ISO, MKV, MKV, TS, VOB, WMV.</li>
+<li>Формат Аудіо: AAC, APE, DDP, FLAC, HD, MP3, OGG, WAV, WMA</li>
+<li>Формат Фото: BMP, GIF, JPEG, PNG, TIFF</li>
+<li>Wi-Fi: 802.11 a/b/g/n/ac</li>
+<li>Bluetooth: Блютуз 4.1</li>
+<li>Інтерфейси: HDMI, слот для мікро SD карти, RJ45, USB 3.0, USB2.0</li>
+<li>Сертифікат: CE, FCC, RoHs</li>
+<li>Версія HDMI: 2.0</li>
+</ul>
+
+<p>Особливості:</p>
+<ul>
+<li><strong>Нове покоління ТВ-приставок</strong></li>
+<li>Голосове керування за допомогою пульта</li>
+<li>Підтримка 4К відео</li>
+<li>Двохдіапазонний WI-FI</li>
+<li>Сертифікована офіційна прошивка Google TV.</li>
+</ul>
+ ]]>
+</description>
+
+    <param name="Особливості">OC Android</param>
+    <param name="Мережеві можливості">Bluetooth, Ethernet, WI-FI</param>
+	<param name="Максимальна роздільна здатність">4K Ultra HD (3840x2160)</param>
+	<param name="Тип">Стаціонарний</param>
+	<param name="Наявність дисплея">Немає</param>
+	<param name="Входи і виходи">1 x USB 3.0, 1 x USB 2.0, 1 x HDMI выход, 1 x LAN, Слот для карт памяти</param>
+	<param name="Жорсткий диск (Вбудована пам'ять)">64 ГБ</param>
+	<param name="Об'єм оперативної пам'яті">4 ГБ</param>
+	<param name="Категорія пристрою">HD медіаплеєри</param>
+	<param name="Продавець">Інші продавці</param>
+	<param name="Додаткові характеристики">Операційна система: Google TV Android 9, Amlogic S905X2, Графічний процесор: GPU: Mali-G31 MP2, ОЗУ: 4 ГБ DDR4, Беспровідні інтерфейси: Wi-Fi 802.11 b / g / n, Bluetooth, Підтримка USB клавиатури і миші</param>
+	<param name="Комплект постачання">Медіаплеєр, Пульт дистанційного керування, Блок живлення, HDMI кабель, Інструкція</param>
+	<param name="Страна-производитель товара">Китай</param>
+	<param name="Гарантия">6 місяців</param>
+	<param name="Цвет">Черный</param>
+  </offer> 
  
  
  # zvolozhuvachi

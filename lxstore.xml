@@ -19,7 +19,7 @@
   <offers>
  
 #Anmeilu 
-<offer id="722240443" available="true" >
+<offer id="722240443" available="false" >
     <url>https://leobox.com.ua/p722240443-ryukzak-anmeilu-25l.html</url>
     <price>1199</price>
     <currencyId>UAH</currencyId>
@@ -84,7 +84,7 @@
 	<param name="цвет">Синий</param>
   </offer> 
   
-<offer id="741989699" available="true" >
+<offer id="741989699" available="false" >
     <url>https://leobox.com.ua/p741989699-ryukzak-anmeilu-25l.html</url>
     <price>1199</price>
     <currencyId>UAH</currencyId>
@@ -3058,7 +3058,7 @@
 	<param name="Основні функції">Ароматизація, Зволоження</param>
 	<param name="Тип">Ароматизатор, Ультразвуковий</param>
 	<param name="Реком. площа обслуговування, кв. м">25</param>
-	<param name="Місткість резервуара для води">4,5 л</param>
+	<param name="Місткість резервуара для води">4,5</param>
 	<param name="Дисплей">Немає</param>
 	<param name="Тип керування">Електронне, Механічне</param>
 	<param name="Країна-виробник товару">Китай</param>
@@ -3104,7 +3104,7 @@
 	<param name="Основні функції">Ароматизація, Зволоження</param>
 	<param name="Тип">Ароматизатор, Ультразвуковий</param>
 	<param name="Реком. площа обслуговування, кв. м">25</param>
-	<param name="Місткість резервуара для води">5 л</param>
+	<param name="Місткість резервуара для води">5</param>
 	<param name="Дисплей">Немає</param>
 	<param name="Тип керування">Електронне, Механічне</param>
 	<param name="Країна-виробник товару">Китай</param>
@@ -3148,7 +3148,7 @@
 	<param name="Основні функції">Ароматизація, Зволоження</param>
 	<param name="Тип">Ароматизатор, Ультразвуковий</param>
 	<param name="Реком. площа обслуговування, кв. м">25</param>
-	<param name="Місткість резервуара для води">5 л</param>
+	<param name="Місткість резервуара для води">5</param>
 	<param name="Дисплей">Є</param>
 	<param name="Тип керування">Електронне, Сенсорне</param>
 	<param name="Країна-виробник товару">Китай</param>
@@ -3194,7 +3194,7 @@
 	<param name="Основні функції">Ароматизація, Зволоження</param>
 	<param name="Тип">Ароматизатор, Ультразвуковий</param>
 	<param name="Реком. площа обслуговування, кв. м">25</param>
-	<param name="Місткість резервуара для води">5 л</param>
+	<param name="Місткість резервуара для води">5</param>
 	<param name="Дисплей">Є</param>
 	<param name="Тип керування">Електронне, Механічне</param>
 	<param name="Країна-виробник товару">Китай</param>

@@ -2080,7 +2080,7 @@
 	<param name="цвет">Красный</param>
   </offer>
   
-<offer id="722693859" available="true" >
+<offer id="722693859" available="false" >
 <url>https://leobox.com.ua/p722693859-ryukzak-pentagram-50l.html</url>
     <price>1449</price>
     <currencyId>UAH</currencyId>
@@ -2716,7 +2716,7 @@
  
  
  # smart tv box
-<offer id="925209614" available="false" >
+<offer id="925209614" available="true" >
 <url>https://leobox.com.ua/p925209614-x99-max-464.html</url>
     <price>3549</price>
     <currencyId>UAH</currencyId>

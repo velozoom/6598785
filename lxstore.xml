@@ -2718,7 +2718,7 @@
  # smart tv box
 <offer id="925209614" available="true" >
 <url>https://leobox.com.ua/p925209614-x99-max-464.html</url>
-    <price>3549</price>
+    <price>3399</price>
     <currencyId>UAH</currencyId>
     <categoryId>3</categoryId>
     <picture>http://i.piccy.info/i9/c86dad7c25ae851848799ef9eb89485c/1565329027/132859/1329562/01.jpg</picture>
@@ -2786,7 +2786,7 @@
  
 <offer id="925878426" available="true" >
 <url>https://leobox.com.ua/p925878426-t95q-432-s905x2.html</url>
-    <price>1899</price>
+    <price>1849</price>
     <currencyId>UAH</currencyId>
     <categoryId>3</categoryId>
     <picture>http://i.piccy.info/i9/3e3c63dfe2028e0be84139ee4bb2f155/1565867790/100618/1329562/01.jpg</picture>
@@ -2846,7 +2846,7 @@
  
 <offer id="854544054" available="true" >
 <url>https://leobox.com.ua/p854544054-t95x2-432-s905x2.html</url>
-    <price>1899</price>
+    <price>1849</price>
     <currencyId>UAH</currencyId>
     <categoryId>3</categoryId>
     <picture>http://i.piccy.info/i9/9ba865c4926ed377894ad1b65c16651d/1566892080/120492/1329562/01.jpg</picture>
@@ -2903,7 +2903,7 @@
 	<param name="Цвет">Черный</param>
   </offer>
  
-<offer id="815178775" available="true" >
+<offer id="815178775" available="false" >
 <url>https://leobox.com.ua/p815178775-ugoos-am3-216.html</url>
     <price>3499</price>
     <currencyId>UAH</currencyId>
@@ -3029,7 +3029,7 @@
  
 <offer id="925592188" available="true" >
 <url>https://leobox.com.ua/p925592188-x96-max-464.html</url>
-    <price>2099</price>
+    <price>1899</price>
     <currencyId>UAH</currencyId>
     <categoryId>3</categoryId>
     <picture>http://i.piccy.info/i9/e1e968d5a8e65eb4799191a7d8c1dad3/1567498416/112509/1329562/01.jpg</picture>
@@ -3198,7 +3198,7 @@
 
 <offer id="983679825" available="true" >
 <url>https://leobox.com.ua/p983679825-deerma-dem-f628.html</url>
-    <price>1399</price>
+    <price>1299</price>
     <currencyId>UAH</currencyId>
     <categoryId>7</categoryId>
     <picture>http://i.piccy.info/i9/67bcfa6fa0babcfadb66b5b4ba6c3bf9/1566383296/94610/1329562/01.jpg</picture>
@@ -3286,7 +3286,7 @@
 	<param name="Цвет">Белый</param>
   </offer>
  
-<offer id="983180605" available="true" >
+<offer id="983180605" available="false" >
 <url>https://leobox.com.ua/p983180605-deerma-dem-f500.html</url>
     <price>1699</price>
     <currencyId>UAH</currencyId>

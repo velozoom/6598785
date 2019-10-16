@@ -3196,7 +3196,7 @@
 	<param name="Цвет">Белый</param>
   </offer> 
 
-<offer id="983679825" available="true" >
+<offer id="983679825" available="false" >
 <url>https://leobox.com.ua/p983679825-deerma-dem-f628.html</url>
     <price>1299</price>
     <currencyId>UAH</currencyId>

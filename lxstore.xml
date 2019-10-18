@@ -3150,7 +3150,7 @@
  
  
  # zvolozhuvachi
-<offer id="985086658" available="true" >
+<offer id="985086658" available="false" >
 <url>https://leobox.com.ua/p985086658-meling-158-45l.html</url>
     <price>1149</price>
     <currencyId>UAH</currencyId>
@@ -3332,6 +3332,47 @@
 	<param name="Цвет">Белый</param>
   </offer> 
  
+<offer id="1035143801" available="true" >
+
+<url>https://leobox.com.ua/p1035143801-deerma-sjs-100.html</url>
+    <price>2249</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>7</categoryId>
+    <picture>http://ipic.su/img/img7/fs/01.1571378080.jpg/</picture>
+    <picture>http://ipic.su/img/img7/fs/02.1571378115.jpg</picture>
+	<picture>http://ipic.su/img/img7/fs/03.1571378149.jpg</picture>
+	<picture>http://ipic.su/img/img7/fs/04.1571378180.jpg</picture>
+	<name>Зволожувач повітря Deerma sjs-100</name>
+    <vendor>LX Store</vendor>
+    <vendorCode>Dr_sjs100</vendorCode>
+    <description>
+<![CDATA[ 
+<p>DEERMA SJS-100 - компактний зволожувач Deerma Air Humidifier 5L від виробника Xiaomi допомагає уникнути дискомфорту, який викликає сухе повітря. На лицьовій поверхні розташований аналоговий регулятор інтенсивності випаровування. Це дозволяє вибирати режими - для сну, енергозберігаючий, стандартний, максимальне зволоження. Наявна кнопка для керування підсвічуванням баку з водою. Для контролю обсягу води, передбачено вертикальне віконце.</p>
+
+<p>Особливості:</p>
+<ul>
+<li>Місткість ємності для води - 5 літрів;</li>
+<li>Висока ефективність - до 350 мл / год;</li>
+<li>Можна одночасно використовувати в якості зволожувача і ароматизатора;</li>
+<li>Простий у догляді. Дуже легко розбирається;</li>
+</ul>
+
+ ]]>
+</description>
+
+    <param name="Виробник">Deerma</param>
+	<param name="Продавець">Інші продавці</param>
+	<param name="Основні функції">Ароматизація, Зволоження</param>
+	<param name="Тип">Ароматизатор, Ультразвуковий</param>
+	<param name="Реком. площа обслуговування, кв. м">25</param>
+	<param name="Місткість резервуара для води">5</param>
+	<param name="Дисплей">Немає</param>
+	<param name="Тип керування">Електронне, Механічне</param>
+	<param name="Країна-виробник товару">Китай</param>
+	<param name="Гарантия">3 місяці</param>
+	<param name="Цвет">Белый</param>
+</offer> 
+
 </offers>
 </shop>
 </yml_catalog>

@@ -3373,6 +3373,51 @@
 	<param name="Цвет">Белый</param>
 </offer> 
 
+<offer id="1064298699" available="true" >
+<url>https://leobox.com.ua/p1064298699-deerma-dem-f300.html</url>
+    <price>1149</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>7</categoryId>
+    <picture>https://picua.org/images/2019/10/24/e5101ea6280229e7072c6b2fc929bb98.jpg</picture>
+    <picture>https://picua.org/images/2019/10/24/d5d19d844d90adf11fb4868fa88fa21f.jpg</picture>
+	<picture>https://picua.org/images/2019/10/24/60a1a1507dff3dc6b6772ddc2f3d4179.jpg</picture>
+    <picture>https://picua.org/images/2019/10/24/61a1d99c876b6d3ec37a44cf5291d800.jpg</picture>
+	<name>Deerma DEM-F300 Увлажнитель воздуха</name>
+    <vendor>LX Store</vendor>
+    <vendorCode>Dr_F300</vendorCode>
+    <description>
+<![CDATA[ 
+<p>Deerma F300 - зволожувач Deerma Air Humidifier 2.5L від виробника Xiaomi відрізняється простотою дизайну і компактними розмірами. На лицьовій поверхні розташований аналоговий регулятор інтенсивності випаровування. Це дозволяє вибрати необхідний рівень інтенсивності зволоження повітря. Площа зволоження до 20 м.кв та інтенсивність 250 мл/год дозволяє використовувати зволожувач в офісах та квартирах. Надзвичайно тихий зволожувач, сприяє комфортному сну дітей та дорослих.</p>
+
+<p><strong>Надійна конструкція і гарний дизайн</strong></p>
+
+<p>Одне з явних переваг DEERMA Humidifier варто відзначити якісну конструкцію з ABS-пластика, сучасний дизайн і приємне біле забарвлення, яка дозволить вписатися пристрою в будь-який інтер'єр.</p>
+
+<p>Особливості:</p>
+<ul>
+<li>Легко додавати воду. Не потрібно піднімати ємність з водою, лише додайте води через верхню кришку;</li>
+<li>Висока ефективність - до 250 мл / год;</li>
+<li>Можна одночасно використовувати в якості зволожувача і ароматизатора;</li>
+<li>Простий у догляді. Дуже легко розбирається;</li>
+<li>Ємність для води: 2.5 л;</li>
+</ul>
+
+ ]]>
+</description>
+
+    <param name="Виробник">Deerma</param>
+	<param name="Продавець">Інші продавці</param>
+	<param name="Основні функції">Ароматизація, Зволоження</param>
+	<param name="Тип">Ультразвуковий, Ароматизатор</param>
+	<param name="Реком. площа обслуговування, кв. м">20</param>
+	<param name="Місткість резервуара для води">2,5</param>
+	<param name="Дисплей">Немає</param>
+	<param name="Тип керування">Електронне, Механічне</param>
+	<param name="Країна-виробник товару">Китай</param>
+	<param name="Гарантия">3 місяці</param>
+	<param name="Цвет">Белый</param>
+  </offer>
+
 </offers>
 </shop>
 </yml_catalog>

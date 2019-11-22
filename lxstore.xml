@@ -28,6 +28,7 @@
     <picture>https://picua.org/images/2019/04/04/9423fe536ef18282979cad775cd5343d.jpg</picture>
     <picture>https://picua.org/images/2019/04/04/53780750d575b56c794a924828eb3efe.jpg</picture>
     <name>Рюкзак Anmeilu 25 л Blue (1012)</name>
+	<stock_quantity>0</stock_quantity>
     <vendor>Anmeilu</vendor>
     <vendorCode>1012</vendorCode>
     <description>
@@ -93,6 +94,7 @@
     <picture>http://i.piccy.info/i9/d8b23bb48e8f13aec3e0c62f9e33cd8d/1564386519/157815/1329562/bl_green_01.jpg</picture>
     <picture>http://i.piccy.info/i9/ebdb64c3dad4a5145b57c3a9cd560591/1564386546/136356/1329562/bl_green_02.jpg</picture>
     <name>Рюкзак Anmeilu 25 л Black (1012)</name>
+	<stock_quantity>0</stock_quantity>
     <vendor>Anmeilu</vendor>
     <vendorCode>1012-dg</vendorCode>
     <description>
@@ -152,13 +154,14 @@
   
 <offer id="741988841" available="true" >
     <url>https://leobox.com.ua/p741988841-ryukzak-anmeilu-25l.html</url>
-    <price>1199</price>
+    <price>1099</price>
     <currencyId>UAH</currencyId>
     <categoryId>2</categoryId>
     <picture>http://i.piccy.info/i9/9b1e0cccb89f3a89f418e9b4a3fbc65b/1564386735/217364/1329562/bl_red_01.jpg</picture>
     <picture>http://i.piccy.info/i9/efcc2e1d802da3e6522028269f38d432/1564386768/133129/1329562/bl_red_03.jpg</picture>
     <picture>http://i.piccy.info/i9/084832804fd65a415b32dac3909d4bd5/1564386792/169280/1329562/bl_red_02.jpg</picture>
     <name>Рюкзак Anmeilu 25 л (1012)</name>
+	<stock_quantity>5</stock_quantity>
     <vendor>Anmeilu</vendor>
     <vendorCode>1012-dr</vendorCode>
     <description>
@@ -218,13 +221,14 @@
   
 <offer id="742086869" available="true" >
 <url>https://leobox.com.ua/p742086869-ryukzak-anmeilu-20l.html</url>
-    <price>1299</price>
+    <price>1099</price>
     <currencyId>UAH</currencyId>
     <categoryId>2</categoryId>
     <picture>http://i.piccy.info/i9/f0da58a4b6bfd88dedfd6b46c3b8d0ab/1564389109/94646/1329562/grey_01.jpg</picture>
     <picture>http://i.piccy.info/i9/24b040ac36499513792d1aeda2e0cbf6/1564401237/64489/1329562/grey_02.jpg</picture>
     <picture>http://i.piccy.info/i9/639fcb47b57d3f7e93fa511beb12ca19/1564389147/61265/1329562/grey_03.jpg</picture>
     <name>Рюкзак Anmeilu 20 л Grey (1022)</name>
+	<stock_quantity>5</stock_quantity>
     <vendor>Anmeilu</vendor>
     <vendorCode>1022-gr</vendorCode>
     <description>
@@ -280,13 +284,14 @@
   
 <offer id="742035418" available="true" >
 <url>https://leobox.com.ua/p742035418-ryukzak-anmeilu-20l.html</url>
-    <price>1299</price>
+    <price>1099</price>
     <currencyId>UAH</currencyId>
     <categoryId>2</categoryId>
     <picture>https://picua.org/images/2019/04/12/a4792de85c1c1843bbf935bc1d576b1a.jpg</picture>
     <picture>https://picua.org/images/2019/04/12/98bac5b16270120c63786e4f1621ec90.jpg</picture>
     <picture>https://picua.org/images/2019/04/12/4b7d319950a817e69687efea11c5e9f1.jpg</picture>
     <name>Рюкзак Anmeilu 20 л Blue (1022)</name>
+	<stock_quantity>5</stock_quantity>
     <vendor>Anmeilu</vendor>
     <vendorCode>1022-b</vendorCode>
     <description>
@@ -332,13 +337,14 @@
   
 <offer id="742026408" available="true" >
 <url>https://leobox.com.ua/p742026408-ryukzak-anmeilu-20l.html</url>
-    <price>1299</price>
+    <price>1099</price>
     <currencyId>UAH</currencyId>
     <categoryId>2</categoryId>
     <picture>http://i.piccy.info/i9/430e863a08737f8ff5dfc084959d847c/1564048894/33677/1329562/black_01.jpg</picture>
     <picture>http://i.piccy.info/i9/c36efe7980dbaa1b6d51cd66bc138926/1564048918/105477/1329562/black_03.jpg</picture>
     <picture>http://i.piccy.info/i9/e89752af502e7f8a8e8cda9f8f0d4d58/1564048950/112116/1329562/00003.jpg</picture>
     <name>Рюкзак Anmeilu 20 л Black (1022)</name>
+	<stock_quantity>5</stock_quantity>
     <vendor>Anmeilu</vendor>
     <vendorCode>1022-g</vendorCode>
     <description>
@@ -393,13 +399,14 @@
   
 <offer id="741967625" available="false" >
 <url>https://leobox.com.ua/p741967625-ryukzak-anmeilu-20l.html</url>
-    <price>1299</price>
+    <price>1099</price>
     <currencyId>UAH</currencyId>
     <categoryId>2</categoryId>
     <picture>https://picua.org/images/2019/04/12/0b53606c805c7bf9a740b6295fc78882.jpg</picture>
     <picture>https://picua.org/images/2019/04/12/f05fb05deaf871bed110e1c3b44cf3d6.jpg</picture>
     <picture>https://picua.org/images/2019/04/12/18f05e198642ca5dd6fdc086916b23da.jpg</picture>
     <name>Рюкзак Anmeilu 20 л Green (1023)</name>
+	<stock_quantity>5</stock_quantity>
     <vendor>Anmeilu</vendor>
     <vendorCode>1023-g</vendorCode>
     <description>
@@ -445,13 +452,14 @@
    
 <offer id="722057074" available="true" >
     <url>https://leobox.com.ua/p722057074-ryukzak-anmeilu-20l.html</url>
-    <price>1199</price>
+    <price>1099</price>
     <currencyId>UAH</currencyId>
     <categoryId>2</categoryId>
     <picture>https://picua.org/images/2019/03/29/cee068de86be383ca5324c163d8bd547.jpg</picture>
     <picture>https://picua.org/images/2019/03/29/8d9eecd743f3f1f2e936b4cb0461f3b6.jpg</picture>
     <picture>http://i.piccy.info/i9/6eef4f5eae477a6e96f41ebcce8adbff/1564401395/145485/1329562/blue_03.jpg</picture>
     <name>Рюкзак Anmeilu 20 л Blue (1023)</name>
+	<stock_quantity>5</stock_quantity>
     <vendor>Anmeilu</vendor>
     <vendorCode>1023</vendorCode>
     <description>
@@ -524,13 +532,14 @@
   
 <offer id="741935018" available="true" >
 <url>https://leobox.com.ua/p741935018-ryukzak-anmeilu-20l.html</url>
-    <price>1299</price>
+    <price>1099</price>
     <currencyId>UAH</currencyId>
     <categoryId>2</categoryId>
     <picture>http://i.piccy.info/i9/37a5f84f507d4ce9f766b94b947995b4/1564047760/168812/1329562/gre01.jpg</picture>
     <picture>http://i.piccy.info/i9/6e147fce538f2e0cf279e7fd99d3bf45/1564047830/88381/1329562/gre02.jpg</picture>
     <picture>http://i.piccy.info/i9/8a72c1f2c66e28aaa65de579b6cc3d9a/1564047869/96427/1329562/gre03.jpg</picture>
     <name>Рюкзак Anmeilu 20 л Grey (1023)</name>
+	<stock_quantity>5</stock_quantity>
     <vendor>Anmeilu</vendor>
     <vendorCode>1023-d</vendorCode>
     <description>
@@ -586,13 +595,14 @@
 
 <offer id="998200899" available="false" >
 <url>https://leobox.com.ua/p998200899-ryukzak-anmeilu-20l.html</url>
-    <price>1299</price>
+    <price>1099</price>
     <currencyId>UAH</currencyId>
     <categoryId>2</categoryId>
     <picture>http://i.piccy.info/i9/3fd4851586d07d115ac79ed1343cddc3/1564395529/174400/1329562/01.jpg</picture>
     <picture>http://i.piccy.info/i9/75106230b6e284d615b64bf8f0514698/1564395557/127871/1329562/02.jpg</picture>
     <picture>http://i.piccy.info/i9/6230b048322877bcdb0b0a0a4abd2bb0/1564395613/133400/1329562/04.jpg</picture>
     <name>Рюкзак Anmeilu 20 л black (1023)</name>
+	<stock_quantity>5</stock_quantity>
     <vendor>Anmeilu</vendor>
     <vendorCode>1023-b</vendorCode>
     <description>
@@ -648,13 +658,14 @@
 
 <offer id="742043943" available="true" >
 <url>https://leobox.com.ua/p742043943-ryukzak-anmeilu-20l.html</url>
-    <price>1299</price>
+    <price>1099</price>
     <currencyId>UAH</currencyId>
     <categoryId>2</categoryId>
     <picture>https://picua.org/images/2019/04/12/0372b8aabfadb651b7ff1bfee1771055.jpg</picture>
     <picture>https://picua.org/images/2019/04/12/82c26ed7f25028bf4620026ceef87e39.jpg</picture>
     <picture>https://picua.org/images/2019/04/12/e66f6b5395b801010612b8edcd52b18a.jpg</picture>
     <name>Рюкзак Anmeilu 20 л Green (1025)</name>
+	<stock_quantity>5</stock_quantity>
     <vendor>Anmeilu</vendor>
     <vendorCode>1025-g</vendorCode>
     <description>
@@ -709,13 +720,14 @@
 
 <offer id="742046989" available="true" >
 <url>https://leobox.com.ua/p742046989-ryukzak-anmeilu-20l.html</url>
-    <price>1299</price>
+    <price>1099</price>
     <currencyId>UAH</currencyId>
     <categoryId>2</categoryId>
     <picture>https://picua.org/images/2019/04/12/5f58bb12e6ca7b94361447002309d4a7.jpg</picture>
     <picture>https://picua.org/images/2019/04/12/3b7e0716aa52626fc79041b326100c2c.jpg</picture>
     <picture>https://picua.org/images/2019/04/12/24e0ef38263fdd660f7e6ac76f0bb877.jpg</picture>
     <name>Рюкзак Anmeilu 20 л Blue (1025)</name>
+	<stock_quantity>5</stock_quantity>
     <vendor>Anmeilu</vendor>
     <vendorCode>1025-b</vendorCode>
     <description>
@@ -774,12 +786,13 @@
 
 <offer id="998581390" available="true" >
 <url>https://leobox.com.ua/p998581390-ryukzak-anmeilu-50l.html</url>
-    <price>1649</price>
+    <price>1549</price>
     <currencyId>UAH</currencyId>
     <categoryId>2</categoryId>
     <picture>http://i.piccy.info/i9/bf58e99b287fd3318c5f20c76ca0f2b9/1568708114/187275/1329562/01_r.jpg</picture>
     <picture>http://i.piccy.info/i9/f19e19f125bee32f146972b48679bd62/1568708132/123688/1329562/02_r.jpg</picture>
 	<name>Рюкзак туристический Anmeilu 50 Red</name>
+	<stock_quantity>5</stock_quantity>
     <vendor>Anmeilu</vendor>
     <vendorCode>6002_1</vendorCode>
     <description>
@@ -838,13 +851,14 @@
 
 <offer id="998225896" available="true" >
 <url>https://leobox.com.ua/p998225896-ryukzak-anmeilu-50l.html</url>
-    <price>1649</price>
+    <price>1549</price>
     <currencyId>UAH</currencyId>
     <categoryId>2</categoryId>
     <picture>http://i.piccy.info/i9/e249a20006d21df46f0f39292cb9f990/1568708637/86925/1329562/01_b.jpg</picture>
     <picture>http://i.piccy.info/i9/44e1bafcd6c77acc0c247e2455ec2c96/1568708673/95590/1329562/03_b.jpg</picture>
 	<picture>http://i.piccy.info/i9/2a897a9a57f2f66ad4d0cf0a5999e92b/1568708703/57659/1329562/02_b.jpg</picture>
 	<name>Рюкзак туристический Anmeilu 50 Green</name>
+	<stock_quantity>5</stock_quantity>
     <vendor>Anmeilu</vendor>
     <vendorCode>6002</vendorCode>
     <description>
@@ -906,13 +920,14 @@
 # pentagram 23 max
 <offer id="998688713" available="true" >
 <url>https://leobox.com.ua/p998688713-ryukzak-pentagram-karkasna.html</url>
-    <price>1249</price>
+    <price>1149</price>
     <currencyId>UAH</currencyId>
     <categoryId>2</categoryId>
     <picture>http://i.piccy.info/i9/e36bac512463e4c88750d29b782454d0/1564474379/156287/1329562/S003_23l_black_01.jpg</picture>
     <picture>http://i.piccy.info/i9/629c047209772bc614987b4b3140b7f8/1564474404/109920/1329562/S003_23l_black_02.jpg</picture>
     <picture>http://i.piccy.info/i9/26f53bd6a5f040065f413689e1e96472/1564474426/111597/1329562/S003_23l_black_03.jpg</picture>
 	<name>Рюкзак універсальний Pentagram 23 MAX Black (S003)</name>
+	<stock_quantity>5</stock_quantity>
     <vendor>Pentagram</vendor>
     <vendorCode>S003</vendorCode>
     <description>
@@ -969,13 +984,14 @@
 
 <offer id="998699521" available="true" >
 <url>https://leobox.com.ua/p998699521-ryukzak-pentagram-karkasna.html</url>
-    <price>1249</price>
+    <price>1149</price>
     <currencyId>UAH</currencyId>
     <categoryId>2</categoryId>
     <picture>http://i.piccy.info/i9/4d74bd3efb60de156a2b6fd7d7a002f4/1564474884/166488/1329562/S003_23l_nb_01.jpg</picture>
     <picture>http://i.piccy.info/i9/134abe95b8cbed04b18752c2bc0793c8/1564474913/146085/1329562/S003_23l_nb_02.jpg</picture>
     <picture>http://i.piccy.info/i9/bf99cfcbd910431c8baa42a0fc7ac092/1564474943/148338/1329562/S003_23l_nb_03.jpg</picture>
 	<name>Рюкзак універсальний Pentagram 23 MAX Deep Blue (S003)</name>
+	<stock_quantity>5</stock_quantity>
     <vendor>Pentagram</vendor>
     <vendorCode>S003n</vendorCode>
     <description>
@@ -1036,12 +1052,13 @@
 # pentagram 35 1300
 <offer id="928209987" available="true" >
 <url>https://leobox.com.ua/p928209987-ryukzak-pentagram-20l.html</url>
-    <price>1199</price>
+    <price>1099</price>
     <currencyId>UAH</currencyId>
     <categoryId>2</categoryId>
     <picture>http://i.piccy.info/i9/c9d40a3dd0cb40e7f8f71213145c161a/1564396732/155720/1329562/s002_01.jpg</picture>
     <picture>http://i.piccy.info/i9/21ae547729c5e4650ef9527cb6d7d621/1564396792/229586/1329562/s002_02.jpg</picture>
 	<name>Рюкзак універсальний Pentagram 20 л Black </name>
+	<stock_quantity>1</stock_quantity>
     <vendor>Pentagram</vendor>
     <vendorCode>PM-S002</vendorCode>
     <description>
@@ -1093,13 +1110,14 @@
 
 <offer id="744476220" available="true" >
     <url>https://leobox.com.ua/p744476220-turisticheskij-ryukzak-pentagram.html</url>
-    <price>1399</price>
+    <price>1299</price>
     <currencyId>UAH</currencyId>
     <categoryId>2</categoryId>
     <picture>http://i.piccy.info/i9/627db2dc198859ea0a9aab8025dc4f96/1564397897/226107/1329562/pm02_biruz_01.jpg</picture>
     <picture>http://i.piccy.info/i9/91b66975606cc87b82146e7081392914/1564397917/157945/1329562/pm02_biruz_02.jpg</picture>
     <picture>http://i.piccy.info/i9/68096b946037f333c228496b9e3ca567/1564397961/139874/1329562/pm02_biruz_03.jpg</picture>
     <name>Рюкзак універсальний Pentagram 35 л Peacock Blue (PM002) </name>
+	<stock_quantity>5</stock_quantity>
     <vendor>Pentagram</vendor>
     <vendorCode>PM002-40z</vendorCode>
     <description>
@@ -1165,13 +1183,14 @@
 
 <offer id="998386948" available="true" >
     <url>https://leobox.com.ua/p998386948-turisticheskij-ryukzak-pentagram.html</url>
-    <price>1399</price>
+    <price>1299</price>
     <currencyId>UAH</currencyId>
     <categoryId>2</categoryId>
     <picture>http://i.piccy.info/i9/14b18b55c53f4c97e22aa372cd9f4a19/1564397467/129562/1329562/pm02_asf_021.jpg</picture>
     <picture>http://i.piccy.info/i9/2c7d7e51c4c79354365d17434f3e296f/1564397495/219049/1329562/pm02_asf_01.jpg</picture>
     <picture>http://i.piccy.info/i9/4902a910603ef831eacea66dbe819397/1564397516/106836/1329562/pm02_asf_03.jpg</picture>
     <name>Рюкзак універсальний Pentagram 35 л Navy Blue (PM002) </name>
+	<stock_quantity>5</stock_quantity>
     <vendor>Pentagram</vendor>
     <vendorCode>PM002-40h</vendorCode>
     <description>
@@ -1237,13 +1256,14 @@
 
 <offer id="1000657948" available="true" >
     <url>https://leobox.com.ua/p1000657948-turisticheskij-ryukzak-pentagram.html</url>
-    <price>1399</price>
+    <price>1299</price>
     <currencyId>UAH</currencyId>
     <categoryId>2</categoryId>
     <picture>http://i.piccy.info/i9/723814560a3aa9cb77eb58213ad7dac4/1564398620/162785/1329562/pm02_lgreen_02.jpg</picture>
     <picture>http://i.piccy.info/i9/a95de2da99bb24b5e1daf22dbb5b9cf0/1564398639/173177/1329562/pm02_lgreen_01.jpg</picture>
     <picture>http://i.piccy.info/i9/be7a1ba31d75d43902107933e3459110/1564398654/127703/1329562/pm02_lgreen_03.jpg</picture>
     <name>Рюкзак універсальний Pentagram 35 л Apple Green (PM002) </name>
+	<stock_quantity>5</stock_quantity>
     <vendor>Pentagram</vendor>
     <vendorCode>PM002-40s</vendorCode>
     <description>
@@ -1309,13 +1329,15 @@
 
 <offer id="722431017" available="true" >
     <url>https://leobox.com.ua/p722431017-turisticheskij-ryukzak-pentagram.html</url>
-    <price>1399</price>
+    <price>1299</price>
+	<price_promo>1249</price_promo>
     <currencyId>UAH</currencyId>
     <categoryId>2</categoryId>
     <picture>http://i.piccy.info/i9/2bf86116c0fe8f3cada2fa23fe620968/1564399238/226079/1329562/pm02_haki_01.jpg</picture>
     <picture>http://i.piccy.info/i9/34e93afac2f2fdb4a4e3af08bf412ba3/1564398928/153678/1329562/pm02_haki_023.jpg</picture>
     <picture>http://i.piccy.info/i9/202e9e91487627c4921bdc671a5e4035/1564399393/153850/1329562/pm02_haki_02.jpg</picture>
     <name>Рюкзак універсальний Pentagram 35 л Army Green (PM002)</name>
+	<stock_quantity>5</stock_quantity>
     <vendor>Pentagram</vendor>
     <vendorCode>PM002-40</vendorCode>
     <description>
@@ -1381,13 +1403,14 @@
   
 <offer id="998381504" available="true" >
     <url>https://leobox.com.ua/p998381504-turisticheskij-ryukzak-pentagram.html</url>
-    <price>1399</price>
+    <price>1299</price>
     <currencyId>UAH</currencyId>
     <categoryId>2</categoryId>
     <picture>http://i.piccy.info/i9/60463f1cd3c95e249dddcdb1bfa9d892/1565854440/194401/1329562/pm02_black_01.jpg</picture>
     <picture>http://i.piccy.info/i9/58e869a5dd8ee0fe7e7fd594f691896a/1565854481/121390/1329562/pm02_black_02.jpg</picture>
     <picture>http://i.piccy.info/i9/7310326553d92be7aad7e373ed5f6b92/1565854514/115281/1329562/pm02_black_03.jpg</picture>
     <name>Рюкзак універсальний Pentagram 35 л Black (PM002)</name>
+	<stock_quantity>1</stock_quantity>
     <vendor>Pentagram</vendor>
     <vendorCode>PM002-40b</vendorCode>
     <description>
@@ -1449,13 +1472,14 @@
 # pentagram 35 900
 <offer id="722711979" available="true" >
 <url>https://leobox.com.ua/p722711979-ryukzak-pentagram-35l.html</url>
-    <price>1249</price>
+    <price>1099</price>
     <currencyId>UAH</currencyId>
     <categoryId>2</categoryId>
     <picture>https://picua.org/images/2019/04/12/fb0c35a91d2b176830d76fabf313afd1.jpg</picture>
     <picture>https://picua.org/images/2019/04/12/545a89932fec0db5ad6f2f19e499322b.jpg</picture>
     <picture>https://picua.org/images/2019/04/12/19e9405b50790f67d398d4d2688b61a4.jpg</picture>
     <name>Рюкзак універсальний Pentagram 35 л Peacock Blue (PM06)</name>
+	<stock_quantity>5</stock_quantity>
     <vendor>Pentagram</vendor>
     <vendorCode>PM06p</vendorCode>
     <description>
@@ -1517,13 +1541,14 @@
 <offer id="722706006" available="true" >
  
 <url>https://leobox.com.ua/p722706006-ryukzak-pentagram-35l.html</url>
-    <price>1249</price>
+    <price>1099</price>
     <currencyId>UAH</currencyId>
     <categoryId>2</categoryId>
     <picture>https://picua.org/images/2019/04/04/ccdce26d4b67659a8d0ba530e6094a65.jpg</picture>
     <picture>https://picua.org/images/2019/04/04/345975d4b2151e5413e3f2dc02b8cefb.jpg</picture>
     <picture>https://picua.org/images/2019/04/04/4c56979bb1c08a54e9d9c82453bb55cf.jpg</picture>
     <name>Рюкзак універсальний Pentagram 35 л Navy Blue (PM06)</name>
+	<stock_quantity>5</stock_quantity>
     <vendor>Pentagram</vendor>
     <vendorCode>PM06n</vendorCode>
     <description>
@@ -1584,13 +1609,14 @@
  
 <offer id="722711266" available="true" >
 <url>https://leobox.com.ua/p722711266-ryukzak-pentagram-35l.html</url>
-    <price>1249</price>
+    <price>999</price>
     <currencyId>UAH</currencyId>
     <categoryId>2</categoryId>
     <picture>https://picua.org/images/2019/04/12/bad0b368f46056bde3252bbd72feaf6e.jpg</picture>
     <picture>https://picua.org/images/2019/04/12/92b7dff434322578809e46097b4860a0.jpg</picture>
     <picture>https://picua.org/images/2019/04/12/87f4500647fa0aa2f1a759b4e709294f.jpg</picture>
     <name>Рюкзак універсальний Pentagram 35 л Orange (PM06)</name>
+	<stock_quantity>5</stock_quantity>
     <vendor>Pentagram</vendor>
     <vendorCode>PM06o</vendorCode>
     <description>
@@ -1651,7 +1677,7 @@
 
 <offer id="998584124" available="true" >
 <url>https://leobox.com.ua/p998584124-ryukzak-pentagram-karkasna.html</url>
-    <price>1249</price>
+    <price>1099</price>
     <currencyId>UAH</currencyId>
     <categoryId>2</categoryId>
     <picture>http://i.piccy.info/i9/e2379ed6b14aca96a86404e6145d749c/1564466848/209829/1329562/pmd08_haki_01.jpg</picture>
@@ -1659,6 +1685,7 @@
     <picture>http://i.piccy.info/i9/1f62539e908d0fe5c8de7789d4706436/1564466888/204478/1329562/pmd08_haki_04.jpg</picture>
 	<picture>http://i.piccy.info/i9/b3771c879b1c72e7c00aff190403c78b/1564466909/165600/1329562/pmd08_haki_02.jpg</picture>
     <name>Рюкзак універсальний Pentagram 35 л Army Green (PM06)</name>
+	<stock_quantity>5</stock_quantity>
     <vendor>Pentagram</vendor>
     <vendorCode>PM006_h</vendorCode>
     <description>
@@ -1717,15 +1744,16 @@
 	<param name="цвет">Зеленый</param>
   </offer>
  
- <offer id="998583654" available="true" >
+ <offer id="998583654" available="false" >
 <url>https://leobox.com.ua/p998583654-ryukzak-pentagram-karkasna.html</url>
-    <price>1249</price>
+    <price>1099</price>
     <currencyId>UAH</currencyId>
     <categoryId>2</categoryId>
     <picture>http://i.piccy.info/i9/80d96419c72aba06887d24073592f194/1564471721/166228/1329562/pmd07_black_01.jpg</picture>
     <picture>http://i.piccy.info/i9/4b28b517fcecc3d784b62b647ad0bc83/1564471773/180651/1329562/pmd07_black_02.jpg</picture>
     <picture>http://i.piccy.info/i9/9a9e74b4bf2a773178a574bba40387b2/1564471800/179457/1329562/pmd07_black_03.jpg</picture>
     <name>Рюкзак універсальний Pentagram 35 л Black (PM06)</name>
+	<stock_quantity>5</stock_quantity>
     <vendor>Pentagram</vendor>
     <vendorCode>PM006_b</vendorCode>
     <description>
@@ -1796,8 +1824,8 @@
     <picture>http://i.piccy.info/i9/d0ea4c023d9be9ba29aef0f18ab88b50/1564472543/226107/1329562/pm02_biruz_01.jpg</picture>
     <picture>http://i.piccy.info/i9/a6eebd264495d4692ff297a0c266cf3d/1564472568/157945/1329562/pm02_biruz_02.jpg</picture>
     <picture>http://i.piccy.info/i9/29fb275ab403ebb51035cb70ab2bbef6/1564472584/139874/1329562/pm02_biruz_03.jpg</picture>
-
 	<name>Рюкзак універсальний Pentagram 50 л Peacock Blue (PM002)</name>
+	<stock_quantity>5</stock_quantity>
     <vendor>Pentagram</vendor>
     <vendorCode>PM002-50br</vendorCode>
     <description>
@@ -1869,8 +1897,8 @@
     <picture>http://i.piccy.info/i9/dd802455ce70351dcfa75c2ae98f8b71/1564472864/162785/1329562/pm02_lgreen_02.jpg</picture>
     <picture>http://i.piccy.info/i9/2b30a0ff4ef0579a4e528b15417a60dd/1564472923/173177/1329562/pm02_lgreen_01.jpg</picture>
     <picture>http://i.piccy.info/i9/401a5ae8a1e60a5d7bc4ac82b23737d3/1564472939/127703/1329562/pm02_lgreen_03.jpg</picture>
-
 	<name>Рюкзак універсальний Pentagram 50 л Apple Green (PM002)</name>
+	<stock_quantity>5</stock_quantity>
     <vendor>Pentagram</vendor>
     <vendorCode>PM002-50s</vendorCode>
     <description>
@@ -1942,8 +1970,8 @@
     <picture>http://i.piccy.info/i9/3f3817cb8587ef2b3730aaf52d1bc533/1564473077/141056/1329562/pm02_blue_022.jpg</picture>
     <picture>http://i.piccy.info/i9/33ea49b837208a1082e66c76b1b4eb18/1564473135/174703/1329562/pm02_blue_01.jpg</picture>
     <picture>http://i.piccy.info/i9/a4a7412dc004c4f00fc01316609b38e6/1564473154/112690/1329562/pm02_blue_033.jpg</picture>
-
 	<name>Рюкзак універсальний Pentagram 50 л Lake Blue (PM002)</name>
+	<stock_quantity>5</stock_quantity>
     <vendor>Pentagram</vendor>
     <vendorCode>PM002-50b</vendorCode>
     <description>
@@ -2015,8 +2043,8 @@
     <picture>https://picua.org/images/2019/04/12/b256fccc0a60ee4c6ad0ac54b661eef2.jpg</picture>
     <picture>https://picua.org/images/2019/04/12/304c24ba4b562b684c4346ca548ce3fb.jpg</picture>
     <picture>https://picua.org/images/2019/04/12/09baef7626f41371612cebba623e45d2.jpg</picture>
-
 	<name>Рюкзак універсальний Pentagram 50 л Claret Red (PM002)</name>
+	<stock_quantity>5</stock_quantity>
     <vendor>Pentagram</vendor>
     <vendorCode>PM002-50r</vendorCode>
     <description>
@@ -2089,6 +2117,7 @@
     <picture>https://picua.org/images/2019/04/04/33fff78586bb1c76d1f1111f2331ea6f.jpg</picture>
     <picture>https://picua.org/images/2019/04/04/ae5023430d1b7ba1ac82310b3a2d637a.jpg</picture>
     <name>Рюкзак універсальний Pentagram 50 л Black (PM002)</name>
+	<stock_quantity>0</stock_quantity>
     <vendor>Pentagram</vendor>
     <vendorCode>PM002-50-black</vendorCode>
     <description>
@@ -2161,6 +2190,7 @@
     <picture>http://i.piccy.info/i9/f21588bc145b6ba16f3a31ec5a256f17/1565773607/153850/1329562/pm02_haki_02.jpg</picture>
     <picture>http://i.piccy.info/i9/fb671f25804400b99ff3812e3a61f56a/1565773639/119559/1329562/pm02_haki_04.jpg</picture>
     <name>Рюкзак універсальний Pentagram 50 л Army Green (PM002)</name>
+	<stock_quantity>5</stock_quantity>
     <vendor>Pentagram</vendor>
     <vendorCode>PM002-50h</vendorCode>
     <description>
@@ -2233,6 +2263,7 @@
     <picture>http://i.piccy.info/i9/d56d6fe8f3bceff8c9431aaa359ad8e9/1564400077/123398/1329562/40_max_02.jpg</picture>
     <picture>http://i.piccy.info/i9/c51a542529c98c37f99e95bc0d91330a/1564400107/106280/1329562/40_max_03.jpg</picture>
 	<name>Рюкзак універсальний Pentagram 40 max Army Green (PM001)</name>
+    <stock_quantity>0</stock_quantity>
     <vendor>Pentagram</vendor>
     <vendorCode>PM007b</vendorCode>
     <description>
@@ -2293,6 +2324,7 @@
     <picture>http://i.piccy.info/i9/d0e5ebc9a033e6bfe19310611dd23e76/1564479149/121782/1329562/pm01_bl.jpg</picture>
     <picture>http://i.piccy.info/i9/d5418cf63b3a06b300cc30075198ee54/1564480009/139421/1329562/pm01_bl_01.jpg</picture>
 	<name>Рюкзак універсальний Pentagram 40 max Navy Blue (PM001)</name>
+	<stock_quantity>5</stock_quantity>
     <vendor>Pentagram</vendor>
     <vendorCode>PM007bl</vendorCode>
     <description>
@@ -2353,6 +2385,7 @@
     <picture>http://i.piccy.info/i9/19541c69e87653e194c39ad8bb3b2f04/1564480303/230188/1329562/pm01_black.jpg</picture>
     <picture>http://i.piccy.info/i9/34ef48f234f2983da80d2b21819d18c0/1564480327/182444/1329562/pm01_bl_1.jpg</picture>
 	<name>Рюкзак універсальний Pentagram 40 max Black (PM001)</name>
+	<stock_quantity>5</stock_quantity>
     <vendor>Pentagram</vendor>
     <vendorCode>PM007black</vendorCode>
     <description>
@@ -2416,6 +2449,7 @@
     <picture>http://i.piccy.info/i9/f5d3be600b38fdb0dba01192fe075ab5/1567513762/147640/1329562/pm005_r_02.jpg</picture>
 	<picture>http://i.piccy.info/i9/953688e904111e37b62c62a70cbc6400/1567513158/201940/1329562/pm005_r_03.jpg</picture>
 	<name>Рюкзак туристический Pentagram 50 max  Red (PM-M005)</name>
+	<stock_quantity>3</stock_quantity>
     <vendor>Pentagram</vendor>
     <vendorCode>M005-50r</vendorCode>
     <description>
@@ -2480,6 +2514,7 @@
     <picture>http://i.piccy.info/i9/706e4fc1fd5583139377b92320e0d6e4/1567573682/114069/1329562/pm005_g_02.jpg</picture>
 	<picture>http://i.piccy.info/i9/f5d17103ff15faa1f2bb64ac54a9fab4/1567573703/114032/1329562/pm005_g_03.jpg</picture>
 	<name>Рюкзак туристический Pentagram 50 max  Green (PM-M005)</name>
+	<stock_quantity>3</stock_quantity>
     <vendor>Pentagram</vendor>
     <vendorCode>M005-50g</vendorCode>
     <description>
@@ -2543,6 +2578,7 @@
     <picture>http://i.piccy.info/i9/23d0116f5a6f64e256fce78aaf942faa/1567574178/193402/1329562/pm005_nb_01.jpg</picture>
     <picture>http://i.piccy.info/i9/a22b0a20ab6b81adde7b7942dd349eff/1567574260/184105/1329562/pm005_nb_02.jpg</picture>
 	<name>Рюкзак туристический Pentagram 50 max  Peacock Blue (PM-M005)</name>
+	<stock_quantity>5</stock_quantity>
     <vendor>Pentagram</vendor>
     <vendorCode>M005-50b</vendorCode>
     <description>
@@ -2609,6 +2645,7 @@
     <picture>http://i.piccy.info/i9/e2cab125de62c5e1f18fb5357f0c06f5/1564477009/193505/1329562/pm005_nb_01.jpg</picture>
     <picture>http://i.piccy.info/i9/d205cb7a6245bb8a2034c97e84ae76ad/1564477033/190426/1329562/pm005_nb_02.jpg</picture>
 	<name>Рюкзак туристический Pentagram 60 max  Peacock Blue (PM-M005)</name>
+	<stock_quantity>0</stock_quantity>
     <vendor>Pentagram</vendor>
     <vendorCode>M005-60</vendorCode>
     <description>
@@ -2664,6 +2701,7 @@
     <picture>http://i.piccy.info/i9/91dbbc4ba50f812670a2d9a56a9b7dfb/1564477302/114032/1329562/pm005_g_03.jpg</picture>
 	<picture>http://i.piccy.info/i9/b18e21d1eeee7a2fe6172b6920c0eba8/1564477347/114069/1329562/pm005_g_02.jpg</picture>
 	<name>Рюкзак туристический Pentagram 60 max  Green (PM-M005)</name>
+	<stock_quantity>0</stock_quantity>
     <vendor>Pentagram</vendor>
     <vendorCode>M005-60z</vendorCode>
     <description>
@@ -2725,6 +2763,7 @@
     <picture>http://i.piccy.info/i9/5d53209cbfc4af69e900623173b9bc81/1565329049/99478/1329562/02.jpg</picture>
 	<picture>http://i.piccy.info/i9/8437fe684ccd178bb4f58ed220bca1f4/1565329068/104888/1329562/03.jpg</picture>
 	<name>Смарт тв приставка - X99 rk3399 4gb / 64gb</name>
+	<stock_quantity>10</stock_quantity>
     <vendor>LX Store</vendor>
     <vendorCode>3399-1b</vendorCode>
     <description>
@@ -2793,6 +2832,7 @@
     <picture>http://i.piccy.info/i9/1150479cc39a7c354b17e632b9a0f5a0/1565867811/130801/1329562/03.jpg</picture>
 	<picture>http://i.piccy.info/i9/884f325b2a61bea6e218339f49141948/1565867827/145794/1329562/02.jpg</picture>
 	<name>Смарт тв приставка T95Q 4gb/32gb</name>
+	<stock_quantity>10</stock_quantity>
     <vendor>LX Store</vendor>
     <vendorCode>T95Q_32b</vendorCode>
     <description>
@@ -2846,13 +2886,14 @@
  
 <offer id="854544054" available="true" >
 <url>https://leobox.com.ua/p854544054-t95x2-432-s905x2.html</url>
-    <price>1849</price>
+    <price>1699</price>
     <currencyId>UAH</currencyId>
     <categoryId>3</categoryId>
     <picture>http://i.piccy.info/i9/9ba865c4926ed377894ad1b65c16651d/1566892080/120492/1329562/01.jpg</picture>
     <picture>http://i.piccy.info/i9/38aef03748474f67c1a89ef25d7cf3b9/1566892119/167984/1329562/02.jpg</picture>
 	<picture>http://i.piccy.info/i9/033eea4e922ac98bd8b55abf1eade469/1566892134/124573/1329562/03.jpg</picture>
 	<name>Смарт тв приставка T95X2 4gb/32gb</name>
+	<stock_quantity>10</stock_quantity>
     <vendor>LX Store</vendor>
     <vendorCode>T95X2_32</vendorCode>
     <description>
@@ -2912,6 +2953,7 @@
     <picture>http://i.piccy.info/i9/3b4edb5daf953758ddf7a46ad6648dc0/1566894005/91868/1329562/02.jpg</picture>
 	<picture>http://i.piccy.info/i9/8695993626237acd2ee3fd62ce1e692b/1566894025/82675/1329562/03.jpg</picture>
 	<name>Смарт тв приставка - Ugoos AM3</name>
+	<stock_quantity>0</stock_quantity>
     <vendor>LX Store</vendor>
     <vendorCode>am3</vendorCode>
     <description>
@@ -2966,12 +3008,14 @@
 <offer id="981414175" available="true" >
 <url>https://leobox.com.ua/p981414175-ugoos-am6-216.html</url>
     <price>4599</price>
+	<price_promo>4499</price_promo>
     <currencyId>UAH</currencyId>
     <categoryId>3</categoryId>
     <picture>http://i.piccy.info/i9/e3d64052ff1019fa310ae4a93e5eab26/1566895313/85463/1329562/02.jpg</picture>
     <picture>http://i.piccy.info/i9/faed558418bfd2dae518a5560f913cca/1566895331/88848/1329562/01.jpg</picture>
 	<picture>http://i.piccy.info/i9/faed0b8c1f4945bc04f5dc28387a1782/1566895361/91583/1329562/03.jpg</picture>
 	<name>Смарт тв приставка - Ugoos AM6</name>
+	<stock_quantity>5</stock_quantity>
     <vendor>LX Store</vendor>
     <vendorCode>am6_b</vendorCode>
     <description>
@@ -3036,6 +3080,7 @@
     <picture>http://i.piccy.info/i9/5f2874b06a6d9a093018136f8f872d5c/1567498482/136243/1329562/02.jpg</picture>
 	<picture>http://i.piccy.info/i9/24f67ac5aeb6a0fd2aacc2dc0dc6fec0/1567498510/120482/1329562/03.jpg</picture>
 	<name>Смарт тв приставка X96 MAX 4gb/64gb</name>
+	<stock_quantity>10</stock_quantity>
     <vendor>LX Store</vendor>
     <vendorCode>x96max_64b</vendorCode>
     <description>
@@ -3096,6 +3141,7 @@
     <picture>http://i.piccy.info/i9/2cb398df633727e0a24dc02c581dfa6c/1567499759/111207/1329562/02.jpg</picture>
 	<picture>http://i.piccy.info/i9/3fee1f114156fee7da2de0d79057d3df/1567499933/106381/1329562/03.jpg</picture>
 	<name>Смарт тв приставка Mecool KM3 4gb/64gb</name>
+	<stock_quantity>10</stock_quantity>
     <vendor>LX Store</vendor>
     <vendorCode>Km3_atv_b</vendorCode>
     <description>
@@ -3159,6 +3205,7 @@
     <picture>http://i.piccy.info/i9/2bb9d4f0896b674fce25c6dc65534322/1566386038/148757/1329562/03.jpg</picture>
 	<picture>http://i.piccy.info/i9/698d8b492afbc173e2d80c63a42b25cc/1566386060/120250/1329562/02.jpg</picture>
 	<name>Зволожувач повітря Meling MH-158</name>
+	<stock_quantity>0</stock_quantity>
     <vendor>LX Store</vendor>
     <vendorCode>ML_MH158</vendorCode>
     <description>
@@ -3199,12 +3246,14 @@
 <offer id="983679825" available="true" >
 <url>https://leobox.com.ua/p983679825-deerma-dem-f628.html</url>
     <price>1299</price>
+	<price_promo>1199</price_promo>
     <currencyId>UAH</currencyId>
     <categoryId>7</categoryId>
     <picture>http://i.piccy.info/i9/67bcfa6fa0babcfadb66b5b4ba6c3bf9/1566383296/94610/1329562/01.jpg</picture>
     <picture>http://i.piccy.info/i9/ecb18a975e237254a54d70e6619f59e7/1566383319/175128/1329562/02.jpg</picture>
 	<picture>http://i.piccy.info/i9/6561d1eea258dde36de01119bae7ba5b/1566383341/160206/1329562/03.jpg</picture>
 	<name>Зволожувач повітря Deerma DEM-F628</name>
+	<stock_quantity>30</stock_quantity>
     <vendor>LX Store</vendor>
     <vendorCode>Dr_F628</vendorCode>
     <description>
@@ -3245,12 +3294,14 @@
 <offer id="1012613312" available="true" >
 <url>https://leobox.com.ua/p1012613312-deerma-dem-f600.html</url>
     <price>1449</price>
+	<price_promo>1399</price_promo>
     <currencyId>UAH</currencyId>
     <categoryId>7</categoryId>
     <picture>http://i.piccy.info/i9/f5f81eb7a3c11fad48515e1ddc75e180/1566377615/108011/1329562/01.jpg</picture>
     <picture>http://i.piccy.info/i9/4f1b296c29dcb90e9f1c8f1fe53f4ce3/1566377642/257042/1329562/02.jpg</picture>
 	<picture>http://i.piccy.info/i9/ce3654a4a5e2460fc36ef96534c9c11a/1566377675/170086/1329562/03.jpg</picture>
 	<name>Зволожувач повітря Deerma DEM-F600</name>
+	<stock_quantity>10</stock_quantity>
     <vendor>LX Store</vendor>
     <vendorCode>Dr_F600</vendorCode>
     <description>
@@ -3289,11 +3340,13 @@
 <offer id="983180605" available="true" >
 <url>https://leobox.com.ua/p983180605-deerma-dem-f500.html</url>
     <price>1599</price>
+	<price_promo>1549</price_promo>
     <currencyId>UAH</currencyId>
     <categoryId>7</categoryId>
     <picture>http://i.piccy.info/i9/18ac2f8dc0470781c7716a20fe45868c/1566383552/86907/1329562/01.jpg</picture>
     <picture>http://i.piccy.info/i9/5b5ac0ab48c0a8e68dbe09c2eb0a79ab/1566383579/187343/1329562/02.jpg</picture>
 	<name>Зволожувач повітря Deerma DEM-F500</name>
+	<stock_quantity>10</stock_quantity>
     <vendor>LX Store</vendor>
     <vendorCode>Dr_F500</vendorCode>
     <description>
@@ -3343,6 +3396,7 @@
 	<picture>http://ipic.su/img/img7/fs/03.1571378149.jpg</picture>
 	<picture>http://ipic.su/img/img7/fs/04.1571378180.jpg</picture>
 	<name>Зволожувач повітря Deerma sjs-100</name>
+	<stock_quantity>4</stock_quantity>
     <vendor>LX Store</vendor>
     <vendorCode>Dr_sjs100</vendorCode>
     <description>
@@ -3383,6 +3437,7 @@
 	<picture>https://picua.org/images/2019/10/24/60a1a1507dff3dc6b6772ddc2f3d4179.jpg</picture>
     <picture>https://picua.org/images/2019/10/24/61a1d99c876b6d3ec37a44cf5291d800.jpg</picture>
 	<name>Deerma DEM-F300 Увлажнитель воздуха</name>
+	<stock_quantity>18</stock_quantity>
     <vendor>LX Store</vendor>
     <vendorCode>Dr_F300</vendorCode>
     <description>

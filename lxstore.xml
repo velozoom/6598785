@@ -3337,7 +3337,7 @@
 	<param name="Цвет">Белый</param>
   </offer>
  
-<offer id="983180605" available="true" >
+<offer id="983180605" available="false" >
 <url>https://leobox.com.ua/p983180605-deerma-dem-f500.html</url>
     <price>1599</price>
 	<price_promo>1549</price_promo>
@@ -3346,7 +3346,7 @@
     <picture>http://i.piccy.info/i9/18ac2f8dc0470781c7716a20fe45868c/1566383552/86907/1329562/01.jpg</picture>
     <picture>http://i.piccy.info/i9/5b5ac0ab48c0a8e68dbe09c2eb0a79ab/1566383579/187343/1329562/02.jpg</picture>
 	<name>Зволожувач повітря Deerma DEM-F500</name>
-	<stock_quantity>10</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendor>LX Store</vendor>
     <vendorCode>Dr_F500</vendorCode>
     <description>

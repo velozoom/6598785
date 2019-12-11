@@ -3071,7 +3071,7 @@
 	<param name="Цвет">Черный</param>
   </offer>
  
-<offer id="925592188" available="true" >
+<offer id="925592188" available="false" >
 <url>https://leobox.com.ua/p925592188-x96-max-464.html</url>
     <price>1899</price>
     <currencyId>UAH</currencyId>
@@ -3132,7 +3132,7 @@
 	<param name="Цвет">Черный</param>
   </offer>
 
-<offer id="947645560" available="true" >
+<offer id="947645560" available="false" >
 <url>https://leobox.com.ua/p947645560-mecool-km3-464.html</url>
     <price>2099</price>
     <currencyId>UAH</currencyId>
@@ -3243,7 +3243,7 @@
 	<param name="Цвет">Белый</param>
   </offer> 
 
-<offer id="983679825" available="true" >
+<offer id="983679825" available="false" >
 <url>https://leobox.com.ua/p983679825-deerma-dem-f628.html</url>
     <price>1299</price>
 	<price_promo>1199</price_promo>

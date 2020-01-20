@@ -2823,7 +2823,7 @@
 	<param name="Цвет">Черный</param>
   </offer>
  
-<offer id="925878426" available="true" >
+<offer id="925878426" available="false" >
 <url>https://leobox.com.ua/p925878426-t95q-432-s905x2.html</url>
     <price>1849</price>
     <currencyId>UAH</currencyId>
@@ -2884,7 +2884,7 @@
 	<param name="Цвет">Черный</param>
   </offer>
  
-<offer id="854544054" available="true" >
+<offer id="854544054" available="false" >
 <url>https://leobox.com.ua/p854544054-t95x2-432-s905x2.html</url>
     <price>1699</price>
     <currencyId>UAH</currencyId>
@@ -3005,7 +3005,7 @@
 	<param name="Цвет">Черный</param>
   </offer>
  
-<offer id="981414175" available="true" >
+<offer id="981414175" available="false" >
 <url>https://leobox.com.ua/p981414175-ugoos-am6-216.html</url>
     <price>4599</price>
 	<price_promo>4499</price_promo>

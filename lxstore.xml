@@ -3437,7 +3437,7 @@
 	<picture>https://picua.org/images/2019/10/24/60a1a1507dff3dc6b6772ddc2f3d4179.jpg</picture>
     <picture>https://picua.org/images/2019/10/24/61a1d99c876b6d3ec37a44cf5291d800.jpg</picture>
 	<name>Deerma DEM-F300 Увлажнитель воздуха</name>
-	<stock_quantity>18</stock_quantity>
+	<stock_quantity>10</stock_quantity>
     <vendor>LX Store</vendor>
     <vendorCode>Dr_F300</vendorCode>
     <description>
@@ -3467,9 +3467,9 @@
 	<param name="Реком. площа обслуговування, кв. м">20</param>
 	<param name="Місткість резервуара для води">2,5</param>
 	<param name="Дисплей">Немає</param>
-	<param name="Тип керування">Електронне, Механічне</param>
+	<param name="Тип керування">Механічне</param>
 	<param name="Країна-виробник товару">Китай</param>
-	<param name="Гарантия">3 місяці</param>
+	<param name="Гарантия">6 місяці</param>
 	<param name="Цвет">Белый</param>
   </offer>
 

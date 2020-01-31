@@ -3195,6 +3195,7 @@
   </offer> 
  
  
+ 
  # zvolozhuvachi
 <offer id="985086658" available="false" >
 <url>https://leobox.com.ua/p985086658-meling-158-45l.html</url>
@@ -3254,7 +3255,7 @@
 	<picture>http://i.piccy.info/i9/6561d1eea258dde36de01119bae7ba5b/1566383341/160206/1329562/03.jpg</picture>
 	<name>Зволожувач повітря Deerma DEM-F628</name>
 	<stock_quantity>30</stock_quantity>
-    <vendor>LX Store</vendor>
+    <vendor>Deerma</vendor>
     <vendorCode>Dr_F628</vendorCode>
     <description>
 <![CDATA[ 
@@ -3302,7 +3303,7 @@
 	<picture>http://i.piccy.info/i9/ce3654a4a5e2460fc36ef96534c9c11a/1566377675/170086/1329562/03.jpg</picture>
 	<name>Зволожувач повітря Deerma DEM-F600</name>
 	<stock_quantity>10</stock_quantity>
-    <vendor>LX Store</vendor>
+    <vendor>Deerma</vendor>
     <vendorCode>Dr_F600</vendorCode>
     <description>
 <![CDATA[ 
@@ -3347,7 +3348,7 @@
     <picture>http://i.piccy.info/i9/5b5ac0ab48c0a8e68dbe09c2eb0a79ab/1566383579/187343/1329562/02.jpg</picture>
 	<name>Зволожувач повітря Deerma DEM-F500</name>
 	<stock_quantity>0</stock_quantity>
-    <vendor>LX Store</vendor>
+    <vendor>Deerma</vendor>
     <vendorCode>Dr_F500</vendorCode>
     <description>
 <![CDATA[ 
@@ -3438,7 +3439,7 @@
     <picture>https://picua.org/images/2019/10/24/61a1d99c876b6d3ec37a44cf5291d800.jpg</picture>
 	<name>Deerma DEM-F300 Увлажнитель воздуха</name>
 	<stock_quantity>10</stock_quantity>
-    <vendor>LX Store</vendor>
+    <vendor>Deerma</vendor>
     <vendorCode>Dr_F300</vendorCode>
     <description>
 <![CDATA[ 
@@ -3472,6 +3473,54 @@
 	<param name="Гарантия">6 місяці</param>
 	<param name="Цвет">Белый</param>
   </offer>
+
+<offer id="1098681126" available="false" >
+<url>https://leobox.com.ua/p1098681126-deerma-dem-f628s.html</url>
+    <price>1599</price>
+	<price_promo>1549</price_promo>
+    <currencyId>UAH</currencyId>
+    <categoryId>7</categoryId>
+    <picture>http://i.piccy.info/i9/56ab3559a0bf9027c833aeecf0a20446/1580458283/100046/1329562/01.jpg</picture>
+	<picture>http://i.piccy.info/i9/33293ad79e2c33ae53843820e7e1f1e7/1580458395/142989/1329562/04.jpg</picture>
+	<picture>http://i.piccy.info/i9/879c3492ef371a5f79501c9060b06932/1580458342/145748/1329562/03.jpg</picture>
+	<name>Зволожувач повітря Deerma DEM-F628S</name>
+	<stock_quantity>30</stock_quantity>
+    <vendor>Deerma</vendor>
+    <vendorCode>Dr_F628s</vendorCode>
+    <description>
+<![CDATA[ 
+<p>DeermaA DEM-F628S - компактний зволожувач Deerma Air Humidifier 5L від виробника Xiaomi відрізняється простотою дизайну і набором необхідних функцій. </p>
+
+<p>На лицьовій поверхні розташовані сенсорні кнопки для керування зволожувачем. Це дозволяє вибирати інтенсивність випаровування, задавати необхідний рівень вологості, встановлювати таймер вимкнення та вмикати ультрафіолетову лампу. Для контролю обсягу води в баку передбачено вертикальне віконце. Пристрій обладнаний гігрометром та термометром. Холодний пар</p>
+
+<p><strong>Надійна конструкція і гарний дизайн</strong></p>
+
+<p>Одне з явних переваг DEERMA Humidifier варто відзначити якісну конструкцію з ABS-пластика, сучасний дизайн і приємне біле забарвлення, яка дозволить вписатися пристрою в будь-який інтер'єр.</p>
+
+<p>Особливості:</p>
+<ul>
+<li>Місткість ємності для води - 5 літрів;</li>
+<li>Висока ефективність - до 350 мл / год;</li>
+<li>Можна одночасно використовувати в якості зволожувача і ароматизатора;</li>
+<li>Простий у догляді. Дуже легко розбирається;</li>
+</ul>
+
+ ]]>
+</description>
+
+    <param name="Виробник">Deerma</param>
+	<param name="Продавець">Інші продавці</param>
+	<param name="Основні функції">Ароматизація, Зволоження</param>
+	<param name="Тип">Ароматизатор, Ультразвуковий</param>
+	<param name="Реком. площа обслуговування, кв. м">25</param>
+	<param name="Місткість резервуара для води">5</param>
+	<param name="Дисплей">Є</param>
+	<param name="Тип керування">Електронне, Сенсорне</param>
+	<param name="Країна-виробник товару">Китай</param>
+	<param name="Гарантия">6 місяців</param>
+	<param name="Цвет">Белый</param>
+  </offer> 
+
 
 </offers>
 </shop>

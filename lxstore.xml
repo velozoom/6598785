@@ -3244,7 +3244,7 @@
 	<param name="Цвет">Белый</param>
   </offer> 
 
-<offer id="983679825" available="false" >
+<offer id="983679825" available="true" >
 <url>https://leobox.com.ua/p983679825-deerma-dem-f628.html</url>
     <price>1299</price>
 	<price_promo>1199</price_promo>
@@ -3292,10 +3292,10 @@
 	<param name="Цвет">Белый</param>
   </offer> 
   
-<offer id="1012613312" available="false" >
+<offer id="1012613312" available="true" >
 <url>https://leobox.com.ua/p1012613312-deerma-dem-f600.html</url>
-    <price>1449</price>
-	<price_promo>1399</price_promo>
+    <price>1299</price>
+	<price_promo>1249</price_promo>
     <currencyId>UAH</currencyId>
     <categoryId>7</categoryId>
     <picture>http://i.piccy.info/i9/f5f81eb7a3c11fad48515e1ddc75e180/1566377615/108011/1329562/01.jpg</picture>
@@ -3338,7 +3338,7 @@
 	<param name="Цвет">Белый</param>
   </offer>
  
-<offer id="983180605" available="false" >
+<offer id="983180605" available="true" >
 <url>https://leobox.com.ua/p983180605-deerma-dem-f500.html</url>
     <price>1599</price>
 	<price_promo>1549</price_promo>

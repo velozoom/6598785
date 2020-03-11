@@ -3428,7 +3428,7 @@
 	<param name="Цвет">Белый</param>
 </offer> 
 
-<offer id="1064298699" available="true" >
+<offer id="1064298699" available="false" >
 <url>https://leobox.com.ua/p1064298699-deerma-dem-f300.html</url>
     <price>899</price>
     <currencyId>UAH</currencyId>

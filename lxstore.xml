@@ -718,7 +718,7 @@
 	<param name="цвет">Зеленый</param>
   </offer>
 
-<offer id="742046989" available="true" >
+<offer id="742046989" available="false" >
 <url>https://leobox.com.ua/p742046989-ryukzak-anmeilu-20l.html</url>
     <price>1099</price>
     <currencyId>UAH</currencyId>
@@ -918,7 +918,7 @@
 
 
 # pentagram 23 max
-<offer id="998688713" available="true" >
+<offer id="998688713" available="false" >
 <url>https://leobox.com.ua/p998688713-ryukzak-pentagram-karkasna.html</url>
     <price>1149</price>
     <currencyId>UAH</currencyId>
@@ -1607,7 +1607,7 @@
 	<param name="цвет">Синий</param>
   </offer> 
  
-<offer id="722711266" available="true" >
+<offer id="722711266" available="false" >
 <url>https://leobox.com.ua/p722711266-ryukzak-pentagram-35l.html</url>
     <price>999</price>
     <currencyId>UAH</currencyId>
@@ -2316,7 +2316,7 @@
 	<param name="цвет">Зеленый</param>
   </offer> 
 
-<offer id="928203677" available="true" >
+<offer id="928203677" available="false" >
 <url>https://leobox.com.ua/p928203677-ryukzak-pentagram-max.html</url>
     <price>1499</price>
     <currencyId>UAH</currencyId>
@@ -2377,7 +2377,7 @@
 	<param name="цвет">Синий</param>
   </offer>
 
-<offer id="1013177380" available="true" >
+<offer id="1013177380" available="false" >
 <url>https://leobox.com.ua/p1013177380-ryukzak-pentagram-max.html</url>
     <price>1499</price>
     <currencyId>UAH</currencyId>
@@ -2505,7 +2505,7 @@
 	<param name="цвет">Красный</param>
   </offer>
 
-<offer id="1032763052" available="true" >
+<offer id="1032763052" available="false" >
 <url>https://leobox.com.ua/p1032763052-ryukzak-pentagram-turizm.html</url>
     <price>1799</price>
     <currencyId>UAH</currencyId>

@@ -3131,9 +3131,9 @@
 	<param name="Цвет">Черный</param>
   </offer>
 
-<offer id="947645560" available="false" >
+<offer id="947645560" available="true" >
 <url>https://leobox.com.ua/p947645560-mecool-km3-464.html</url>
-    <price>2099</price>
+    <price>2299</price>
     <currencyId>UAH</currencyId>
     <categoryId>3</categoryId>
     <picture>http://i.piccy.info/i9/fe129b15c3515ff4e4d2c848f1088f61/1567499736/102986/1329562/01.jpg</picture>

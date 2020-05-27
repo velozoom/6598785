@@ -3287,7 +3287,7 @@
 	<param name="Дисплей">Немає</param>
 	<param name="Тип керування">Електронне, Механічне</param>
 	<param name="Країна-виробник товару">Китай</param>
-	<param name="Гарантия">3 місяці</param>
+	<param name="Гарантия">6 місяців</param>
 	<param name="Цвет">Белый</param>
   </offer> 
   
@@ -3333,7 +3333,7 @@
 	<param name="Дисплей">Є</param>
 	<param name="Тип керування">Електронне, Сенсорне</param>
 	<param name="Країна-виробник товару">Китай</param>
-	<param name="Гарантия">3 місяці</param>
+	<param name="Гарантия">6 місяців</param>
 	<param name="Цвет">Белый</param>
   </offer>
  
@@ -3381,7 +3381,7 @@
 	<param name="Дисплей">Є</param>
 	<param name="Тип керування">Електронне, Механічне</param>
 	<param name="Країна-виробник товару">Китай</param>
-	<param name="Гарантия">3 місяці</param>
+	<param name="Гарантия">6 місяців</param>
 	<param name="Цвет">Белый</param>
   </offer> 
  
@@ -3423,7 +3423,7 @@
 	<param name="Дисплей">Немає</param>
 	<param name="Тип керування">Електронне, Механічне</param>
 	<param name="Країна-виробник товару">Китай</param>
-	<param name="Гарантия">3 місяці</param>
+	<param name="Гарантия">6 місяців</param>
 	<param name="Цвет">Белый</param>
 </offer> 
 
@@ -3469,7 +3469,7 @@
 	<param name="Дисплей">Немає</param>
 	<param name="Тип керування">Механічне</param>
 	<param name="Країна-виробник товару">Китай</param>
-	<param name="Гарантия">6 місяці</param>
+	<param name="Гарантия">6 місяців</param>
 	<param name="Цвет">Белый</param>
   </offer>
 

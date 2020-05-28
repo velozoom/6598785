@@ -3192,7 +3192,333 @@
 	<param name="Гарантия">6 місяців</param>
 	<param name="Цвет">Черный</param>
   </offer> 
+
+<offer id="1064302955" available="true" >
+<url>https://leobox.com.ua/p1064302955-ugoos-am6-pro.html</url>
+    <price>4699</price>
+	<price_promo>4697</price_promo>
+    <currencyId>UAH</currencyId>
+    <categoryId>3</categoryId>
+    <picture>http://i.piccy.info/i9/e3d64052ff1019fa310ae4a93e5eab26/1566895313/85463/1329562/02.jpg</picture>
+    <picture>http://i.piccy.info/i9/1fa2df520798c9d248a4b1f6600fc02b/1590652378/85028/1380432/04.jpg</picture>
+	<picture>http://i.piccy.info/i9/b94c206f1a73ff617128cb2dd92c6c53/1590652166/44014/1380432/ugoos_am6_3_1000x1000.jpg</picture>
+	<name>Смарт тв приставка - Ugoos AM6 Pro 4/32 GB</name>
+	<stock_quantity>5</stock_quantity>
+    <vendor>Ugoos</vendor>
+    <vendorCode>am6_pro_b</vendorCode>
+    <description>
+<![CDATA[ 
+<p>Смарт тв приставка <strong>Ugoos AM6 Pro</strong> поєднує в собі всі найкращі апаратні та програмні рішення від попередніх моделей і можливостей Amlogic наступного покоління процесорів S922X.</p>
+<p>Ugoos (Угус) AM6 Pro отримав USB 3.0 Fast USB, Bluetooth 5.0, WIFI 5.0 / 2.4 ГГц з підтримкою MIMO, функцією Wake on LAN та іншими покращеннями. Приставка працює в парі з операційною системою Android 9.</p>
+<p>Приставка отримала новий процесор SoC S922XJ на базі 2 ядер Cortex A53 та чотирьох сучасних ядер Cortex A73 і графічну систему Mali-G52 MP6. Все це працює в зв'язці з оперативною пам'яттю нового стандарту LPDDR4. Також смарт тв приставка оснащена новою операційною системою Android 9.0.</p>
+<p>Новинка Ugoos AM6 Plus легко працює з 4K форматом з частотою 75 Hz, підтримує  CEC, HDCP і HDR. Бездротові аеромиші і іншу периферію легко синхронізувати по Bluetooth технології v 5.0. Багатоканальну акустику можна підключити по S/PDIF кабелю, а робота з аналоговими стереосистемами і навушниками можлива через аудіовихід Jack 3,5 мм. Управління апаратом здійснюється через ІК пульт дистанційного керування. Смарт-бокс підтримує сучасні кодеки H.265, VP9 і AVS2 та має функцію AFR (Auto Frame Rate).</p>
+
+<p>Характеристики:</p>
+<ul>
+<li>Процесор - Amlogic S922X Hexacore CPU  6 ядер (2 х Cortex A53 та 4 х Cortex A73</li>
+<li>ARM Mali-G52 MP6</li>
+<li>Система: Андроїд 9</li>
+<li>Тип оперативної пам'яті: LPDDR4</li>
+<li>Відеокодеки - VP9 Profile-2 up to 4Kx2K@60fps, H.265 HEVCMP-10@L5.1 up to 4K*2K@60fps, H.264 AVC HP@L5.1 up to4K*2K@60fps, H2.64 MVC up to1080P@60fps, MPEG-4 ASP@L5 up to 1080P@60fps (ISO-14496), WMV/VC-1 5P/MP/AP up to 1080P@60fps, AVS-P16(AVS+)/AVS-P2 jiZhun Profile up to 1080P@60fps, MPEG-2 MP/HL up to 1080P@60fps(ISO-13818), MPEG-1 MP/HL up to 1080P@60fps(ISO-11172), Підтримка форматів: *.mkv,*.wmv,*.mpg,*.mpeg,*.dat,*.avi,*.mov,*.iso,*.mp4,*.rm and *.jpg</li>
+<li>Формат відео: ASF, AVI, DAT, FLV, ISO, MKV, MKV, TS, VOB, WMV.</li>
+<li>Формат Аудіо: AAC, APE, DDP, FLAC, HD, MP3, OGG, WAV, WMA</li>
+<li>Формат Фото: BMP, GIF, JPEG, PNG, TIFF</li>
+<li>1000M Ethernet Integrated IEEE 802.3 10/100/1000M Ethernet MAC with RGMII</li>
+<li>Wi-Fi: 2.4GHz + 5GHz dual band WiFi, IEEE 802.11 a/b/g/n/ac and 2x2 MIMO</li>
+<li>Bluetooth: Блютуз 5.0</li>
+<li>Інтерфейси: HDMI, слот для мікро SD карти, RJ45, SPDIF, 3 x USB 2.0, 1 x USB 3.0, AV-OUT, AUX-IN</li>
+<li>Сертифікат: CE, FCC, RoHs</li>
+<li>Версія HDMI: 2.0</li>
+</ul>
+
+<p>Особливості:</p>
+<ul>
+<li>Новинка 2020 року</li>
+<li>Процесор Amlogic S922X Hexacore</li>
+<li>Підтримка 4К відео</li>
+<li>Металевий корпус</li>
+<li>Зручна та швидка прошивка.</li>
+</ul>
+ ]]>
+</description>
+
+    <param name="Особливості">OC Android</param>
+    <param name="Мережеві можливості">Bluetooth, Ethernet, WI-FI</param>
+	<param name="Максимальна роздільна здатність">4K Ultra HD (3840x2160)</param>
+	<param name="Тип">Стаціонарний</param>
+	<param name="Наявність дисплея">Немає</param>
+	<param name="Входи і виходи">3 x USB 2.0, 1 x USB 3.0, 1 x HDMI вихід, 1 x LAN, SPDIF, Слот для карт памяти, AV-OUT, AUX-IN</param>
+	<param name="Жорсткий диск (Вбудована пам'ять)">32 ГБ</param>
+	<param name="Об'єм оперативної пам'яті">4 ГБ</param>
+	<param name="Категорія пристрою">HD медіаплеєри</param>
+	<param name="Продавець">Інші продавці</param>
+	<param name="Додаткові характеристики">Операційна система: Android 9, Процесор: s922X , Графічний процесор: ARM Mali-T820MP3 GPU up to 750MHz(DVFS), ОЗУ: 4 ГБ DDR4, Беспровідні інтерфейси: Wi-Fi 802.11 b / g / n, Bluetooth, Підтримка USB клавиатури і миші</param>
+	<param name="Комплект постачання">Медіаплеєр, пульт дистанційного керування, блок живлення, HDMI кабель, інструкція</param>
+	<param name="Страна-производитель товара">Китай</param>
+	<param name="Гарантия">6 місяців</param>
+	<param name="Цвет">Черный</param>
+  </offer>
+
+<offer id="1150902907" available="true" >
+<url>https://leobox.com.ua/p1150902907-ugoos-am6-plus.html</url>
+    <price>5599</price>
+	<price_promo>5549</price_promo>
+    <currencyId>UAH</currencyId>
+    <categoryId>3</categoryId>
+    <picture>http://i.piccy.info/i9/e3d64052ff1019fa310ae4a93e5eab26/1566895313/85463/1329562/02.jpg</picture>
+    <picture>http://i.piccy.info/i9/1fa2df520798c9d248a4b1f6600fc02b/1590652378/85028/1380432/04.jpg</picture>
+	<picture>http://i.piccy.info/i9/b94c206f1a73ff617128cb2dd92c6c53/1590652166/44014/1380432/ugoos_am6_3_1000x1000.jpg</picture>
+	<name>Смарт тв приставка - Ugoos AM6 Plus 4/32 GB</name>
+	<stock_quantity>5</stock_quantity>
+    <vendor>Ugoos</vendor>
+    <vendorCode>am6_plus_b</vendorCode>
+    <description>
+<![CDATA[ 
+<p>Новинка 2020 року смарт тв приставка <strong>Ugoos AM6 Plus</strong> поєднує в собі всі найкращі апаратні та програмні рішення від попередніх моделей і можливостей Amlogic наступного покоління процесорів S922XJ.</p>
+<p>Ugoos (Угус) AM6 Plus отримав USB 3.0 Fast USB, Bluetooth 5.0, WIFI 5.0 / 2.4 ГГц з підтримкою MIMO, функцією Wake on LAN та іншими покращеннями. Приставка працює в парі з операційною системою Android 9.</p>
+<p>Приставка отримала новий процесор SoC S922XJ на базі 2 ядер Cortex A53 та чотирьох сучасних ядер Cortex A73 і графічну систему Mali-G52 MP6. Все це працює в зв'язці з оперативною пам'яттю нового стандарту LPDDR4. Також смарт тв приставка оснащена новою операційною системою Android 9.0.</p>
+<p>Новинка Ugoos AM6 Plus легко працює з 4K форматом з частотою 75 Hz, підтримує  CEC, HDCP і HDR. Бездротові аеромиші і іншу периферію легко синхронізувати по Bluetooth технології v 5.0. Багатоканальну акустику можна підключити по S/PDIF кабелю, а робота з аналоговими стереосистемами і навушниками можлива через аудіовихід Jack 3,5 мм. Управління апаратом здійснюється через ІК пульт дистанційного керування. Смарт-бокс підтримує сучасні кодеки H.265, VP9 і AVS2 та має функцію AFR (Auto Frame Rate).</p>
+
+<p>Характеристики:</p>
+<ul>
+<li>Процесор - Amlogic S922XJ Hexacore CPU  6 ядер (2 х Cortex A53 та 4 х Cortex A73</li>
+<li>ARM Mali-G52 MP6</li>
+<li>Система: Андроїд 9</li>
+<li>Тип оперативної пам'яті: LPDDR4</li>
+<li>Відеокодеки - VP9 Profile-2 up to 4Kx2K@60fps, H.265 HEVCMP-10@L5.1 up to 4K*2K@60fps, H.264 AVC HP@L5.1 up to4K*2K@60fps, H2.64 MVC up to1080P@60fps, MPEG-4 ASP@L5 up to 1080P@60fps (ISO-14496), WMV/VC-1 5P/MP/AP up to 1080P@60fps, AVS-P16(AVS+)/AVS-P2 jiZhun Profile up to 1080P@60fps, MPEG-2 MP/HL up to 1080P@60fps(ISO-13818), MPEG-1 MP/HL up to 1080P@60fps(ISO-11172), Підтримка форматів: *.mkv,*.wmv,*.mpg,*.mpeg,*.dat,*.avi,*.mov,*.iso,*.mp4,*.rm and *.jpg</li>
+<li>Формат відео: ASF, AVI, DAT, FLV, ISO, MKV, MKV, TS, VOB, WMV.</li>
+<li>Формат Аудіо: AAC, APE, DDP, FLAC, HD, MP3, OGG, WAV, WMA</li>
+<li>Формат Фото: BMP, GIF, JPEG, PNG, TIFF</li>
+<li>1000M Ethernet Integrated IEEE 802.3 10/100/1000M Ethernet MAC with RGMII</li>
+<li>Wi-Fi: 2.4GHz + 5GHz dual band WiFi, IEEE 802.11 a/b/g/n/ac and 2x2 MIMO</li>
+<li>Bluetooth: Блютуз 5.0</li>
+<li>Інтерфейси: HDMI, слот для мікро SD карти, RJ45, SPDIF, 3 x USB 2.0, 1 x USB 3.0, AV-OUT, AUX-IN</li>
+<li>Сертифікат: CE, FCC, RoHs</li>
+<li>Версія HDMI: 2.0</li>
+</ul>
+
+<p>Особливості:</p>
+<ul>
+<li>Новинка 2020 року</li>
+<li>Процесор Amlogic S922XJ Hexacore</li>
+<li>Підтримка 4К відео</li>
+<li>Металевий корпус</li>
+<li>Зручна та швидка прошивка.</li>
+</ul>
+ ]]>
+</description>
+
+    <param name="Особливості">OC Android</param>
+    <param name="Мережеві можливості">Bluetooth, Ethernet, WI-FI</param>
+	<param name="Максимальна роздільна здатність">4K Ultra HD (3840x2160)</param>
+	<param name="Тип">Стаціонарний</param>
+	<param name="Наявність дисплея">Немає</param>
+	<param name="Входи і виходи">3 x USB 2.0, 1 x USB 3.0, 1 x HDMI вихід, 1 x LAN, SPDIF, Слот для карт памяти, AV-OUT, AUX-IN</param>
+	<param name="Жорсткий диск (Вбудована пам'ять)">32 ГБ</param>
+	<param name="Об'єм оперативної пам'яті">4 ГБ</param>
+	<param name="Категорія пристрою">HD медіаплеєри</param>
+	<param name="Продавець">Інші продавці</param>
+	<param name="Додаткові характеристики">Операційна система: Android 9, Процесор: s922XJ , Графічний процесор: ARM Mali-T820MP3 GPU up to 750MHz(DVFS), ОЗУ: 4 ГБ DDR4, Беспровідні інтерфейси: Wi-Fi 802.11 b / g / n, Bluetooth, Підтримка USB клавиатури і миші</param>
+	<param name="Комплект постачання">Медіаплеєр, пульт дистанційного керування, блок живлення, HDMI кабель, інструкція</param>
+	<param name="Страна-производитель товара">Китай</param>
+	<param name="Гарантия">6 місяців</param>
+	<param name="Цвет">Черный</param>
+  </offer>
  
+<offer id="1089380092" available="true" >
+<url>https://leobox.com.ua/p1089380092-ugoos-cube-216.html</url>
+    <price>1899</price>
+	<price_promo>1898</price_promo>
+    <currencyId>UAH</currencyId>
+    <categoryId>3</categoryId>
+    <picture>http://i.piccy.info/i9/849e42ee24e2ef40e4e89bf81ea69d7b/1590653452/121364/1380432/r01.jpg</picture>
+    <picture>https://picua.org/images/2020/05/28/7d9efb0045c7bd45c8df1769fc05fa0e.jpg</picture>
+	<picture>https://picua.org/images/2020/05/28/376741547fc27b362e6463c0f4186ac0.jpg</picture>
+	<name>Смарт тв приставка - X3 Cube Ugoos 2/16 GB</name>
+	<stock_quantity>5</stock_quantity>
+    <vendor>Ugoos</vendor>
+    <vendorCode>x3cub_b</vendorCode>
+    <description>
+<![CDATA[ 
+<p>X3 Cube - нова Смарт приставка від компанії Ugoos, яка поєднує в собі всі найкращі апаратні та програмні рішення. Приставка працює на процесорі S905X3 Quad-Core Cortex-A55 up to 2.0GHz з потужним графічним процесором ARM Mali-G31MP2, оснащена 2 ГБ DDR4 оперативної пам'яті та 16 ГБ EMMC для зберігання файлів.</p>
+<p>Ugoos (Угус) X3 Cube отримав USB 3.0 Fast USB, Bluetooth 5.0, WIFI 5.0 / 2.4 ГГц та інші прокращення. Приставка працює в парі з операційною системою Android 9 Pie. Зовнішня антена WIFI забезпечує високу стабільність передачі даних.</p>
+<p>На корпусі приставки розміщені такі порти і роз'єми, як USB 3.0, USB 2.0, HDMI 2.0, комбінований AV вихід, SPDIF, слот для карти пам'яті MicroSD, вхід для підключення виносного ІЧ-приймача, роз'єм знімної Wi-Fi антени, а також USB 3.1 для підключення живлення. Бездротові інтерфейси представлені дводіапазонним Wi-Fi b/g/n/ac 2.4 / 5.8 Ггц і Bluetooth версії 4.2.</p>
+
+<p>Характеристики:</p>
+<ul>
+<li>Процесор - Amlogic S905X3 4 ядра ARM Cortex-A55 @ до 2,0 ГГц/li>
+<li>GPU - Mali-G31 MP2 "Dvalin" GPU</li>
+<li>Система: Андроїд 9</li>
+<li>Тип оперативної пам'яті: LPDDR4</li>
+<li>Відеокодеки - VP9 Profile-2 up to 4Kx2K@60fps, H.265 HEVCMP-10@L5.1 up to 4K*2K@60fps, H.264 AVC HP@L5.1 up to4K*2K@60fps, H2.64 MVC up to1080P@60fps, MPEG-4 ASP@L5 up to 1080P@60fps (ISO-14496), WMV/VC-1 5P/MP/AP up to 1080P@60fps, AVS-P16(AVS+)/AVS-P2 jiZhun Profile up to 1080P@60fps, MPEG-2 MP/HL up to 1080P@60fps(ISO-13818), MPEG-1 MP/HL up to 1080P@60fps(ISO-11172), Підтримка форматів: *.mkv,*.wmv,*.mpg,*.mpeg,*.dat,*.avi,*.mov,*.iso,*.mp4,*.rm and *.jpg</li>
+<li>Формат відео: ASF, AVI, DAT, FLV, ISO, MKV, MKV, TS, VOB, WMV.</li>
+<li>Формат Аудіо: AAC, APE, DDP, FLAC, HD, MP3, OGG, WAV, WMA</li>
+<li>Формат Фото: BMP, GIF, JPEG, PNG, TIFF</li>
+<li>1000M Ethernet Integrated IEEE 802.3 10/100/1000M Ethernet MAC with RGMII</li>
+<li>Wi-Fi: 2.4GHz + 5GHz dual band WiFi, IEEE 802.11 a/b/g/n/ac</li>
+<li>Bluetooth: Блютуз 4.2</li>
+<li>Інтерфейси: HDMI, слот для мікро SD карти, RJ45, 1 x USB 2.0, 1 x USB 3.0, AV-OUT, S/PDIF i/r sensor</li>
+<li>Сертифікат: CE, FCC, RoHs</li>
+<li>Версія HDMI: 2.0</li>
+</ul>
+
+<p>Особливості:</p>
+<ul>
+<li>Новинка 2020 року</li>
+<li>Процесор Amlogic S905X3</li>
+<li>Виносний і/ч приймач</li>
+<li>Підтримка 4К відео</li>
+<li>Зручна та швидка прошивка.</li>
+</ul>
+ ]]>
+</description>
+
+    <param name="Особливості">OC Android</param>
+    <param name="Мережеві можливості">Bluetooth, Ethernet, WI-FI</param>
+	<param name="Максимальна роздільна здатність">4K Ultra HD (3840x2160)</param>
+	<param name="Тип">Стаціонарний</param>
+	<param name="Наявність дисплея">Немає</param>
+	<param name="Входи і виходи">1 x USB 2.0, 1 x USB 3.0, 1 x HDMI вихід, 1 x LAN, Слот для карт памяти, S/PDIF, AV-OUT</param>
+	<param name="Жорсткий диск (Вбудована пам'ять)">16 ГБ</param>
+	<param name="Об'єм оперативної пам'яті">2 ГБ</param>
+	<param name="Категорія пристрою">HD медіаплеєри</param>
+	<param name="Продавець">Інші продавці</param>
+	<param name="Додаткові характеристики">Операційна система: Android 9, Процесор: s905x3 , Графічний процесор: Mali-G31 MP2 "Dvalin" GPU, ОЗУ: 2 ГБ DDR4, Беспровідні інтерфейси: Wi-Fi 802.11 b / g / n, Bluetooth, Підтримка USB клавиатури і миші</param>
+	<param name="Комплект постачання">Медіаплеєр, пульт дистанційного керування, блок живлення, HDMI кабель, виносний і/ч приймач, інструкція</param>
+	<param name="Страна-производитель товара">Китай</param>
+	<param name="Гарантия">6 місяців</param>
+	<param name="Цвет">Черный</param>
+  </offer>
+
+<offer id="1089404316" available="true" >
+<url>https://leobox.com.ua/p1089404316-ugoos-pro-432.html</url>
+    <price>2499</price>
+	<price_promo>2498</price_promo>
+    <currencyId>UAH</currencyId>
+    <categoryId>3</categoryId>
+    <picture>https://picua.org/images/2020/05/28/c9b216b4860ca4bf8f380c137ffce370.jpg</picture>
+    <picture>https://picua.org/images/2020/05/28/7d9efb0045c7bd45c8df1769fc05fa0e.jpg</picture>
+	<picture>https://picua.org/images/2020/05/28/376741547fc27b362e6463c0f4186ac0.jpg</picture>
+	<name>Смарт тв приставка - X3 Pro Ugoos 4/32 GB</name>
+	<stock_quantity>5</stock_quantity>
+    <vendor>Ugoos</vendor>
+    <vendorCode>x3pro_b</vendorCode>
+    <description>
+<![CDATA[ 
+<p>Новинка 2020 року X3 Pro - нова Смарт приставка від компанії Ugoos, яка поєднує в собі всі найкращі апаратні та програмні рішення. Приставка працює на процесорі S905X3 Quad-Core Cortex-A55 up to 2.0GHz з потужним графічним процесором ARM Mali-G31MP2, оснащена 4 ГБ DDR4 оперативної пам'яті та 32 ГБ EMMC для зберігання файлів.</p>
+<p>Ugoos (Угус) X3 Pro отримав USB 3.0 Fast USB, Bluetooth 5.0, WIFI 5.0 / 2.4 ГГц та інші прокращення. Приставка працює в парі з операційною системою Android 9 Pie. Зовнішня антена WIFI забезпечує високу стабільність передачі даних.</p>
+<p>На корпусі приставки розміщені такі порти і роз'єми, як USB 3.0, USB 2.0, HDMI 2.0, комбінований AV вихід, SPDIF, слот для карти пам'яті MicroSD, вхід для підключення виносного ІЧ-приймача, роз'єм знімної Wi-Fi антени, а також USB 3.1 для підключення живлення. Бездротові інтерфейси представлені дводіапазонним Wi-Fi b/g/n/ac 2.4 / 5.8 Ггц і Bluetooth версії 4.2.</p>
+
+<p>Характеристики:</p>
+<ul>
+<li>Процесор - Amlogic S905X3 4 ядра ARM Cortex-A55 @ до 2,0 ГГц/li>
+<li>GPU - Mali-G31 MP2 "Dvalin" GPU</li>
+<li>Система: Андроїд 9</li>
+<li>Тип оперативної пам'яті: LPDDR4</li>
+<li>Відеокодеки - VP9 Profile-2 up to 4Kx2K@60fps, H.265 HEVCMP-10@L5.1 up to 4K*2K@60fps, H.264 AVC HP@L5.1 up to4K*2K@60fps, H2.64 MVC up to1080P@60fps, MPEG-4 ASP@L5 up to 1080P@60fps (ISO-14496), WMV/VC-1 5P/MP/AP up to 1080P@60fps, AVS-P16(AVS+)/AVS-P2 jiZhun Profile up to 1080P@60fps, MPEG-2 MP/HL up to 1080P@60fps(ISO-13818), MPEG-1 MP/HL up to 1080P@60fps(ISO-11172), Підтримка форматів: *.mkv,*.wmv,*.mpg,*.mpeg,*.dat,*.avi,*.mov,*.iso,*.mp4,*.rm and *.jpg</li>
+<li>Формат відео: ASF, AVI, DAT, FLV, ISO, MKV, MKV, TS, VOB, WMV.</li>
+<li>Формат Аудіо: AAC, APE, DDP, FLAC, HD, MP3, OGG, WAV, WMA</li>
+<li>Формат Фото: BMP, GIF, JPEG, PNG, TIFF</li>
+<li>1000M Ethernet Integrated IEEE 802.3 10/100/1000M Ethernet MAC with RGMII</li>
+<li>Wi-Fi: 2.4GHz + 5GHz dual band WiFi, IEEE 802.11 a/b/g/n/ac</li>
+<li>Bluetooth: Блютуз 4.2</li>
+<li>Інтерфейси: HDMI, слот для мікро SD карти, RJ45, 1 x USB 2.0, 1 x USB 3.0, AV-OUT, i/r sensor</li>
+<li>Сертифікат: CE, FCC, RoHs</li>
+<li>Версія HDMI: 2.0</li>
+</ul>
+
+<p>Особливості:</p>
+<ul>
+<li>Новинка 2020 року</li>
+<li>Процесор Amlogic S905X3</li>
+<li>Виносний і/ч приймач</li>
+<li>Підтримка 4К відео</li>
+<li>Зручна та швидка прошивка.</li>
+</ul>
+ ]]>
+</description>
+
+    <param name="Особливості">OC Android</param>
+    <param name="Мережеві можливості">Bluetooth, Ethernet, WI-FI</param>
+	<param name="Максимальна роздільна здатність">4K Ultra HD (3840x2160)</param>
+	<param name="Тип">Стаціонарний</param>
+	<param name="Наявність дисплея">Немає</param>
+	<param name="Входи і виходи">1 x USB 2.0, 1 x USB 3.0, 1 x HDMI вихід, 1 x LAN, Слот для карт памяти, AV-OUT</param>
+	<param name="Жорсткий диск (Вбудована пам'ять)">32 ГБ</param>
+	<param name="Об'єм оперативної пам'яті">4 ГБ</param>
+	<param name="Категорія пристрою">HD медіаплеєри</param>
+	<param name="Продавець">Інші продавці</param>
+	<param name="Додаткові характеристики">Операційна система: Android 9, Процесор: s905x3 , Графічний процесор: Mali-G31 MP2 "Dvalin" GPU, ОЗУ: 4 ГБ DDR4, Беспровідні інтерфейси: Wi-Fi 802.11 b / g / n, Bluetooth, Підтримка USB клавиатури і миші</param>
+	<param name="Комплект постачання">Медіаплеєр, пульт дистанційного керування, блок живлення, HDMI кабель, виносний і/ч приймач, інструкція</param>
+	<param name="Страна-производитель товара">Китай</param>
+	<param name="Гарантия">6 місяців</param>
+	<param name="Цвет">Черный</param>
+  </offer> 
+ 
+<offer id="1100274137" available="true" >
+<url>https://leobox.com.ua/p1100274137-ugoos-plus-464.html</url>
+    <price>2799</price>
+	<price_promo>2798</price_promo>
+    <currencyId>UAH</currencyId>
+    <categoryId>3</categoryId>
+    <picture>https://picua.org/images/2020/05/28/bc6f6af8e1922a6afdf3832751c9f69c.jpg</picture>
+    <picture>https://picua.org/images/2020/05/28/7d9efb0045c7bd45c8df1769fc05fa0e.jpg</picture>
+	<picture>https://picua.org/images/2020/05/28/376741547fc27b362e6463c0f4186ac0.jpg</picture>
+	<name>Смарт тв приставка - X3 Plus Ugoos 4/64 GB</name>
+	<stock_quantity>5</stock_quantity>
+    <vendor>Ugoos</vendor>
+    <vendorCode>x3plus_b</vendorCode>
+    <description>
+<![CDATA[ 
+<p>Новинка 2020 року X3 Plus - нова Смарт приставка від компанії Ugoos, яка поєднує в собі всі найкращі апаратні та програмні рішення. Приставка працює на процесорі S905X3 Quad-Core Cortex-A55 up to 2.0GHz з потужним графічним процесором ARM Mali-G31MP2, оснащена 4 ГБ DDR4 оперативної пам'яті та 64 ГБ EMMC для зберігання файлів.</p>
+<p>Ugoos (Угус) X3 Plus отримав USB 3.0 Fast USB, Bluetooth 5.0, WIFI 5.0 / 2.4 ГГц та інші прокращення. Приставка працює в парі з операційною системою Android 9 Pie. Зовнішня антена WIFI забезпечує високу стабільність передачі даних.</p>
+<p>На корпусі приставки розміщені такі порти і роз'єми, як USB 3.0, USB 2.0, HDMI 2.0, комбінований AV вихід, SPDIF, слот для карти пам'яті MicroSD, вхід для підключення виносного ІЧ-приймача, роз'єм знімної Wi-Fi антени, а також USB 3.1 для підключення живлення. Бездротові інтерфейси представлені дводіапазонним Wi-Fi b/g/n/ac 2.4 / 5.8 Ггц і Bluetooth версії 4.2.</p>
+
+<p>Характеристики:</p>
+<ul>
+<li>Процесор - Amlogic S905X3 4 ядра ARM Cortex-A55 @ до 2,0 ГГц/li>
+<li>GPU - Mali-G31 MP2 "Dvalin" GPU</li>
+<li>Система: Андроїд 9</li>
+<li>Тип оперативної пам'яті: LPDDR4</li>
+<li>Відеокодеки - VP9 Profile-2 up to 4Kx2K@60fps, H.265 HEVCMP-10@L5.1 up to 4K*2K@60fps, H.264 AVC HP@L5.1 up to4K*2K@60fps, H2.64 MVC up to1080P@60fps, MPEG-4 ASP@L5 up to 1080P@60fps (ISO-14496), WMV/VC-1 5P/MP/AP up to 1080P@60fps, AVS-P16(AVS+)/AVS-P2 jiZhun Profile up to 1080P@60fps, MPEG-2 MP/HL up to 1080P@60fps(ISO-13818), MPEG-1 MP/HL up to 1080P@60fps(ISO-11172), Підтримка форматів: *.mkv,*.wmv,*.mpg,*.mpeg,*.dat,*.avi,*.mov,*.iso,*.mp4,*.rm and *.jpg</li>
+<li>Формат відео: ASF, AVI, DAT, FLV, ISO, MKV, MKV, TS, VOB, WMV.</li>
+<li>Формат Аудіо: AAC, APE, DDP, FLAC, HD, MP3, OGG, WAV, WMA</li>
+<li>Формат Фото: BMP, GIF, JPEG, PNG, TIFF</li>
+<li>1000M Ethernet Integrated IEEE 802.3 10/100/1000M Ethernet MAC with RGMII</li>
+<li>Wi-Fi: 2.4GHz + 5GHz dual band WiFi, IEEE 802.11 a/b/g/n/ac</li>
+<li>Bluetooth: Блютуз 4.2</li>
+<li>Інтерфейси: HDMI, слот для мікро SD карти, RJ45, 1 x USB 2.0, 1 x USB 3.0, AV-OUT, i/r sensor</li>
+<li>Сертифікат: CE, FCC, RoHs</li>
+<li>Версія HDMI: 2.0</li>
+</ul>
+
+<p>Особливості:</p>
+<ul>
+<li>Новинка 2020 року</li>
+<li>Процесор Amlogic S905X3</li>
+<li>Виносний і/ч приймач</li>
+<li>Підтримка 4К відео</li>
+<li>Зручна та швидка прошивка.</li>
+</ul>
+ ]]>
+</description>
+
+    <param name="Особливості">OC Android</param>
+    <param name="Мережеві можливості">Bluetooth, Ethernet, WI-FI</param>
+	<param name="Максимальна роздільна здатність">4K Ultra HD (3840x2160)</param>
+	<param name="Тип">Стаціонарний</param>
+	<param name="Наявність дисплея">Немає</param>
+	<param name="Входи і виходи">1 x USB 2.0, 1 x USB 3.0, 1 x HDMI вихід, 1 x LAN, Слот для карт памяти, AV-OUT</param>
+	<param name="Жорсткий диск (Вбудована пам'ять)">64 ГБ</param>
+	<param name="Об'єм оперативної пам'яті">4 ГБ</param>
+	<param name="Категорія пристрою">HD медіаплеєри</param>
+	<param name="Продавець">Інші продавці</param>
+	<param name="Додаткові характеристики">Операційна система: Android 9, Процесор: s905x3 , Графічний процесор: Mali-G31 MP2 "Dvalin" GPU, ОЗУ: 4 ГБ DDR4, Беспровідні інтерфейси: Wi-Fi 802.11 b / g / n, Bluetooth, Підтримка USB клавиатури і миші</param>
+	<param name="Комплект постачання">Медіаплеєр, пульт дистанційного керування, блок живлення, HDMI кабель, виносний і/ч приймач, інструкція</param>
+	<param name="Страна-производитель товара">Китай</param>
+	<param name="Гарантия">6 місяців</param>
+	<param name="Цвет">Черный</param>
+  </offer> 
  
  #mecool km1 
  
@@ -3482,7 +3808,55 @@
 	<param name="Гарантия">6 місяців</param>
 	<param name="Цвет">Белый</param>
   </offer> 
-  
+ 
+<offer id="1184519367" available="true" >
+<url>https://leobox.com.ua/p1184519367-deerma-dem-f628a.html</url>
+    <price>1299</price>
+	<price_promo>1299</price_promo>
+    <currencyId>UAH</currencyId>
+    <categoryId>7</categoryId>
+    <picture>http://i.piccy.info/i9/9beec41009194a870583d631d9dc6ca8/1590650044/20612/1380432/Deerma_DEM_F628A.jpg</picture>
+    <picture>http://i.piccy.info/i9/6c97c3a7b15fc4d97d621f041ef72d23/1590650081/28229/1380432/b9452526fb45cbe004f3e0ac3fae62bb.jpg</picture>
+	<picture>http://i.piccy.info/i9/ae13fbb348b8f2dac74e8537d86877df/1590650105/167871/1380432/HTB1N2VzX0fvK1RjSszhq6AcGFXa0.jpg</picture>
+	<name>Зволожувач повітря Deerma DEM-F628A</name>
+	<stock_quantity>10</stock_quantity>
+    <vendor>Deerma</vendor>
+    <vendorCode>Dr_F628a</vendorCode>
+    <description>
+<![CDATA[ 
+<p>DeermaA DEM-F628A - компактний зволожувач Deerma Air Humidifier 5L від виробника Xiaomi відрізняється простотою дизайну і мінімальним набором необхідних функцій. На лицьовій поверхні розташований монохромний екран, який показує температуру в кімнаті та сенсорні кнопки для керування. Це дозволяє вибирати режими - для сну, енергозберігаючий, стандартний, максимальне зволоження. Для контролю обсягу води в баку передбачено вертикальне віконце.</p>
+
+<p>Конструкція виробу складається з двох частин - резервуар для води об'ємом 5 л і механізм випаровування з резервуаром для ароматичних масел. Кришка бачка закривається щільно і обладнана зворотним клапаном. Тому в процесі експлуатації він не підтікає. Коли вода в баку закінчується, відбувається автоматичне відключення приладу.
+Випускний отвір розташований зверху. Його конструкція виконана таким чином, щоб збільшити ефективний кут зволоження і забезпечити високий підйом водяної пари. Тому поверхня, на який встановлений зволожувач, не буде намокати.</p>
+
+<p><strong>Надійна конструкція і гарний дизайн</strong></p>
+
+<p>Одне з явних переваг DEERMA Humidifier варто відзначити якісну конструкцію з ABS-пластика, сучасний дизайн і приємне біле забарвлення, яка дозволить вписатися пристрою в будь-який інтер'єр.</p>
+
+<p>Особливості:</p>
+<ul>
+<li>Місткість ємності для води - 5 літрів;</li>
+<li>Висока ефективність - до 350 мл / год;</li>
+<li>Можна одночасно використовувати в якості зволожувача і ароматизатора;</li>
+<li>Простий у догляді. Дуже легко розбирається;</li>
+</ul>
+
+ ]]>
+</description>
+
+    <param name="Виробник">Deerma</param>
+	<param name="Продавець">Інші продавці</param>
+	<param name="Основні функції">Ароматизація, Зволоження</param>
+	<param name="Тип">Ароматизатор, Ультразвуковий</param>
+	<param name="Реком. площа обслуговування, кв. м">25</param>
+	<param name="Місткість резервуара для води">5</param>
+	<param name="Дисплей">Є</param>
+	<param name="Тип керування">Електронне, Сенсорне</param>
+	<param name="Країна-виробник товару">Китай</param>
+	<param name="Гарантия">6 місяців</param>
+	<param name="Цвет">Белый</param>
+  </offer> 
+ 
 <offer id="1012613312" available="true" >
 <url>https://leobox.com.ua/p1012613312-deerma-dem-f600.html</url>
     <price>1369</price>

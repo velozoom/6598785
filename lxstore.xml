@@ -3134,6 +3134,7 @@
 <offer id="947645560" available="true" >
 <url>https://leobox.com.ua/p947645560-mecool-km3-464.html</url>
     <price>2299</price>
+	<old_price>2400</old_price>
     <currencyId>UAH</currencyId>
     <categoryId>3</categoryId>
     <picture>http://i.piccy.info/i9/fe129b15c3515ff4e4d2c848f1088f61/1567499736/102986/1329562/01.jpg</picture>
@@ -3330,6 +3331,7 @@
 <offer id="1089380092" available="true" >
 <url>https://leobox.com.ua/p1089380092-ugoos-cube-216.html</url>
     <price>1899</price>
+	<old_price>2000</old_price>
 	<price_promo>1898</price_promo>
     <currencyId>UAH</currencyId>
     <categoryId>3</categoryId>
@@ -3395,6 +3397,7 @@
 <offer id="1089404316" available="false" >
 <url>https://leobox.com.ua/p1089404316-ugoos-pro-432.html</url>
     <price>2499</price>
+	<old_price>2700</old_price>
 	<price_promo>2498</price_promo>
     <currencyId>UAH</currencyId>
     <categoryId>3</categoryId>
@@ -3460,6 +3463,7 @@
 <offer id="1100274137" available="true" >
 <url>https://leobox.com.ua/p1100274137-ugoos-plus-464.html</url>
     <price>2799</price>
+	<old_price>2900</old_price>
 	<price_promo>2798</price_promo>
     <currencyId>UAH</currencyId>
     <categoryId>3</categoryId>
@@ -3527,6 +3531,7 @@
 <offer id="1032737621" available="true" >
 <url>https://leobox.com.ua/p1032737621-beelink-king-464.html</url>
     <price>4499</price>
+	<old_price>4800</old_price>
 	<price_promo>4497</price_promo>
     <currencyId>UAH</currencyId>
     <categoryId>3</categoryId>
@@ -3601,6 +3606,7 @@
 <offer id="1088594094" available="true" >
 <url>https://leobox.com.ua/p1088594094-beelink-king-pro.html</url>
     <price>4899</price>
+	<old_price>4999</old_price>
 	<price_promo>4897</price_promo>
     <currencyId>UAH</currencyId>
     <categoryId>3</categoryId>
@@ -3678,6 +3684,7 @@
  <offer id="1169484743" available="true" >
 <url>https://leobox.com.ua/p1169484743-mecool-km1-classic.html</url>
     <price>1729</price>
+	<old_price>1890</old_price>
     <currencyId>UAH</currencyId>
     <categoryId>3</categoryId>
     <picture>http://i.piccy.info/i9/487420122e991d62809c36d52ba795d0/1590583242/108186/1380432/210116731_images_18086911843.jpg</picture>
@@ -3741,6 +3748,7 @@
  <offer id="1168866633" available="true" >
 <url>https://leobox.com.ua/p1168866633-mecool-km1-deluxe.html</url>
     <price>2399</price>
+	<old_price>2500</old_price>
     <currencyId>UAH</currencyId>
     <categoryId>3</categoryId>
     <picture>http://i.piccy.info/i9/487420122e991d62809c36d52ba795d0/1590583242/108186/1380432/210116731_images_18086911843.jpg</picture>
@@ -3804,6 +3812,7 @@
  <offer id="1168837975" available="true" >
 <url>https://leobox.com.ua/p1168837975-mecool-km1-collective.html</url>
     <price>2499</price>
+	<old_price>2600</old_price>
     <currencyId>UAH</currencyId>
     <categoryId>3</categoryId>
     <picture>http://i.piccy.info/i9/487420122e991d62809c36d52ba795d0/1590583242/108186/1380432/210116731_images_18086911843.jpg</picture>

@@ -3210,13 +3210,13 @@
 <![CDATA[ 
 <p>Смарт тв приставка <strong>Ugoos AM6 Pro</strong> поєднує в собі всі найкращі апаратні та програмні рішення від попередніх моделей і можливостей Amlogic наступного покоління процесорів S922X.</p>
 <p>Ugoos (Угус) AM6 Pro отримав USB 3.0 Fast USB, Bluetooth 5.0, WIFI 5.0 / 2.4 ГГц з підтримкою MIMO, функцією Wake on LAN та іншими покращеннями. Приставка працює в парі з операційною системою Android 9.</p>
-<p>Приставка отримала новий процесор SoC S922XJ на базі 2 ядер Cortex A53 та чотирьох сучасних ядер Cortex A73 і графічну систему Mali-G52 MP6. Все це працює в зв'язці з оперативною пам'яттю нового стандарту LPDDR4. Також смарт тв приставка оснащена новою операційною системою Android 9.0.</p>
+<p>Приставка отримала новий процесор SoC S922X на базі 2 ядер Cortex A53 та чотирьох сучасних ядер Cortex A73 і графічну систему Mali-G52 MP6. Все це працює в зв'язці з оперативною пам'яттю нового стандарту LPDDR4. Також смарт тв приставка оснащена новою операційною системою Android 9.0.</p>
 <p>Новинка Ugoos AM6 Plus легко працює з 4K форматом з частотою 75 Hz, підтримує  CEC, HDCP і HDR. Бездротові аеромиші і іншу периферію легко синхронізувати по Bluetooth технології v 5.0. Багатоканальну акустику можна підключити по S/PDIF кабелю, а робота з аналоговими стереосистемами і навушниками можлива через аудіовихід Jack 3,5 мм. Управління апаратом здійснюється через ІК пульт дистанційного керування. Смарт-бокс підтримує сучасні кодеки H.265, VP9 і AVS2 та має функцію AFR (Auto Frame Rate).</p>
 
 <p>Характеристики:</p>
 <ul>
 <li>Процесор - Amlogic S922X Hexacore CPU  6 ядер (2 х Cortex A53 та 4 х Cortex A73</li>
-<li>ARM Mali-G52 MP6</li>
+<li>Графічний процесор ARM Mali TM-G52 MP6(6ppc)</li>
 <li>Система: Андроїд 9</li>
 <li>Тип оперативної пам'яті: LPDDR4</li>
 <li>Відеокодеки - VP9 Profile-2 up to 4Kx2K@60fps, H.265 HEVCMP-10@L5.1 up to 4K*2K@60fps, H.264 AVC HP@L5.1 up to4K*2K@60fps, H2.64 MVC up to1080P@60fps, MPEG-4 ASP@L5 up to 1080P@60fps (ISO-14496), WMV/VC-1 5P/MP/AP up to 1080P@60fps, AVS-P16(AVS+)/AVS-P2 jiZhun Profile up to 1080P@60fps, MPEG-2 MP/HL up to 1080P@60fps(ISO-13818), MPEG-1 MP/HL up to 1080P@60fps(ISO-11172), Підтримка форматів: *.mkv,*.wmv,*.mpg,*.mpeg,*.dat,*.avi,*.mov,*.iso,*.mp4,*.rm and *.jpg</li>
@@ -3252,7 +3252,7 @@
 	<param name="Об'єм оперативної пам'яті">4 ГБ</param>
 	<param name="Категорія пристрою">HD медіаплеєри</param>
 	<param name="Продавець">Інші продавці</param>
-	<param name="Додаткові характеристики">Операційна система: Android 9, Процесор: s922X , Графічний процесор: ARM Mali-T820MP3 GPU up to 750MHz(DVFS), ОЗУ: 4 ГБ DDR4, Беспровідні інтерфейси: Wi-Fi 802.11 b / g / n, Bluetooth, Підтримка USB клавиатури і миші</param>
+	<param name="Додаткові характеристики">Операційна система: Android 9, Процесор: s922X , Графічний процесор: ARM Mali TM-G52 MP6(6ppc), ОЗУ: 4 ГБ DDR4, Беспровідні інтерфейси: Wi-Fi 802.11 b / g / n, Bluetooth, Підтримка USB клавиатури і миші</param>
 	<param name="Комплект постачання">Медіаплеєр, пульт дистанційного керування, блок живлення, HDMI кабель, інструкція</param>
 	<param name="Страна-производитель товара">Китай</param>
 	<param name="Гарантия">6 місяців</param>
@@ -3281,7 +3281,7 @@
 
 <p>Характеристики:</p>
 <ul>
-<li>Процесор - Amlogic S922XJ Hexacore CPU  6 ядер (2 х Cortex A53 та 4 х Cortex A73</li>
+<li>Процесор - Amlogic S922XJ Hexacore CPU  6 ядер (2 х Cortex A53 по 1800МГц та 4 х Cortex A73 по 2208МГц</li>
 <li>ARM Mali-G52 MP6</li>
 <li>Система: Андроїд 9</li>
 <li>Тип оперативної пам'яті: LPDDR4</li>
@@ -3318,7 +3318,7 @@
 	<param name="Об'єм оперативної пам'яті">4 ГБ</param>
 	<param name="Категорія пристрою">HD медіаплеєри</param>
 	<param name="Продавець">Інші продавці</param>
-	<param name="Додаткові характеристики">Операційна система: Android 9, Процесор: s922XJ , Графічний процесор: ARM Mali-T820MP3 GPU up to 750MHz(DVFS), ОЗУ: 4 ГБ DDR4, Беспровідні інтерфейси: Wi-Fi 802.11 b / g / n, Bluetooth, Підтримка USB клавиатури і миші</param>
+	<param name="Додаткові характеристики">Операційна система: Android 9, Процесор: s922XJ , Графічний процесор: ARM Mali TM-G52 MP6(6ppc), ОЗУ: 4 ГБ DDR4, Беспровідні інтерфейси: Wi-Fi 802.11 b / g / n, Bluetooth, Підтримка USB клавиатури і миші</param>
 	<param name="Комплект постачання">Медіаплеєр, пульт дистанційного керування, блок живлення, HDMI кабель, інструкція</param>
 	<param name="Страна-производитель товара">Китай</param>
 	<param name="Гарантия">6 місяців</param>
@@ -3520,6 +3520,157 @@
 	<param name="Цвет">Черный</param>
   </offer> 
  
+#Beelink
+
+<offer id="1032737621" available="true" >
+<url>https://leobox.com.ua/p1032737621-beelink-king-464.html</url>
+    <price>4499</price>
+	<price_promo>4497</price_promo>
+    <currencyId>UAH</currencyId>
+    <categoryId>3</categoryId>
+    <picture>http://i.piccy.info/i9/1bee73f60570883b72d3bb64d71feb78/1591250958/110296/1380432/01.jpg</picture>
+    <picture>http://i.piccy.info/i9/95e4a91dc87e900f9ca854c95f768ab6/1591250989/77188/1380432/02.jpg</picture>
+	<picture>http://i.piccy.info/i9/fcf6ede78b87f96d2344e8b6d7d814de/1591251007/85147/1380432/03.jpg</picture>
+	<name>Смарт тв приставка - Beelink GT-King 4/64 GB</name>
+	<stock_quantity>5</stock_quantity>
+    <vendor>Beelink</vendor>
+    <vendorCode>gt1-kb</vendorCode>
+    <description>
+<![CDATA[ 
+<p>Смарт тв приставка <strong>Beelink GT-King</strong> поєднує в собі всі найкращі апаратні та програмні рішення від попередніх моделей і можливостей Amlogic наступного покоління процесорів S922X.</p>
+<p>Beelink GT-King отримав USB 3.0 Fast USB, Bluetooth 4.1, WIFI 5.0 / 2.4 ГГц функцією Wake on LAN та іншими покращеннями. Приставка працює в парі з операційною системою Android 9.</p>
+<p>Приставка отримала новий процесор SoC S922X на базі 2 ядер Cortex A53 та чотирьох сучасних ядер Cortex A73 і графічну систему Mali-G52 MP6. Все це працює в зв'язці з оперативною пам'яттю нового стандарту LPDDR4. Також смарт тв приставка оснащена новою операційною системою Android 9.0.</p>
+<p>Beelink GT-King легко працює з 4K форматом з частотою 75 Hz, підтримує  CEC, HDCP і HDR. Бездротові аеромиші і іншу периферію легко синхронізувати по Bluetooth технології v 5.0. Багатоканальну акустику можна підключити по S/PDIF кабелю, а робота з аналоговими стереосистемами і навушниками можлива через аудіовихід Jack 3,5 мм. Управління апаратом здійснюється через радіо пульт (Air Mouse) дистанційного керування з гіроскопом та мікрофоном. Смарт-бокс підтримує сучасні кодеки H.265, VP9 і AVS2 та має функцію AFR (Auto Frame Rate).</p>
+
+<p>Характеристики:</p>
+<ul>
+<li>Процесор - Amlogic S922X Hexacore CPU  6 ядер (2 х Cortex A53 та 4 х Cortex A73</li>
+<li>Графічний процесор Arm Mali-G52MP @ 846 МГц</li>
+<li>Система: Андроїд 9</li>
+<li>Тип оперативної пам'яті: LPDDR4</li>
+<li>AVE-10 двіжок с декодуванням відео 4K UHD H.265 / VP9 / AVS2 до 60 fps, підтримка Dolby Vision, Advanced HDR10, HDR10+, HLG, и PRIME HDR</li>
+<li>H.265/HEVC Main/Main10 profile @ level 5.1 High-tier; up to 4Kx2K @ 60fps</li>
+<li>VP9 Profile-2 up to 4Kx2K@60fps</li>
+<li>H.265 HEVC MP-10@L5.1 up to 4Kx2K@60f</li>
+<li>AVS2-P2 Profile up to 4Kx2K@60fps</li>
+<li>H.264 AVC HP@L5.1 up to 4Kx2K@30fps</li>
+<li>H.264 MVC up to 1080P@60fps</li>
+<li>MPEG-4 ASP@L5 up to 1080P@60fps (ISO-14496)</li>
+<li>WMV/VC-1 SP/MP/AP up to 1080P@60fps</li>
+<li>AVS-P16(AVS+) /AVS-P2 JiZhun Profile up to 1080P@60fps</li>
+<li>MPEG-2 MP/HL up to 1080P@60fps (ISO-13818)</li>
+<li>MPEG-1 MP/HL up to 1080P@60fps (ISO-11172)</li>
+<li>RealVideo 8/9/10 up to 1080P@60fps</li>
+<li>1000M Ethernet Integrated IEEE 802.3 10/100/1000M Ethernet MAC with RGMII</li>
+<li>Wi-Fi 802.11 b/g/n/ac, MIMO 2T2R, діапазони 2.4 ГГц и 5 ГГц</li>
+<li>Bluetooth 4.1</li>
+<li>Інтерфейси: HDMI, слот для мікро SD карти, RJ45, SPDIF, 2 x USB 3.0, 1 x USB 2.0 OTG, AV</li>
+<li>Сертифікат: CE, FCC, RoHs</li>
+<li>HDMI 2.1 до 4K @ 75 Гц</li>
+</ul>
+
+<p>Особливості:</p>
+<ul>
+<li>Гіропульт з мікрофоном</li>
+<li>Процесор Amlogic S922X Hexacore</li>
+<li>Підтримка 4К відео</li>
+<li>Зручна та швидка прошивка.</li>
+</ul>
+ ]]>
+</description>
+
+    <param name="Особливості">OC Android</param>
+    <param name="Мережеві можливості">Bluetooth, Ethernet, WI-FI</param>
+	<param name="Максимальна роздільна здатність">4K Ultra HD (3840x2160)</param>
+	<param name="Тип">Стаціонарний</param>
+	<param name="Наявність дисплея">Немає</param>
+	<param name="Входи і виходи">2 x USB 3.0, 1 x USB 2.0, 1 x HDMI вихід, 1 x LAN, SPDIF, Слот для карт памяти, AV</param>
+	<param name="Жорсткий диск (Вбудована пам'ять)">64 ГБ</param>
+	<param name="Об'єм оперативної пам'яті">4 ГБ</param>
+	<param name="Категорія пристрою">HD медіаплеєри</param>
+	<param name="Продавець">Інші продавці</param>
+	<param name="Додаткові характеристики">Операційна система: Android 9, Процесор: s922X , Графічний процесор: Arm Mali-G52MP @ 846 МГц, ОЗУ: 4 ГБ DDR4, Беспровідні інтерфейси: Wi-Fi 802.11 b / g / n, Bluetooth, Підтримка USB клавіатури і миші</param>
+	<param name="Комплект постачання">Медіаплеєр, пульт дистанційного керування, блок живлення, HDMI кабель, інструкція</param>
+	<param name="Страна-производитель товара">Китай</param>
+	<param name="Гарантия">6 місяців</param>
+	<param name="Цвет">Черный</param>
+  </offer>
+
+<offer id="1088594094" available="true" >
+<url>https://leobox.com.ua/p1088594094-beelink-king-pro.html</url>
+    <price>4899</price>
+	<price_promo>4897</price_promo>
+    <currencyId>UAH</currencyId>
+    <categoryId>3</categoryId>
+    <picture>http://i.piccy.info/i9/c7f06b18592448b59be7a5ed5624bca2/1591253217/179470/1380432/04.jpg</picture>
+    <picture>http://i.piccy.info/i9/5733a78b474a4d8540a86e7218c615d8/1591253236/228680/1380432/06.jpg</picture>
+	<picture>http://i.piccy.info/i9/cce59defd9333c2506aafb2014cc76c1/1591253250/232668/1380432/05.jpg</picture>
+	<name>Смарт тв приставка - Beelink GT-King Pro 4/64 GB</name>
+	<stock_quantity>5</stock_quantity>
+    <vendor>Beelink</vendor>
+    <vendorCode>gtpro_b</vendorCode>
+    <description>
+<![CDATA[ 
+<p>Смарт тв приставка <strong>Beelink GT-King Pro</strong> поєднує в собі всі найкращі апаратні та програмні рішення від попередніх моделей і можливостей Amlogic наступного покоління процесорів S922X.</p>
+<p>Beelink GT-King Pro - це справжній "монстр" серед смарт тв приставок, пристрій об'єднює в себе 3 головних аспекта для розваг в світі смарт ТВ: відео, аудіо та ігри. Для справжніх кіноманів, приставка наділена технологією Advanced Video Engine Gen10, яка виконує декодування відео з кодеками H265 и VP9 з підтримкою HDR, Dolby Vision, Advanced HDR10, HDR10 +, HLG и PRIME HDR і все це звісно в форматі 4K/60 fps. Для людей які є фанатами музики (меломани) пристрій, за допомогою окремого ЦАП — ESS9108, відтворює багатоканальний звук з ліцензіями DTS и Dolby. Для геймерів — потужний 6 ядерний процесор з графічним прискорювачем Mali-G52MP6, який дозволяє використовувати ТВ бокс для потужних ігор з вимогливою графікою на великих екранах.</p>
+<p>Приставка отримала новий процесор SoC S922X на базі 2 ядер Cortex A53 та чотирьох сучасних ядер Cortex A73 і графічну систему Mali-G52 MP6. Все це працює в зв'язці з оперативною пам'яттю нового стандарту LPDDR4. Також смарт тв приставка оснащена новою операційною системою Android 9.0.</p>
+<p>Beelink GT-King легко працює з 4K форматом з частотою 75 Hz, підтримує  CEC, HDCP і HDR. Бездротові аеромиші і іншу периферію легко синхронізувати по Bluetooth технології v 5.0. Багатоканальну акустику можна підключити по S/PDIF кабелю, а робота з аналоговими стереосистемами і навушниками можлива через аудіовихід Jack 3,5 мм. Управління апаратом здійснюється через радіо пульт (Air Mouse) дистанційного керування з гіроскопом та мікрофоном. Смарт-бокс підтримує сучасні кодеки H.265, VP9 і AVS2 та має функцію AFR (Auto Frame Rate).</p>
+
+<p>Характеристики:</p>
+<ul>
+<li>Процесор - Amlogic S922X-H Hexacore CPU з частотою до 2,21 МГц 6 ядер (2 х Cortex A53 та 4 х Cortex A73</li>
+<li>Графічний процесор Arm Mali-G52MP @ 846 МГц</li>
+<li>Система: Андроїд 9</li>
+<li>Тип оперативної пам'яті: LPDDR4</li>
+<li>AVE-10 двіжок с декодуванням відео 4K UHD H.265 / VP9 / AVS2 до 60 fps, підтримка Dolby Vision, Advanced HDR10, HDR10+, HLG, и PRIME HDR</li>
+<li>H.265/HEVC Main/Main10 profile @ level 5.1 High-tier; up to 4Kx2K @ 60fps</li>
+<li>VP9 Profile-2 up to 4Kx2K@60fps</li>
+<li>H.265 HEVC MP-10@L5.1 up to 4Kx2K@60f</li>
+<li>AVS2-P2 Profile up to 4Kx2K@60fps</li>
+<li>H.264 AVC HP@L5.1 up to 4Kx2K@30fps</li>
+<li>H.264 MVC up to 1080P@60fps</li>
+<li>MPEG-4 ASP@L5 up to 1080P@60fps (ISO-14496)</li>
+<li>WMV/VC-1 SP/MP/AP up to 1080P@60fps</li>
+<li>AVS-P16(AVS+) /AVS-P2 JiZhun Profile up to 1080P@60fps</li>
+<li>MPEG-2 MP/HL up to 1080P@60fps (ISO-13818)</li>
+<li>MPEG-1 MP/HL up to 1080P@60fps (ISO-11172)</li>
+<li>RealVideo 8/9/10 up to 1080P@60fps</li>
+<li>1000M Ethernet Integrated IEEE 802.3 10/100/1000M Ethernet MAC with RGMII</li>
+<li>Wi-Fi 802.11 b/g/n/ac, MIMO 2T2R, діапазони 2.4 ГГц и 5 ГГц</li>
+<li>Bluetooth 4.1 + EDR</li>
+<li>Інтерфейси: HDMI, слот для мікро SD карти, RJ45, SPDIF, 4 x USB 3.0, RS232, AV-audio</li>
+<li>Сертифікат: CE, FCC, RoHs</li>
+<li>HDMI 2.1 до 4K @ 75 Гц</li>
+</ul>
+
+<p>Особливості:</p>
+<ul>
+<li>Гіропульт з мікрофоном</li>
+<li>Процесор Amlogic S922X-H 2,2МГц</li>
+<li>Підтримка 4К відео</li>
+<li>Зручна та швидка прошивка</li>
+</ul>
+ ]]>
+</description>
+
+    <param name="Особливості">OC Android</param>
+    <param name="Мережеві можливості">Bluetooth, Ethernet, WI-FI</param>
+	<param name="Максимальна роздільна здатність">4K Ultra HD (3840x2160)</param>
+	<param name="Тип">Стаціонарний</param>
+	<param name="Наявність дисплея">Немає</param>
+	<param name="Входи і виходи">2 x USB 3.0, 1 x USB 2.0, 1 x HDMI вихід, 1 x LAN, SPDIF, Слот для карт памяти, AV</param>
+	<param name="Жорсткий диск (Вбудована пам'ять)">64 ГБ</param>
+	<param name="Об'єм оперативної пам'яті">4 ГБ</param>
+	<param name="Категорія пристрою">HD медіаплеєри</param>
+	<param name="Продавець">Інші продавці</param>
+	<param name="Додаткові характеристики">Операційна система: Android 9, Процесор: s922X , Графічний процесор: Arm Mali-G52MP @ 846 МГц, ОЗУ: 4 ГБ DDR4, Беспровідні інтерфейси: Wi-Fi 802.11 b / g / n, Bluetooth, Підтримка USB клавіатури і миші</param>
+	<param name="Комплект постачання">Медіаплеєр, пульт дистанційного керування, блок живлення, HDMI кабель, інструкція</param>
+	<param name="Страна-производитель товара">Китай</param>
+	<param name="Гарантия">6 місяців</param>
+	<param name="Цвет">Черный</param>
+  </offer>
+
+
  #mecool km1 
  
  <offer id="1169484743" available="true" >

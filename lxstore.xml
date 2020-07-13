@@ -3460,7 +3460,7 @@
 	<param name="Цвет">Черный</param>
   </offer> 
  
-<offer id="1100274137" available="true" >
+<offer id="1100274137" available="false" >
 <url>https://leobox.com.ua/p1100274137-ugoos-plus-464.html</url>
     <price>2799</price>
 	<old_price>2900</old_price>
@@ -3603,11 +3603,11 @@
 	<param name="Цвет">Черный</param>
   </offer>
 
-<offer id="1088594094" available="false" >
+<offer id="1088594094" available="true" >
 <url>https://leobox.com.ua/p1088594094-beelink-king-pro.html</url>
-    <price>4899</price>
-	<old_price>4999</old_price>
-	<price_promo>4897</price_promo>
+    <price>4199</price>
+	<old_price>4500</old_price>
+	<price_promo>4197</price_promo>
     <currencyId>UAH</currencyId>
     <categoryId>3</categoryId>
     <picture>http://i.piccy.info/i9/c7f06b18592448b59be7a5ed5624bca2/1591253217/179470/1380432/04.jpg</picture>

@@ -2752,7 +2752,9 @@
  
 <offer id="1226173392" available="true" >
 <url>https://leobox.com.ua/p1226173392-ryukzak-ozuko-8983l.html</url>
-    <price>1749</price>
+    <price>1649</price>
+	<old_price>1749</old_price>
+	<price_promo>1649</price_promo>
     <currencyId>UAH</currencyId>
     <categoryId>8</categoryId>
     <picture>http://i.piccy.info/i9/4db8ee6122d33d9564025e060d879da1/1596785588/381719/1380432/IMG_6289.jpg</picture>
@@ -2812,7 +2814,9 @@
 
 <offer id="1231784512" available="true" >
 <url>https://leobox.com.ua/p1231784512-ryukzak-ozuko-8983l.html</url>
-    <price>1849</price>
+    <price>1699</price>
+	<old_price>1799</old_price>
+	<price_promo>1649</price_promo>
     <currencyId>UAH</currencyId>
     <categoryId>8</categoryId>
     <picture>http://i.piccy.info/i9/4db8ee6122d33d9564025e060d879da1/1596785588/381719/1380432/IMG_6289.jpg</picture>
@@ -2872,7 +2876,9 @@
 
 <offer id="1231806774" available="true" >
 <url>https://leobox.com.ua/p1231806774-ryukzak-gorodskoj-ozuko.html</url>
-    <price>1089</price>
+    <price>1085</price>
+	<old_price>1200</old_price>
+	<price_promo>1085</price_promo>
     <currencyId>UAH</currencyId>
     <categoryId>8</categoryId>
     <picture>http://i.piccy.info/i9/380a97b282d07b7093d992817bda6047/1596788066/248894/1380432/78530IMG_0286.jpg</picture>
@@ -2916,7 +2922,9 @@
  
 <offer id="1231815951" available="true" >
 <url>https://leobox.com.ua/p1231815951-ryukzak-rolltop-ozuko.html</url>
-    <price>1089</price>
+    <price>1199</price>
+	<old_price>1299</old_price>
+	<price_promo>1199</price_promo>
     <currencyId>UAH</currencyId>
     <categoryId>8</categoryId>
     <picture>http://i.piccy.info/i9/60ff59dc7521abbb1e2d45063e11c543/1596789789/295944/1380432/5X7A9335.jpg</picture>
@@ -2965,7 +2973,9 @@
  
  <offer id="1231891893" available="true" >
 <url>https://leobox.com.ua/p1231891893-gorodskoj-ryukzak-ozuko.html</url>
-    <price>1839</price>
+    <price>1799</price>
+	<old_price>1839</old_price>
+	<price_promo>1799</price_promo>
     <currencyId>UAH</currencyId>
     <categoryId>8</categoryId>
     <picture>http://i.piccy.info/i9/f011350d117800f6ed2d204d5dc171ef/1597210006/160508/1380432/5.jpg</picture>
@@ -3000,7 +3010,9 @@
  
  <offer id="1234423667" available="true" >
 <url>https://leobox.com.ua/p1234423667-gorodskoj-ryukzak-ozuko.html</url>
-    <price>1839</price>
+    <price>1739</price>
+	<old_price>1839</old_price>
+	<price_promo>1739</price_promo>
     <currencyId>UAH</currencyId>
     <categoryId>8</categoryId>
     <picture>http://i.piccy.info/i9/cfb887a8a7db686d2124cccb7805a14f/1597227617/137538/1380432/7U6A5244.jpg</picture>
@@ -3031,7 +3043,9 @@
  
  <offer id="1234436981" available="true" >
 <url>https://leobox.com.ua/p1234436981-ryukzak-odnoj-lyamkoj.html</url>
-    <price>1839</price>
+    <price>845</price>
+	<old_price>945</old_price>
+	<price_promo>845</price_promo>
     <currencyId>UAH</currencyId>
     <categoryId>8</categoryId>
     <picture>http://i.piccy.info/i9/056aeab3ffd068e678e4515d69709b05/1597653858/234107/1380432/5X7A2710.jpg</picture>
@@ -3074,7 +3088,9 @@
  
  <offer id="1234439619" available="true" >
 <url>https://leobox.com.ua/p1234439619-ryukzak-odnoj-lyamkoj.html</url>
-    <price>1839</price>
+    <price>845</price>
+	<old_price>945</old_price>
+	<price_promo>845</price_promo>
     <currencyId>UAH</currencyId>
     <categoryId>8</categoryId>
     <picture>http://i.piccy.info/i9/3fe4c820e63cdbb343f41f3562b3885a/1597654059/204472/1380432/5X7A8628.jpg</picture>
@@ -3115,7 +3131,9 @@
  
  <offer id="1234440709" available="true" >
 <url>https://leobox.com.ua/p1234440709-ryukzak-sumka-transformer.html</url>
-    <price>1839</price>
+    <price>1489</price>
+	<old_price>1600</old_price>
+	<price_promo>1489</price_promo>
     <currencyId>UAH</currencyId>
     <categoryId>8</categoryId>
     <picture>http://i.piccy.info/i9/5cb95a730149566710514ec62f71a0d3/1597654281/376749/1380432/5X7A2844.jpg</picture>

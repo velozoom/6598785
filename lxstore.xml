@@ -4587,6 +4587,76 @@
 	<param name="Цвет">Черный</param>
   </offer> 
  
+<offer id="1247581062" available="true" >
+<url>https://leobox.com.ua/p1247581062-ugoos-tox1-432.html</url>
+    <price>1699</price>
+	<old_price>1750</old_price>
+	<price_promo>1699</price_promo>
+    <currencyId>UAH</currencyId>
+    <categoryId>3</categoryId>
+    <picture>http://i.piccy.info/i9/2ec0f36b90387318a5648b2f2bdf21e7/1599111011/50402/1380432/tox1_1000x1000.jpg</picture>
+    <picture>http://i.piccy.info/i9/a0d6d1e1419cc54a65306a2ceb33e27b/1599111046/103509/1380432/UGOOS_TOX12.jpg</picture>
+	<picture>http://i.piccy.info/i9/ee0de20727fb0012a23d9ff3373b506e/1599111076/120558/1380432/ugoos_tox1_n02.jpg</picture>
+	<picture>http://i.piccy.info/i9/21589b100e89adabd479d68b370806bc/1599111113/76440/1380432/tox_01.jpg</picture>
+	<picture>http://i.piccy.info/i9/dc27fb8349b88c5f8eef5eb6a54a0a2b/1599111150/51802/1380432/H45abab50f4554db5aefaccbaa63cb95ak.jpg</picture>
+	<name>Смарт тв приставка - Ugoos TOX1 4K TV Box 4/32 GB</name>
+	<stock_quantity>5</stock_quantity>
+    <vendor>Ugoos</vendor>
+    <vendorCode>Tox1_b</vendorCode>
+    <description>
+<![CDATA[ 
+<p>Новинка осені 2020 року TOX1 - нова смарт приставка від компанії Ugoos, яка поєднує в собі всі найкращі апаратні та програмні рішення. Приставка працює на процесорі S905X3 Quad-Core Cortex-A55 up to 2.0GHz з потужним графічним процесором ARM Mali-G31MP2, оснащена 4 ГБ DDR4 оперативної пам'яті та 32 ГБ EMMC для зберігання файлів.</p>
+
+<p><strong>Основні особливості:</p></strong>
+<ul>
+<li><strong>Amlogic S905X3 Чотирьохядерний процесор ARM + G31 MP2 GPU</strong></li>
+<p>Поставляється з високопродуктивним процесором + графічним процесором, завдяки чому ТВ-приставка TOX1 працює швидко і плавно з відмінним тепловідводом, ніколи не турбуйтеся про буферизації і перегрів, поки ви переглядаєте фільми або граєте в ігри, які підвищують швидкість роботи і розширюють можливості обробки зображень.</p>
+<li><strong>4 ГБ ОЗУ + 32 ГБ ПЗУ</strong></li>
+<p>4 ГБ оперативної пам'яті + 32 ГБ ПЗУ дозволяє плавно відображати HD-відео і завантажувати величезні ресурси з Інтернету,  для зберігання великої кількості фільмів і програм, перегляду веб-сторінок і т. д.</p>
+<li><strong>HEVC H .264 VP9 AVS2-P2</strong></li>
+<p>Різне декодування відео може заощадити більше ресурсів полоси пропускання, дозволяючи плавно дивитися фільм 8K 24FPS.</p>
+<li><strong>Розширення 8K UHD</strong></li>
+<p>Підтримка мультивідеодекодера до 8K при 24 кадрах в секунду, 4K x 2K при 60 кадрах в секунду + 1 x 1080P при 60 кадрах в секунду, що забезпечує більш детальне і красиве зображення.</p>
+<li><strong>USB 3.0.</strong></li>
+<p>Швидкість передачі даних теоретично в 10 разів вище, ніж у USB2.0. Ви можете швидко перенести фільми, зображення та інші ресурси з USB-накопичувачів або мобільних пристроїв на ТВ-бокс для відтворення.</p>
+<li><strong>ОС Android 9.0</strong></li>
+<p>Адаптована операційна система Android 9.0 для сильної сумісності, вона сумісна з великою кількістю програмного забезпечення, ігор і додатків для поліпшення взаємодії з користувачем.</p>
+<li><strong>Насолоджуйтесь великим екраном</strong></li>
+<p>Підтримує DLNA, Miracast, Airscreen. Ви можете грати в ігри і дивитися фільми на великому екрані.</p>
+<li><strong>Насолоджуйтесь великим екраном</strong></li>
+<p>Підтримує DLNA, Miracast, Airscreen. Ви можете грати в ігри і дивитися фільми на великому екрані.</p>
+<li><strong>Параметри:</strong></li>
+<p>CPU: ARM Cortex-A55 CPU 1.9GhZ</p>
+<p>GPU: ARM G31 MP2 GPU</p>
+<p>Android 9.0 OS</p>
+<p>Підтримка H.265, 4K * 2K 60pfs, HD 2.0, USB3.0, USB2.0</p>
+<p>Підтримка Miracast, Airscreen, DLNA</p>
+<p>Підтримка 1000M Ethernet, 2.4G і 5GHz Dual Wifi, BT4.2</p>
+<p>Якщо ви хочете використовувати функцію Dobly Audio. Будь ласка, використовуйте VLC або KD</p>
+</ul>
+
+ ]]>
+</description>
+
+    <param name="Особливості">OC Android</param>
+    <param name="Мережеві можливості">Bluetooth, Ethernet, WI-FI</param>
+	<param name="Максимальна роздільна здатність">4K Ultra HD (3840x2160)</param>
+	<param name="Тип">Стаціонарний</param>
+	<param name="Наявність дисплея">Немає</param>
+	<param name="Входи і виходи">1 x USB 2.0, 1 x USB 3.0, 1 x HDMI вихід, 1 x LAN, Слот для карт памяти</param>
+	<param name="Жорсткий диск (Вбудована пам'ять)">32 ГБ</param>
+	<param name="Об'єм оперативної пам'яті">4 ГБ</param>
+	<param name="Категорія пристрою">HD медіаплеєри</param>
+	<param name="Продавець">Інші продавці</param>
+	<param name="Додаткові характеристики">Операційна система: Android 9, Процесор: s905x3 , Графічний процесор: Mali-G31 MP2, ОЗУ: 4 ГБ DDR4, Беспровідні інтерфейси: Wi-Fi 802.11 b / g / n, Bluetooth, Підтримка USB клавиатури і миші</param>
+	<param name="Комплект постачання">Медіаплеєр, пульт дистанційного керування, блок живлення, HDMI кабель, інструкція</param>
+	<param name="Страна-производитель товара">Китай</param>
+	<param name="Гарантия">6 місяців</param>
+	<param name="Цвет">Черный</param>
+  </offer> 
+
+
+
 #Beelink
 
 <offer id="1032737621" available="true" >

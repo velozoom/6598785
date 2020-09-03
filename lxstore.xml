@@ -1052,6 +1052,7 @@
 <offer id="928209987" available="true" >
 <url>https://leobox.com.ua/p928209987-ryukzak-pentagram-20l.html</url>
     <price>1149</price>
+	<old_price>1299</old_price>
     <currencyId>UAH</currencyId>
     <categoryId>2</categoryId>
     <picture>http://i.piccy.info/i9/3c836c13b32d226d16f53c0b9a1d77a1/1598599444/66533/1380432/55819O1CN01ObAjjy1t0laHnyuEp_40625840.jpg</picture>
@@ -1593,14 +1594,13 @@
 	<param name="цвет">Красный</param>
   </offer>    
   
-  
-  
+   
  
 # pentagram pm001 35 1300
 
 <offer id="1026581425" available="true" >
     <url>https://leobox.com.ua/p1026581425-turisticheskij-ryukzak-pentagram.html</url>
-    <price>1449</price>
+    <price>1349</price>
 	<old_price>1499</old_price>
     <currencyId>UAH</currencyId>
     <categoryId>2</categoryId>
@@ -1671,7 +1671,7 @@
 
 <offer id="1027823849" available="true" >
     <url>https://leobox.com.ua/p1027823849-turisticheskij-ryukzak-pentagram.html</url>
-    <price>1449</price>
+    <price>1349</price>
 	<old_price>1499</old_price>
     <currencyId>UAH</currencyId>
     <categoryId>2</categoryId>
@@ -1741,7 +1741,7 @@
 
 <offer id="1026580776" available="true" >
     <url>https://leobox.com.ua/p1026580776-turisticheskij-ryukzak-pentagram.html</url>
-    <price>1449</price>
+    <price>1349</price>
 	<old_price>1499</old_price>
     <currencyId>UAH</currencyId>
     <categoryId>2</categoryId>
@@ -1811,7 +1811,7 @@
 
 <offer id="1026562877" available="true" >
     <url>https://leobox.com.ua/p1026562877-turisticheskij-ryukzak-pentagram.html</url>
-    <price>1449</price>
+    <price>1349</price>
 	<old_price>1499</old_price>
     <currencyId>UAH</currencyId>
     <categoryId>2</categoryId>
@@ -1881,7 +1881,7 @@
 
 <offer id="1243953595" available="true" >
     <url>https://leobox.com.ua/p1243953595-turisticheskij-ryukzak-pentagram.html</url>
-    <price>1449</price>
+    <price>1349</price>
 	<old_price>1499</old_price>
     <currencyId>UAH</currencyId>
     <categoryId>2</categoryId>
@@ -1951,12 +1951,11 @@
 
 
 
-
 # pentagram 35 900
 <offer id="722711979" available="true" >
 <url>https://leobox.com.ua/p722711979-ryukzak-pentagram-35l.html</url>
-    <price>999</price>
-	<old_price>1199</old_price>
+    <price>1349</price>
+	<old_price>1499</old_price>
     <currencyId>UAH</currencyId>
     <categoryId>2</categoryId>
     <picture>https://picua.org/images/2019/04/12/fb0c35a91d2b176830d76fabf313afd1.jpg</picture>
@@ -2025,8 +2024,8 @@
 <offer id="722706006" available="true" >
  
 <url>https://leobox.com.ua/p722706006-ryukzak-pentagram-35l.html</url>
-    <price>1099</price>
-	<old_price>1199</old_price>
+    <price>1349</price>
+	<old_price>1499</old_price>
     <currencyId>UAH</currencyId>
     <categoryId>2</categoryId>
     <picture>https://picua.org/images/2019/04/04/ccdce26d4b67659a8d0ba530e6094a65.jpg</picture>
@@ -2298,8 +2297,7 @@
   </offer>
  
  
- 
- 
+  
  # pentagram 50 1300
 <offer id="1000646214" available="true" >
 <url>https://leobox.com.ua/p1000646214-ryukzak-pentagram-50l.html</url>
@@ -2816,8 +2814,8 @@
 # pentagram 40 max
 <offer id="847734475" available="true" >
 <url>https://leobox.com.ua/p847734475-ryukzak-pentagram-max.html</url>
-    <price>1599</price>
-	<old_price>1799</old_price>
+    <price>1499</price>
+	<old_price>1599</old_price>
     <currencyId>UAH</currencyId>
     <categoryId>2</categoryId>
     <picture>http://i.piccy.info/i9/764eadfcfc7159341bcba58a44147426/1564400059/195193/1329562/40_max_01.jpg</picture>
@@ -2879,8 +2877,8 @@
 
 <offer id="928203677" available="true" >
 <url>https://leobox.com.ua/p928203677-ryukzak-pentagram-max.html</url>
-    <price>1599</price>
-	<old_price>1799</old_price>
+    <price>1499</price>
+	<old_price>1599</old_price>
     <currencyId>UAH</currencyId>
     <categoryId>2</categoryId>
     <picture>http://i.piccy.info/i9/d0e5ebc9a033e6bfe19310611dd23e76/1564479149/121782/1329562/pm01_bl.jpg</picture>
@@ -2941,8 +2939,8 @@
 
 <offer id="1013177380" available="true" >
 <url>https://leobox.com.ua/p1013177380-ryukzak-pentagram-max.html</url>
-    <price>1599</price>
-	<old_price>1799</old_price>
+    <price>1499</price>
+	<old_price>1599</old_price>
     <currencyId>UAH</currencyId>
     <categoryId>2</categoryId>
     <picture>http://i.piccy.info/i9/19541c69e87653e194c39ad8bb3b2f04/1564480303/230188/1329562/pm01_black.jpg</picture>
@@ -3070,8 +3068,8 @@
 
 <offer id="1032763052" available="true" >
 <url>https://leobox.com.ua/p1032763052-ryukzak-pentagram-turizm.html</url>
-    <price>1799</price>
-	<old_price>1999</old_price>
+    <price>1699</price>
+	<old_price>1800</old_price>
     <currencyId>UAH</currencyId>
     <categoryId>2</categoryId>
     <picture>http://i.piccy.info/i9/488c57ff74b0e08e794a23ba79e25f7e/1567573634/178886/1329562/pm005_g_01.jpg</picture>
@@ -3136,8 +3134,8 @@
 
 <offer id="1032766419" available="true" >
 <url>https://leobox.com.ua/p1032766419-ryukzak-pentagram-turizm.html</url>
-    <price>1799</price>
-	<old_price>1999</old_price>
+    <price>1699</price>
+	<old_price>1800</old_price>
     <currencyId>UAH</currencyId>
     <categoryId>2</categoryId>
     <picture>http://i.piccy.info/i9/23d0116f5a6f64e256fce78aaf942faa/1567574178/193402/1329562/pm005_nb_01.jpg</picture>

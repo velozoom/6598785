@@ -2300,7 +2300,7 @@
  
   
  # pentagram 50 1300
-<offer id="1000646214" available="true" >
+<offer id="1000646214" available="false" >
 <url>https://leobox.com.ua/p1000646214-ryukzak-pentagram-50l.html</url>
     <price>1449</price>
 	<old_price>1599</old_price>
@@ -2310,7 +2310,7 @@
     <picture>http://i.piccy.info/i9/a6eebd264495d4692ff297a0c266cf3d/1564472568/157945/1329562/pm02_biruz_02.jpg</picture>
     <picture>http://i.piccy.info/i9/29fb275ab403ebb51035cb70ab2bbef6/1564472584/139874/1329562/pm02_biruz_03.jpg</picture>
 	<name>Рюкзак універсальний Pentagram 50 л Peacock Blue (PM002)</name>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendor>Pentagram</vendor>
     <vendorCode>PM002-50br</vendorCode>
     <description>

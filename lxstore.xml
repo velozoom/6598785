@@ -1461,6 +1461,7 @@
 	<param name="гарантия">14 дней</param>
 	<param name="цвет">Зеленый</param>
   </offer> 
+
   
 <offer id="998381504" available="true" >
     <url>https://leobox.com.ua/p998381504-turisticheskij-ryukzak-pentagram.html</url>
@@ -1477,6 +1478,7 @@
     <vendor>Pentagram</vendor>
     <vendorCode>PM002-40b</vendorCode>
     <description>
+	
 <![CDATA[ 
 <p>Туристичний рюкзак Pentagram 35L професійне рішення для туризму, походів в гори та їзди на велосипеді. </p>
 <p>Одною з особливостей рюкзака Pentagram є його залізна вставка, яка рівномірно розподіляє навантаження і спина не втомлюється. Якщо до цього ви користувались звичайним "безкаркасником", після носіння цього рюкзака старі одягати на плечі не захочеться. </p>
@@ -1528,6 +1530,7 @@
 	<param name="гарантия">14 дней</param>
 	<param name="цвет">Черный</param>
   </offer>  
+
 
 <offer id="917327158" available="true" >
     <url>https://leobox.com.ua/p917327158-turisticheskij-ryukzak-pentagram.html</url>
@@ -2672,6 +2675,7 @@
 <url>https://leobox.com.ua/p917325251-ryukzak-pentagram-50l.html</url>
     <price>1449</price>
 	<old_price>1599</old_price>
+	<price_promo>1266<price_promo>
     <currencyId>UAH</currencyId>
     <categoryId>2</categoryId>
     <picture>http://i.piccy.info/i9/d8575b8ce7c1fd2cde9f4887de9c2cfa/1565773584/226079/1329562/pm02_haki_01.jpg</picture>

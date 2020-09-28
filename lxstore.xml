@@ -3815,7 +3815,7 @@
  
  
  
- # smart tv box
+# smart tv box
 <offer id="925209614" available="false" >
 <url>https://leobox.com.ua/p925209614-x99-max-464.html</url>
     <price>3399</price>
@@ -4811,7 +4811,7 @@
 	<param name="Цвет">Черный</param>
   </offer>
 
-<offer id="1231325942" available="true" >
+<offer id="1231325942" available="false" >
 <url>https://leobox.com.ua/p1231325942-beelink-king-464.html</url>
     <price>8198</price>
 	<old_price>9000</old_price>

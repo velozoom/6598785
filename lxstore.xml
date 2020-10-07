@@ -4661,7 +4661,7 @@
 
 #Beelink
 
-<offer id="1032737621" available="true" >
+<offer id="1032737621" available="false" >
 <url>https://leobox.com.ua/p1032737621-beelink-king-464.html</url>
     <price>3499</price>
 	<old_price>3550</old_price>
@@ -5415,8 +5415,8 @@
 
 <offer id="1098681126" available="true" >
 <url>https://leobox.com.ua/p1098681126-deerma-dem-f628s.html</url>
-    <price>1049</price>
-	<old_price>1099</old_price>
+    <price>1099</price>
+	<old_price>1199</old_price>
 	<price_promo>1049</price_promo>
     <currencyId>UAH</currencyId>
     <categoryId>7</categoryId>

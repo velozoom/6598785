@@ -4257,7 +4257,7 @@
 	<param name="Цвет">Черный</param>
   </offer> 
 
-<offer id="1064302955" available="true" >
+<offer id="1064302955" available="false" >
 <url>https://leobox.com.ua/p1064302955-ugoos-am6-pro.html</url>
     <price>4399</price>
 	<old_price>4999</old_price>
@@ -5178,9 +5178,9 @@
  
 <offer id="1184519367" available="true" >
 <url>https://leobox.com.ua/p1184519367-deerma-dem-f628a.html</url>
-    <price>999</price>
+    <price>949</price>
 	<old_price>1099</old_price>
-	<price_promo>999</price_promo>
+	<price_promo>949</price_promo>
     <currencyId>UAH</currencyId>
     <categoryId>7</categoryId>
     <picture>http://i.piccy.info/i9/9beec41009194a870583d631d9dc6ca8/1590650044/20612/1380432/Deerma_DEM_F628A.jpg</picture>
@@ -5324,7 +5324,7 @@
 <offer id="1035143801" available="true" >
 
 <url>https://leobox.com.ua/p1035143801-deerma-sjs-100.html</url>
-    <price>1549</price>
+    <price>1449</price>
 	<old_price>1649</old_price>
 	<price_promo>1098</price_promo>
     <currencyId>UAH</currencyId>

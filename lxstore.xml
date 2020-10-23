@@ -4887,7 +4887,7 @@
  
  <offer id="1169484743" available="true" >
 <url>https://leobox.com.ua/p1169484743-mecool-km1-classic.html</url>
-    <price>1699</price>
+    <price>1899</price>
 	<old_price>1890</old_price>
     <currencyId>UAH</currencyId>
     <categoryId>3</categoryId>
@@ -4949,7 +4949,7 @@
 	<param name="Цвет">Черный</param>
   </offer> 
  
- <offer id="1168866633" available="true" >
+ <offer id="1168866633" available="false" >
 <url>https://leobox.com.ua/p1168866633-mecool-km1-deluxe.html</url>
     <price>2075</price>
 	<old_price>2500</old_price>
@@ -4960,7 +4960,7 @@
 	<picture>http://i.piccy.info/i9/6f6172fc56d6a73cce56cb60175ec4bc/1590583310/143211/1380432/KM1r.jpg</picture>
 	<picture>http://i.piccy.info/i9/80fa6ec0fc3aca4f18ae52173ac08fe2/1590583362/90453/1380432/1_2.jpg</picture>
 	<name>Смарт тв приставка Mecool KM1 Deluxe 4gb/32gb (S905X3)</name>
-	<stock_quantity>10</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendor>Mecool, Videostrong</vendor>
     <vendorCode>km1_32b</vendorCode>
     <description>
@@ -5015,7 +5015,7 @@
  
  <offer id="1168837975" available="true" >
 <url>https://leobox.com.ua/p1168837975-mecool-km1-collective.html</url>
-    <price>2399</price>
+    <price>2599</price>
 	<old_price>2600</old_price>
     <currencyId>UAH</currencyId>
     <categoryId>3</categoryId>

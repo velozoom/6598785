@@ -4736,7 +4736,7 @@
 	<param name="Цвет">Черный</param>
   </offer>
 
-<offer id="1088594094" available="true" >
+<offer id="1088594094" available="false" >
 <url>https://leobox.com.ua/p1088594094-beelink-king-pro.html</url>
     <price>4199</price>
 	<old_price>4500</old_price>
@@ -5178,8 +5178,8 @@
  
 <offer id="1184519367" available="true" >
 <url>https://leobox.com.ua/p1184519367-deerma-dem-f628a.html</url>
-    <price>1099</price>
-	<old_price>1199</old_price>
+    <price>1199</price>
+	<old_price>1299</old_price>
 	<price_promo>949</price_promo>
     <currencyId>UAH</currencyId>
     <categoryId>7</categoryId>

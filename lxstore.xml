@@ -4194,7 +4194,7 @@
 	<param name="Цвет">Черный</param>
   </offer>
 
-<offer id="947645560" available="true" >
+<offer id="947645560" available="false" >
 <url>https://leobox.com.ua/p947645560-mecool-km3-464.html</url>
     <price>2299</price>
 	<old_price>2400</old_price>
@@ -5176,7 +5176,7 @@
 	<param name="Цвет">Белый</param>
   </offer> 
  
-<offer id="1184519367" available="true" >
+<offer id="1184519367" available="false" >
 <url>https://leobox.com.ua/p1184519367-deerma-dem-f628a.html</url>
     <price>1199</price>
 	<old_price>1299</old_price>

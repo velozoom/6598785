@@ -850,7 +850,7 @@
 	<param name="цвет">Красный</param>
   </offer>
 
-<offer id="998225896" available="true" >
+<offer id="998225896" available="false" >
 <url>https://leobox.com.ua/p998225896-ryukzak-anmeilu-50l.html</url>
     <price>1549</price>
     <currencyId>UAH</currencyId>
@@ -1463,7 +1463,7 @@
   </offer> 
 
   
-<offer id="998381504" available="true" >
+<offer id="998381504" available="false" >
     <url>https://leobox.com.ua/p998381504-turisticheskij-ryukzak-pentagram.html</url>
     <price>1299</price>
 	<old_price>1399</old_price>
@@ -1531,7 +1531,7 @@
   </offer>  
 
 
-<offer id="917327158" available="true" >
+<offer id="917327158" available="false" >
     <url>https://leobox.com.ua/p917327158-turisticheskij-ryukzak-pentagram.html</url>
     <price>1299</price>
 	<old_price>1399</old_price>
@@ -1883,7 +1883,7 @@
 	<param name="цвет">Красный</param>
   </offer>
 
-<offer id="1243953595" available="true" >
+<offer id="1243953595" available="false" >
     <url>https://leobox.com.ua/p1243953595-turisticheskij-ryukzak-pentagram.html</url>
     <price>1349</price>
 	<old_price>1499</old_price>
@@ -2025,7 +2025,7 @@
 	<param name="цвет">Синий</param>
   </offer>
   
-<offer id="722706006" available="true" >
+<offer id="722706006" available="false" >
  
 <url>https://leobox.com.ua/p722706006-ryukzak-pentagram-35l.html</url>
     <price>1349</price>
@@ -3733,7 +3733,7 @@
 #gidratory 
 <offer id="1002211256" available="true" >
 <url>https://leobox.com.ua/p1002211256-gidrator-turistichnij-pitna.html</url>
-    <price>399</price>
+    <price>349</price>
 	<old_price>499</old_price>
 	<price_promo>399</price_promo>
     <currencyId>UAH</currencyId>
@@ -3774,7 +3774,7 @@
 
 <offer id="1243979501" available="true" >
 <url>https://leobox.com.ua/p1243979501-gidrator-turistichnij-pitna.html</url>
-    <price>399</price>
+    <price>349</price>
 	<old_price>499</old_price>
 	<price_promo>399</price_promo>
     <currencyId>UAH</currencyId>
@@ -4885,7 +4885,7 @@
 
  #mecool km1 
  
- <offer id="1169484743" available="true" >
+ <offer id="1169484743" available="false" >
 <url>https://leobox.com.ua/p1169484743-mecool-km1-classic.html</url>
     <price>1899</price>
 	<old_price>1890</old_price>

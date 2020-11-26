@@ -3698,8 +3698,8 @@
  
  <offer id="1234440709" available="true" >
 <url>https://leobox.com.ua/p1234440709-ryukzak-sumka-transformer.html</url>
-    <price>1489</price>
-	<old_price>1600</old_price>
+    <price>1399</price>
+	<old_price>1500</old_price>
 	<price_promo>1489</price_promo>
     <currencyId>UAH</currencyId>
     <categoryId>8</categoryId>
@@ -3734,7 +3734,7 @@
 <offer id="1002211256" available="true" >
 <url>https://leobox.com.ua/p1002211256-gidrator-turistichnij-pitna.html</url>
     <price>349</price>
-	<old_price>499</old_price>
+	<old_price>449</old_price>
 	<price_promo>399</price_promo>
     <currencyId>UAH</currencyId>
     <categoryId>9</categoryId>

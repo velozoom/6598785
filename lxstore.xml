@@ -1742,7 +1742,7 @@
 	<param name="цвет">Зеленый</param>
   </offer>
 
-<offer id="1026580776" available="true" >
+<offer id="1026580776" available="false" >
     <url>https://leobox.com.ua/p1026580776-turisticheskij-ryukzak-pentagram.html</url>
     <price>1399</price>
 	<old_price>1499</old_price>

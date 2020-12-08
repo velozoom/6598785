@@ -4326,9 +4326,9 @@
 
 <offer id="1150902907" available="true" >
 <url>https://leobox.com.ua/p1150902907-ugoos-am6-plus.html</url>
-    <price>5199</price>
-	<old_price>5299</old_price>
-	<price_promo>5000</price_promo>
+    <price>5349</price>
+	<old_price>5500</old_price>
+	<price_promo>5200</price_promo>
     <currencyId>UAH</currencyId>
     <categoryId>3</categoryId>
     <picture>http://i.piccy.info/i9/e3d64052ff1019fa310ae4a93e5eab26/1566895313/85463/1329562/02.jpg</picture>
@@ -4391,7 +4391,7 @@
 	<param name="Цвет">Черный</param>
   </offer>
  
-<offer id="1089380092" available="true" >
+<offer id="1089380092" available="false" >
 <url>https://leobox.com.ua/p1089380092-ugoos-cube-216.html</url>
     <price>1899</price>
 	<old_price>2000</old_price>
@@ -4663,9 +4663,9 @@
 
 <offer id="1032737621" available="true" >
 <url>https://leobox.com.ua/p1032737621-beelink-king-464.html</url>
-    <price>3799</price>
-	<old_price>4000</old_price>
-	<price_promo>3695</price_promo>
+    <price>3999</price>
+	<old_price>4100</old_price>
+	<price_promo>3800</price_promo>
     <currencyId>UAH</currencyId>
     <categoryId>3</categoryId>
     <picture>http://i.piccy.info/i9/1bee73f60570883b72d3bb64d71feb78/1591250958/110296/1380432/01.jpg</picture>

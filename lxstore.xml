@@ -4257,18 +4257,18 @@
 	<param name="Цвет">Черный</param>
   </offer> 
 
-<offer id="1064302955" available="false" >
+<offer id="1064302955" available="true" >
 <url>https://leobox.com.ua/p1064302955-ugoos-am6-pro.html</url>
-    <price>4799</price>
-	<old_price>4900</old_price>
-	<price_promo>4697</price_promo>
+    <price>4900</price>
+	<old_price>5100</old_price>
+	<price_promo>4899</price_promo>
     <currencyId>UAH</currencyId>
     <categoryId>3</categoryId>
     <picture>http://i.piccy.info/i9/e3d64052ff1019fa310ae4a93e5eab26/1566895313/85463/1329562/02.jpg</picture>
     <picture>http://i.piccy.info/i9/1fa2df520798c9d248a4b1f6600fc02b/1590652378/85028/1380432/04.jpg</picture>
 	<picture>http://i.piccy.info/i9/b94c206f1a73ff617128cb2dd92c6c53/1590652166/44014/1380432/ugoos_am6_3_1000x1000.jpg</picture>
 	<name>Смарт тв приставка - Ugoos AM6 Pro 4/32 GB</name>
-	<stock_quantity>0</stock_quantity>
+	<stock_quantity>1</stock_quantity>
     <vendor>Ugoos</vendor>
     <vendorCode>am6_pro_b</vendorCode>
     <description>

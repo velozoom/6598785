@@ -3608,7 +3608,7 @@
 	<param name="Колір">Чорний</param>
   </offer> 
  
- <offer id="1234436981" available="true" >
+ <offer id="1234436981" available="false" >
 <url>https://leobox.com.ua/p1234436981-ryukzak-odnoj-lyamkoj.html</url>
     <price>845</price>
 	<old_price>945</old_price>
@@ -3620,7 +3620,7 @@
 	<picture>http://i.piccy.info/i9/f9aa454b344c1bc65983c6773d090ad7/1597653970/392678/1380432/5X7A2741.jpg</picture>
 	<picture>http://i.piccy.info/i9/29b5c20d79b4c2e3d3ab411185950f42/1597653997/502889/1380432/5X7A2773.jpg</picture>
 	<name>Рюкзак с одной лямкой OZUKO 9223 Черный</name>
-	<stock_quantity>5</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendor>Ozuko</vendor>
     <vendorCode>9223</vendorCode>
     <description>

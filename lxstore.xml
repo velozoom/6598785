@@ -2670,7 +2670,7 @@
 	<param name="цвет">Черный</param>
   </offer> 
 
-<offer id="917325251" available="true" >
+<offer id="917325251" available="false" >
 <url>https://leobox.com.ua/p917325251-ryukzak-pentagram-50l.html</url>
     <price>1449</price>
 	<old_price>1599</old_price>
@@ -4661,7 +4661,7 @@
 
 #Beelink
 
-<offer id="1032737621" available="true" >
+<offer id="1032737621" available="false" >
 <url>https://leobox.com.ua/p1032737621-beelink-king-464.html</url>
     <price>3999</price>
 	<old_price>4100</old_price>
@@ -5013,7 +5013,7 @@
 	<param name="Цвет">Черный</param>
   </offer> 
  
- <offer id="1168837975" available="true" >
+ <offer id="1168837975" available="false" >
 <url>https://leobox.com.ua/p1168837975-mecool-km1-collective.html</url>
     <price>2599</price>
 	<old_price>2600</old_price>

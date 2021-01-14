@@ -2386,7 +2386,7 @@
     <picture>http://i.piccy.info/i9/2b30a0ff4ef0579a4e528b15417a60dd/1564472923/173177/1329562/pm02_lgreen_01.jpg</picture>
     <picture>http://i.piccy.info/i9/401a5ae8a1e60a5d7bc4ac82b23737d3/1564472939/127703/1329562/pm02_lgreen_03.jpg</picture>
 	<name>Рюкзак універсальний Pentagram 50 л Apple Green (PM002)</name>
-	<stock_quantity>5</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendor>Pentagram</vendor>
     <vendorCode>PM002-50s</vendorCode>
     <description>
@@ -2459,7 +2459,7 @@
     <picture>http://i.piccy.info/i9/33ea49b837208a1082e66c76b1b4eb18/1564473135/174703/1329562/pm02_blue_01.jpg</picture>
     <picture>http://i.piccy.info/i9/a4a7412dc004c4f00fc01316609b38e6/1564473154/112690/1329562/pm02_blue_033.jpg</picture>
 	<name>Рюкзак універсальний Pentagram 50 л Lake Blue (PM002)</name>
-	<stock_quantity>5</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendor>Pentagram</vendor>
     <vendorCode>PM002-50b</vendorCode>
     <description>
@@ -2532,7 +2532,7 @@
     <picture>https://picua.org/images/2019/04/12/304c24ba4b562b684c4346ca548ce3fb.jpg</picture>
     <picture>https://picua.org/images/2019/04/12/09baef7626f41371612cebba623e45d2.jpg</picture>
 	<name>Рюкзак універсальний Pentagram 50 л Claret Red (PM002)</name>
-	<stock_quantity>5</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendor>Pentagram</vendor>
     <vendorCode>PM002-50r</vendorCode>
     <description>
@@ -2680,7 +2680,7 @@
     <picture>http://i.piccy.info/i9/f21588bc145b6ba16f3a31ec5a256f17/1565773607/153850/1329562/pm02_haki_02.jpg</picture>
     <picture>http://i.piccy.info/i9/fb671f25804400b99ff3812e3a61f56a/1565773639/119559/1329562/pm02_haki_04.jpg</picture>
     <name>Рюкзак універсальний Pentagram 50 л Army Green (PM002)</name>
-	<stock_quantity>5</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendor>Pentagram</vendor>
     <vendorCode>PM002-50h</vendorCode>
     <description>
@@ -3080,7 +3080,7 @@
     <picture>http://i.piccy.info/i9/706e4fc1fd5583139377b92320e0d6e4/1567573682/114069/1329562/pm005_g_02.jpg</picture>
 	<picture>http://i.piccy.info/i9/f5d17103ff15faa1f2bb64ac54a9fab4/1567573703/114032/1329562/pm005_g_03.jpg</picture>
 	<name>Рюкзак туристический Pentagram 50 max  Green (PM-M005)</name>
-	<stock_quantity>4</stock_quantity>
+	<stock_quantity>1</stock_quantity>
     <vendor>Pentagram</vendor>
     <vendorCode>M005-50g</vendorCode>
     <description>
@@ -3145,7 +3145,7 @@
     <picture>http://i.piccy.info/i9/23d0116f5a6f64e256fce78aaf942faa/1567574178/193402/1329562/pm005_nb_01.jpg</picture>
     <picture>http://i.piccy.info/i9/a22b0a20ab6b81adde7b7942dd349eff/1567574260/184105/1329562/pm005_nb_02.jpg</picture>
 	<name>Рюкзак туристический Pentagram 50 max  Peacock Blue (PM-M005)</name>
-	<stock_quantity>5</stock_quantity>
+	<stock_quantity>1</stock_quantity>
     <vendor>Pentagram</vendor>
     <vendorCode>M005-50b</vendorCode>
     <description>
@@ -3332,7 +3332,7 @@
 	<picture>http://i.piccy.info/i9/1855b9683db2e5b7b782550774c1a661/1596786039/442073/1380432/IMG_6414.jpg</picture>
 	<picture>http://i.piccy.info/i9/c47bb8597616c03406b707a6d597960a/1596786137/319810/1380432/84537IMG_6428.jpg</picture>
 	<name>Рюкзак Ozuko 8983 из баллистического нейлона для путешествий с отделением для ноутбука до 17,3 дюйма черный</name>
-	<stock_quantity>5</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendor>Ozuko</vendor>
     <vendorCode>8983_17</vendorCode>
     <description>
@@ -3379,7 +3379,7 @@
 	<param name="Колір">Чорний</param>
   </offer>
 
-<offer id="1231784512" available="true" >
+<offer id="1231784512" available="false" >
 <url>https://leobox.com.ua/p1231784512-ryukzak-ozuko-8983l.html</url>
     <price>1699</price>
 	<old_price>1799</old_price>
@@ -3394,7 +3394,7 @@
 	<picture>http://i.piccy.info/i9/1855b9683db2e5b7b782550774c1a661/1596786039/442073/1380432/IMG_6414.jpg</picture>
 	<picture>http://i.piccy.info/i9/c47bb8597616c03406b707a6d597960a/1596786137/319810/1380432/84537IMG_6428.jpg</picture>
 	<name>Рюкзак Ozuko 8983 из баллистического нейлона для путешествий с отделением для ноутбука до 20 дюймов черный</name>
-	<stock_quantity>5</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendor>Ozuko</vendor>
     <vendorCode>8983_20</vendorCode>
     <description>

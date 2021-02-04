@@ -3502,7 +3502,7 @@
 	<picture>http://i.piccy.info/i9/8220fc3eb422f813dcf9d783c905f93f/1596789911/274488/1380432/245015X7A9339.jpg</picture>
 	<picture>http://i.piccy.info/i9/1f1cf9bb8891f2faa47d7d554ed7fc72/1596789936/286546/1380432/5X7A9340.jpg</picture>
 	<name>Рюкзак Роллтоп OZUKO RollTop 9066 Черный</name>
-	<stock_quantity>5</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendor>Ozuko</vendor>
     <vendorCode>9066</vendorCode>
     <description>
@@ -3576,7 +3576,7 @@
 	<param name="Колір">Чорний</param>
   </offer> 
  
- <offer id="1234423667" available="true" >
+ <offer id="1234423667" available="false" >
 <url>https://leobox.com.ua/p1234423667-gorodskoj-ryukzak-ozuko.html</url>
     <price>1649</price>
 	<old_price>1839</old_price>
@@ -3588,7 +3588,7 @@
 	<picture>http://i.piccy.info/i9/814fb004a3994142b442eaaea009261b/1597227689/142290/1380432/7U6A5246.jpg</picture>
 	
 	<name>Городской рюкзак OZUKO 9205 с отделением для ноутбука 15,6 дюймов Черный</name>
-	<stock_quantity>5</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendor>Ozuko</vendor>
     <vendorCode>9205</vendorCode>
     <description>
@@ -4897,7 +4897,7 @@
 	<picture>http://i.piccy.info/i9/6f6172fc56d6a73cce56cb60175ec4bc/1590583310/143211/1380432/KM1r.jpg</picture>
 	<picture>http://i.piccy.info/i9/80fa6ec0fc3aca4f18ae52173ac08fe2/1590583362/90453/1380432/1_2.jpg</picture>
 	<name>Смарт тв приставка Mecool KM1 Classic 2gb/16gb (S905X3)</name>
-	<stock_quantity>10</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendor>Mecool, Videostrong</vendor>
     <vendorCode>km1_16b</vendorCode>
     <description>
@@ -5014,9 +5014,9 @@
 	<param name="Цвет">Черный</param>
   </offer> 
  
- <offer id="1168837975" available="false" >
+ <offer id="1168837975" available="true" >
 <url>https://leobox.com.ua/p1168837975-mecool-km1-collective.html</url>
-    <price>2599</price>
+    <price>2699</price>
 	<old_price>2600</old_price>
     <currencyId>UAH</currencyId>
     <categoryId>3</categoryId>
@@ -5025,7 +5025,7 @@
 	<picture>http://i.piccy.info/i9/6f6172fc56d6a73cce56cb60175ec4bc/1590583310/143211/1380432/KM1r.jpg</picture>
 	<picture>http://i.piccy.info/i9/80fa6ec0fc3aca4f18ae52173ac08fe2/1590583362/90453/1380432/1_2.jpg</picture>
 	<name>Смарт тв приставка Mecool KM1 Collective 4gb/64gb (S905X3)</name>
-	<stock_quantity>10</stock_quantity>
+	<stock_quantity>1</stock_quantity>
     <vendor>Mecool, Videostrong</vendor>
     <vendorCode>km1_64b</vendorCode>
     <description>
@@ -5139,7 +5139,7 @@
     <picture>http://i.piccy.info/i9/ecb18a975e237254a54d70e6619f59e7/1566383319/175128/1329562/02.jpg</picture>
 	<picture>http://i.piccy.info/i9/6561d1eea258dde36de01119bae7ba5b/1566383341/160206/1329562/03.jpg</picture>
 	<name>Зволожувач повітря Deerma DEM-F628</name>
-	<stock_quantity>30</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendor>Deerma</vendor>
     <vendorCode>Dr_F628</vendorCode>
     <description>
@@ -5188,7 +5188,7 @@
     <picture>http://i.piccy.info/i9/6c97c3a7b15fc4d97d621f041ef72d23/1590650081/28229/1380432/b9452526fb45cbe004f3e0ac3fae62bb.jpg</picture>
 	<picture>http://i.piccy.info/i9/ae13fbb348b8f2dac74e8537d86877df/1590650105/167871/1380432/HTB1N2VzX0fvK1RjSszhq6AcGFXa0.jpg</picture>
 	<name>Зволожувач повітря Deerma DEM-F628A</name>
-	<stock_quantity>10</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendor>Deerma</vendor>
     <vendorCode>Dr_F628a</vendorCode>
     <description>
@@ -5237,7 +5237,7 @@
     <picture>http://i.piccy.info/i9/4f1b296c29dcb90e9f1c8f1fe53f4ce3/1566377642/257042/1329562/02.jpg</picture>
 	<picture>http://i.piccy.info/i9/ce3654a4a5e2460fc36ef96534c9c11a/1566377675/170086/1329562/03.jpg</picture>
 	<name>Зволожувач повітря Deerma DEM-F600</name>
-	<stock_quantity>10</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendor>Deerma</vendor>
     <vendorCode>Dr_F600</vendorCode>
     <description>
@@ -5335,7 +5335,7 @@
 	<picture>http://ipic.su/img/img7/fs/03.1571378149.jpg</picture>
 	<picture>http://ipic.su/img/img7/fs/04.1571378180.jpg</picture>
 	<name>Зволожувач повітря Deerma sjs-100</name>
-	<stock_quantity>10</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendor>Deerma</vendor>
     <vendorCode>Dr_sjs100</vendorCode>
     <description>
@@ -5378,7 +5378,7 @@
 	<picture>https://picua.org/images/2019/10/24/60a1a1507dff3dc6b6772ddc2f3d4179.jpg</picture>
     <picture>https://picua.org/images/2019/10/24/61a1d99c876b6d3ec37a44cf5291d800.jpg</picture>
 	<name>Deerma DEM-F300 Увлажнитель воздуха</name>
-	<stock_quantity>10</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendor>Deerma</vendor>
     <vendorCode>Dr_F300</vendorCode>
     <description>

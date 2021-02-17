@@ -2880,7 +2880,7 @@
 	<param name="цвет">Зеленый</param>
   </offer> 
 
-<offer id="928203677" available="true" >
+<offer id="928203677" available="false" >
 <url>https://leobox.com.ua/p928203677-ryukzak-pentagram-max.html</url>
     <price>1499</price>
 	<old_price>1599</old_price>
@@ -2889,7 +2889,7 @@
     <picture>http://i.piccy.info/i9/d0e5ebc9a033e6bfe19310611dd23e76/1564479149/121782/1329562/pm01_bl.jpg</picture>
     <picture>http://i.piccy.info/i9/d5418cf63b3a06b300cc30075198ee54/1564480009/139421/1329562/pm01_bl_01.jpg</picture>
 	<name>Рюкзак універсальний Pentagram 40 max Navy Blue (PM001)</name>
-	<stock_quantity>5</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendor>Pentagram</vendor>
     <vendorCode>PM007bl</vendorCode>
     <description>
@@ -3775,7 +3775,7 @@
 
 <offer id="1243979501" available="true" >
 <url>https://leobox.com.ua/p1243979501-gidrator-turistichnij-pitna.html</url>
-    <price>349</price>
+    <price>299</price>
 	<old_price>499</old_price>
 	<price_promo>399</price_promo>
     <currencyId>UAH</currencyId>
@@ -4590,10 +4590,10 @@
 	<param name="Цвет">Черный</param>
   </offer> 
  
-<offer id="1247581062" available="false" >
+<offer id="1247581062" available="true" >
 <url>https://leobox.com.ua/p1247581062-ugoos-tox1-432.html</url>
-    <price>1699</price>
-	<old_price>1750</old_price>
+    <price>1799</price>
+	<old_price>1850</old_price>
 	<price_promo>1699</price_promo>
     <currencyId>UAH</currencyId>
     <categoryId>3</categoryId>
@@ -4662,9 +4662,9 @@
 
 #Beelink
 
-<offer id="1032737621" available="false" >
+<offer id="1032737621" available="true" >
 <url>https://leobox.com.ua/p1032737621-beelink-king-464.html</url>
-    <price>3999</price>
+    <price>3899</price>
 	<old_price>4100</old_price>
 	<price_promo>3800</price_promo>
     <currencyId>UAH</currencyId>
@@ -4950,10 +4950,10 @@
 	<param name="Цвет">Черный</param>
   </offer> 
  
- <offer id="1168866633" available="false" >
+ <offer id="1168866633" available="true" >
 <url>https://leobox.com.ua/p1168866633-mecool-km1-deluxe.html</url>
-    <price>2075</price>
-	<old_price>2500</old_price>
+    <price>2499</price>
+	<old_price>2600</old_price>
     <currencyId>UAH</currencyId>
     <categoryId>3</categoryId>
     <picture>http://i.piccy.info/i9/487420122e991d62809c36d52ba795d0/1590583242/108186/1380432/210116731_images_18086911843.jpg</picture>
@@ -4961,7 +4961,7 @@
 	<picture>http://i.piccy.info/i9/6f6172fc56d6a73cce56cb60175ec4bc/1590583310/143211/1380432/KM1r.jpg</picture>
 	<picture>http://i.piccy.info/i9/80fa6ec0fc3aca4f18ae52173ac08fe2/1590583362/90453/1380432/1_2.jpg</picture>
 	<name>Смарт тв приставка Mecool KM1 Deluxe 4gb/32gb (S905X3)</name>
-	<stock_quantity>0</stock_quantity>
+	<stock_quantity>1</stock_quantity>
     <vendor>Mecool, Videostrong</vendor>
     <vendorCode>km1_32b</vendorCode>
     <description>
@@ -5014,7 +5014,7 @@
 	<param name="Цвет">Черный</param>
   </offer> 
  
- <offer id="1168837975" available="true" >
+ <offer id="1168837975" available="false" >
 <url>https://leobox.com.ua/p1168837975-mecool-km1-collective.html</url>
     <price>2699</price>
 	<old_price>2600</old_price>
@@ -5025,7 +5025,7 @@
 	<picture>http://i.piccy.info/i9/6f6172fc56d6a73cce56cb60175ec4bc/1590583310/143211/1380432/KM1r.jpg</picture>
 	<picture>http://i.piccy.info/i9/80fa6ec0fc3aca4f18ae52173ac08fe2/1590583362/90453/1380432/1_2.jpg</picture>
 	<name>Смарт тв приставка Mecool KM1 Collective 4gb/64gb (S905X3)</name>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendor>Mecool, Videostrong</vendor>
     <vendorCode>km1_64b</vendorCode>
     <description>

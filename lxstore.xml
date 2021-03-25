@@ -3539,7 +3539,7 @@
 	<param name="Колір">Чорний</param>
   </offer> 
  
- <offer id="1231891893" available="true" >
+ <offer id="1231891893" available="false" >
 <url>https://leobox.com.ua/p1231891893-gorodskoj-ryukzak-ozuko.html</url>
     <price>1799</price>
 	<old_price>1839</old_price>
@@ -3553,7 +3553,7 @@
 	<picture>http://i.piccy.info/i9/7b27c8dd80dfad748bfe66e87de04cda/1597210129/171515/1380432/4.jpg</picture>
 	<picture>http://i.piccy.info/i9/839154b4da436f6773539db567db0c6c/1597210150/244051/1380432/1.jpg</picture>
 	<name>Городской рюкзак OZUKO 9082 с отделением для ноутбука 15,6 дюймов Черный</name>
-	<stock_quantity>5</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendor>Ozuko</vendor>
     <vendorCode>9082</vendorCode>
     <description>
@@ -3654,13 +3654,13 @@
 	<param name="Колір">Чорний</param>
   </offer> 
  
- <offer id="1234439619" available="true" >
+ <offer id="1234439619" available="false" >
 <url>https://leobox.com.ua/p1234439619-ryukzak-odnoj-lyamkoj.html</url>
     <price>845</price>
 	<old_price>945</old_price>
 	<price_promo>845</price_promo>
     <currencyId>UAH</currencyId>
-    <categoryId>8</categoryId>
+    <categoryId>0</categoryId>
     <picture>http://i.piccy.info/i9/3fe4c820e63cdbb343f41f3562b3885a/1597654059/204472/1380432/5X7A8628.jpg</picture>
     <picture>http://i.piccy.info/i9/7efc443f87b47555c874224f379adce8/1597654094/225422/1380432/219165X7A8624.jpg</picture>
 	<name>Рюкзак с одной лямкой OZUKO 9223 Камуфляжний</name>
@@ -5465,7 +5465,7 @@
 
  #Іграшки
 
-<offer id="1320897819" available="true" >
+<offer id="1320897819" available="false" >
 <url>https://leobox.com.ua/ua/p1320897819-zheleznaya-derevyannaya-doroga.html</url>
     <price>1349</price>
 	<old_price>1700</old_price>
@@ -5480,7 +5480,7 @@
 	<picture>https://picua.org/images/2021/01/29/90ed80be7c5d633b97a3ad2acde92caf.jpg</picture>
 	<name>Залізна дорога з дерева EDWONE, 70 деталей, (Електричний локомотив) 3+ E16A09</name>
     <vendor>Edwone</vendor>
-	<stock_quantity>10</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendorCode>edw_E16A09</vendorCode>
     <description>
 <![CDATA[ 
@@ -5606,7 +5606,7 @@
 
  <offer id="1319984782" available="true" >
 <url>https://leobox.com.ua/ua/p1319984782-zheleznaya-doroga-dereva.html</url>
-    <price>1799</price>
+    <price>1699</price>
 	<old_price>1999</old_price>
 	<price_promo>1699</price_promo>
     <currencyId>UAH</currencyId>

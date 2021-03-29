@@ -984,7 +984,7 @@
 	<param name="цвет">Черный</param>
   </offer>
 
-<offer id="998699521" available="true" >
+<offer id="998699521" available="false" >
 <url>https://leobox.com.ua/p998699521-ryukzak-pentagram-karkasna.html</url>
     <price>1149</price>
     <currencyId>UAH</currencyId>
@@ -993,7 +993,7 @@
     <picture>http://i.piccy.info/i9/134abe95b8cbed04b18752c2bc0793c8/1564474913/146085/1329562/S003_23l_nb_02.jpg</picture>
     <picture>http://i.piccy.info/i9/bf99cfcbd910431c8baa42a0fc7ac092/1564474943/148338/1329562/S003_23l_nb_03.jpg</picture>
 	<name>Рюкзак універсальний Pentagram 23 MAX Deep Blue (S003)</name>
-	<stock_quantity>5</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendor>Pentagram</vendor>
     <vendorCode>S003n</vendorCode>
     <description>

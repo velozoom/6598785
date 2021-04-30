@@ -5465,6 +5465,7 @@
 
  #Іграшки
 
+#E16A09
 <offer id="1320897819" available="true" >
 <url>https://leobox.com.ua/ua/p1320897819-zheleznaya-derevyannaya-doroga.html</url>
     <price>1349</price>
@@ -5511,6 +5512,7 @@
 	
   </offer> 
 
+#E16A10
 <offer id="1320717688" available="false" >
 <url>https://leobox.com.ua/ua/p1320717688-zheleznaya-derevyannaya-doroga.html</url>
     <price>1399</price>
@@ -5557,8 +5559,9 @@
 	<param name="Новий - б/в">Новий</param>
 	
   </offer>
-  
-  <offer id="1306339190" available="false" >
+ 
+#E18A11 
+<offer id="1306339190" available="false" >
 <url>https://leobox.com.ua/ua/p1306339190-zheleznaya-doroga-dereva.html</url>
     <price>1699</price>
 	<old_price>1900</old_price>
@@ -5604,7 +5607,8 @@
 	
   </offer>
 
- <offer id="1319984782" available="true" >
+#E17P02
+<offer id="1319984782" available="true" >
 <url>https://leobox.com.ua/ua/p1319984782-zheleznaya-doroga-dereva.html</url>
     <price>1699</price>
 	<old_price>1999</old_price>
@@ -5649,6 +5653,244 @@
 	
   </offer>
 
+#E17P00
+<offer id="1320080304" available="true" >
+<url>https://leobox.com.ua/ua/p1320080304-zheleznaya-doroga-dereva.html</url>
+    <price>1699</price>
+	<old_price>1999</old_price>
+	<price_promo>1699</price_promo>
+    <currencyId>UAH</currencyId>
+    <categoryId>10</categoryId>
+    <picture>http://i.piccy.info/i9/c1d2130e05c3972f52f69b735f4fe04c/1619764682/68396/1427124/1951189866876775058.jpg</picture>
+	<picture>http://i.piccy.info/i9/8e8065ad140485f75cf9df737f2701bc/1619764713/76341/1427124/51006711340587.jpg</picture>
+	<picture>http://i.piccy.info/i9/efdf88149e3ec7112497cec0b2315d16/1619764734/69867/1427124/88622225112505.jpg</picture>
+    <picture>http://i.piccy.info/i9/86261f8bc0e5b44f0797923deab5503d/1619764765/85353/1427124/27646152732232.jpg</picture>
+    <picture>http://i.piccy.info/i9/056c3b39485aa444a66e97663c883c46/1619764792/53712/1427124/8858665242413610715.jpg</picture>
+	<picture>http://i.piccy.info/i9/257eefec7a6dfe7433d4b297dc2aca07/1619764814/56683/1427124/92425764011159.jpg</picture>
+	<name>Залізна дорога з дерева EDWONE, 110 деталей, 3+  E17P00 (електричний локомотив)</name>
+    <vendor>Edwone</vendor>
+	<stock_quantity>5</stock_quantity>
+    <vendorCode>edw_E17P00</vendorCode>
+    <description>
+<![CDATA[ 
+<p>Дитяча дерев'яна дорога Edwone - це нова розвиваюча іграшка з 110 елементами, виготовлена з екологічно чистого європейського бука. </p>
+<p>Конструктор виконаний з безпечних дерев'яних частин, призначений для дітей від 3-х років. </p>
+<p>Призначений для розвитку творчого та логічного мислення, покращує просторове сприйняття, координацію і моторику. </p>
+<p>Різнокольорові деталі відрізняються виключно високою якістю англійського бренду EdWone.</p>
+<p>У комплекті електричний локомотив до якого приєднуються інші вагони з допомогою магніту.</p>
+
+
+<p>Характеристики:</p>
+<ul>
+<li>Електричний локомотив;</li>
+<li>Від 3 років;</li>
+<li>110 елементів;</li>
+<li>Дерево Бук;</li>
+<li>Сумісна з такими брендами, як Brio, Ikea, Playtive та ін.</li>
+</ul>
+
+ ]]>
+</description>
+
+    <param name="Виробник">EDWONE</param>
+	<param name="Продавець">Інші продавці</param>
+	<param name="Країна-виробник товару">Китай</param>
+	<param name="Країна реєстрації бренду">Великобританія</param>
+	<param name="Вік">3 роки</param>
+	<param name="Аксесуари">Будівлі, Декорації, Паровозики, Перехрестя, Рейки, Стрілки</param>
+	<param name="Матеріал">Дерево</param>
+	<param name="Новий - б/в">Новий</param>
+	
+  </offer>
+
+#E17P04
+<offer id="1388064735" available="true" >
+<url>https://leobox.com.ua/ua/p1388064735-zheleznaya-doroga-dereva.html</url>
+    <price>1699</price>
+	<old_price>1999</old_price>
+	<price_promo>1699</price_promo>
+    <currencyId>UAH</currencyId>
+    <categoryId>10</categoryId>
+    <picture>https://www.leobox.ua/content/images/7/600x581l80nn0/dityacha-igrashkova-zaliznitsya-z-dereva-edwone-110-detaley-brio-ikea-e17p04-98216224889899.jpg</picture>
+    <picture>https://www.leobox.ua/content/images/7/600x584l80nn0/dityacha-igrashkova-zaliznitsya-z-dereva-edwone-110-detaley-brio-ikea-e17p04-34831008159497.jpg</picture>
+	<picture>https://www.leobox.ua/content/images/7/600x430l80nn0/dityacha-igrashkova-zaliznitsya-z-dereva-edwone-110-detaley-brio-ikea-e17p04-13197599619413.jpg</picture>
+	<picture>https://www.leobox.ua/content/images/7/550x392l80nn0/dityacha-igrashkova-zaliznitsya-z-dereva-edwone-110-detaley-brio-ikea-e17p04-35606259601298.jpg</picture>
+	<name>Дитяча залізниця з дерева EdWone, 110 деталей (Brio, Ikea, Playtive) E17P04 (електричний локомотив)</name>
+    <vendor>Edwone</vendor>
+	<stock_quantity>5</stock_quantity>
+    <vendorCode>edw_E17P04</vendorCode>
+    <description>
+<![CDATA[ 
+<p>Залізнична дорога дитяча Edwone - це набір елементів виготовлених з екологічно чистого натурального дерева, безпечного для дітей. </p>
+<p>Розвиваюча іграшка призначена для дітей від 3-х років, складається з 110 елементів, кожен з яких призначений для розвитку логіки і творчого мислення під час захопливої гри. </p>
+<p>Дитяча іграшкова залізниця сприяє поліпшенню координації, просторового сприйняття та моторики рук. </p>
+<p>В набір залізниці дитячої входять різнокольорові деталі, які відрізняються за розміром і формою, які можна довільно комбінувати та переміщувати. </p>
+<p>Залізничні вагони та локомотив можна об'єднувати між собою за допогомогою магніту.</p>
+
+
+<p>Характеристики:</p>
+<ul>
+<li>Електричний локомотив;</li>
+<li>Від 3 років;</li>
+<li>110 елементів;</li>
+<li>Дерево Бук;</li>
+<li>Сумісна з такими брендами, як Brio, Ikea, Playtive та ін.</li>
+</ul>
+
+ ]]>
+</description>
+
+    <param name="Виробник">EDWONE</param>
+	<param name="Продавець">Інші продавці</param>
+	<param name="Країна-виробник товару">Китай</param>
+	<param name="Країна реєстрації бренду">Великобританія</param>
+	<param name="Вік">3 роки</param>
+	<param name="Аксесуари">Будівлі, Декорації, Паровозики, Перехрестя, Рейки, Стрілки</param>
+	<param name="Матеріал">Дерево</param>
+	<param name="Новий - б/в">Новий</param>
+	
+  </offer>
+
+#E17P05
+<offer id="1388065664" available="true" >
+<url>https://leobox.com.ua/ua/p1388065664-zheleznaya-doroga-dereva.html</url>
+    <price>1699</price>
+	<old_price>1999</old_price>
+	<price_promo>1699</price_promo>
+    <currencyId>UAH</currencyId>
+    <categoryId>10</categoryId>
+    <picture>https://www.leobox.ua/content/images/8/600x532l80nn0/dityacha-igrashkova-zaliznitsya-z-dereva-edwone-110-detaley-brio-ikea-e17p05-19009078044307.jpg</picture>
+	<picture>https://www.leobox.ua/content/images/8/568x600l80nn0/dityacha-igrashkova-zaliznitsya-z-dereva-edwone-110-detaley-brio-ikea-e17p05-18170936756644.jpg</picture>
+	<picture>https://www.leobox.ua/content/images/8/600x354l80nn0/dityacha-igrashkova-zaliznitsya-z-dereva-edwone-110-detaley-brio-ikea-e17p05-28367237409719.jpg</picture>
+	<name>Детская железная дорога из дерева EdWone, 110 деталей (Brio, Ikea, Playtive) E17P05 (электрический локомотив)</name>
+    <vendor>Edwone</vendor>
+	<stock_quantity>5</stock_quantity>
+    <vendorCode>edw_E17P05</vendorCode>
+    <description>
+<![CDATA[ 
+<p>Дерев'яна залізниця Edwone E17P05 - кращий подарунок для дитини.</p>
+<p>Не залишаться байдужими і батьки, згадайте, як всі ми в дитинстві любили збирати моделі подібних конструкторів. </p>
+<p>Дитяча залізниця комплектується елементами виготовленими з чистого дерева бук, безпечного для дітей. </p>
+<p>Чому варто вибрати дитячу залізницю з дерева Edwone? елементи виконані з екологічно чистого європейського дерева; не виділяє шкідливих речовин і неприємних запахів; оброблені краї, безпечні для дітей (ніяких осколків); не викликає алергічних реакцій; яскрава подарункова упаковка. </p>
+<p>Захоплюючий набір дерев'яної залізниці налічує 110 деталей і призначений для дітей від 3-х років. </p>
+<p>Кожен елемент призначений для розвитку логічного мислення і творчого потенціалу під час веселої гри. </p>
+<p>Іграшкова залізниця сприяє поліпшенню просторового сприйняття, координації та моторики рук. </p>
+<p>Частинки дерев'яноі дороги вільно комбінуються між собою, сприяючи креативному мисленню і створення нових треків. </p>
+<p>У набір залізниці дитячої входять різнокольорові деталі, які відрізняються за розміром і формою, які можна довільно комбінувати і переміщувати. Залізничні вагони і локомотив можна об'єднувати між собою за допогомогою магніту.</p>
+
+<p>Характеристики:</p>
+<ul>
+<li>Електричний локомотив;</li>
+<li>Від 3 років;</li>
+<li>110 елементів;</li>
+<li>Дерево Бук;</li>
+<li>Сумісна з такими брендами, як Brio, Ikea, Playtive та ін.</li>
+</ul>
+
+ ]]>
+</description>
+
+    <param name="Виробник">EDWONE</param>
+	<param name="Продавець">Інші продавці</param>
+	<param name="Країна-виробник товару">Китай</param>
+	<param name="Країна реєстрації бренду">Великобританія</param>
+	<param name="Вік">3 роки</param>
+	<param name="Аксесуари">Будівлі, Декорації, Паровозики, Перехрестя, Рейки, Стрілки</param>
+	<param name="Матеріал">Дерево</param>
+	<param name="Новий - б/в">Новий</param>
+	
+  </offer>
+
+#Набір поїздів
+<offer id="1405023837" available="true" >
+<url>https://leobox.com.ua/ua/p1405023837-nabor-poezdov-vagonov.html</url>
+    <price>649</price>
+	<old_price>800</old_price>
+	<price_promo>649</price_promo>
+    <currencyId>UAH</currencyId>
+    <categoryId>10</categoryId>
+    <picture>https://www.leobox.ua/content/images/13/600x576l80nn0/76217423404652.jpg</picture>
+	<picture>https://www.leobox.ua/content/images/13/600x488l80nn0/84312603272538.jpg</picture>
+	<picture>https://www.leobox.ua/content/images/13/600x498l80nn0/61538214476493.jpg</picture>
+	<picture>https://www.leobox.ua/content/images/13/600x363l80nn0/49503931043971.jpg</picture>
+	<picture>https://www.leobox.ua/content/images/13/600x368l80nn0/50718975544771.jpg</picture>
+	<name>Набір поїздів і вагонів 12 шт до дерев'яної дороги Brio, Ikea, Playtive, Edwone та інших (E16C01)</name>
+    <vendor>Edwone</vendor>
+	<stock_quantity>5</stock_quantity>
+    <vendorCode>edw_E16C01</vendorCode>
+    <description>
+<![CDATA[ 
+<p>Набір поїздів і вагонів Edwone, який складається з 12 одиниць виготовлених з якісного екологічно чистого дерева та забарвлені у яскраві кольори, безпечною фарбою, яка не відслоюється.</p> 
+<p>Комплект поставляється у міцній дерев'яній упаковці, яка може служити місцем для зберігання машинок.  </p>
+<p>Набір E16C01 сумісний з багатьма дерев'яними залізницями: IKEA, Elc, Balbi, Xiomi, Brio, Playtive, Томас і його друзі, EDWONE, Imaginarium, Woody, Roys, KidKraft. </p>
+
+<p>Особливості набору</p>
+<ul>
+<li>Зроблена виключно з екологічно чистого дерева та має нульовий рівень емісії формальдегідів;</li>
+<li>Забарвлена безпечними яскравими фарбами;</li>
+<li>Бренд Edwone є зареєстрованою торговою маркою у Англії та має сертифікати, які підтверджують безпечність дитячих залізниць з дерева.</li>
+<li>12 елементів;</li>
+<li>Дерево Бук;</li>
+<li>Сумісний з такими брендами, як Brio, Ikea, Playtive та ін.</li>
+</ul>
+
+ ]]>
+</description>
+
+    <param name="Виробник">EDWONE</param>
+	<param name="Продавець">Інші продавці</param>
+	<param name="Країна-виробник товару">Китай</param>
+	<param name="Країна реєстрації бренду">Великобританія</param>
+	<param name="Вік">3 роки</param>
+	<param name="Аксесуари">Паровозики</param>
+	<param name="Матеріал">Дерево</param>
+	<param name="Новий - б/в">Новий</param>
+	
+  </offer>
+
+#Електричний локомотив
+<offer id="1404402139" available="true" >
+<url>https://leobox.com.ua/ua/p1404402139-elektricheskij-lokomotiv-edwone.html</url>
+    <price>399</price>
+	<old_price>500</old_price>
+	<price_promo>500</price_promo>
+    <currencyId>UAH</currencyId>
+    <categoryId>10</categoryId>
+    <picture>http://i.piccy.info/i9/cf174892aae3fac01602c41a56f0707b/1619768456/26848/1427124/192532132.jpg</picture>
+	<picture>http://i.piccy.info/i9/e9c94e28a52d83e4e4163a4128b441f5/1619768474/17626/1427124/323.jpg</picture>
+	<picture>http://i.piccy.info/i9/75aa35c042f776b88999ba05fb618cc6/1619768490/96363/1427124/21212.jpg</picture>
+	<picture>http://i.piccy.info/i9/75aa35c042f776b88999ba05fb618cc6/1619768490/96363/1427124/21212.jpg</picture>
+	<name>Електричний локомотив Edwone до дерев'яної дороги Brio, Ikea, Playtive (E21A23)</name>
+    <vendor>Edwone</vendor>
+	<stock_quantity>5</stock_quantity>
+    <vendorCode>edw_E21A23</vendorCode>
+    <description>
+<![CDATA[ 
+<p>Електричний потяг для дерев'яного рейки Edwone, Brio track, Playtive комбінований електричний локомотив Edwone, сумісний з магнітним поїздом.</p> 
+<p>Локомотив (E21A23 сумісний з багатьма дерев'яними залізницями: IKEA, Elc, Balbi, Xiomi, Brio, Playtive, Томас і його друзі, EDWONE, Imaginarium, Woody, Roys, KidKraft. </p>
+
+<p>Особливості набору</p>
+<ul>
+<li>Від 3 років;</li>
+<li>Матеріал: пластик;</li>
+<li>Живлення: батарейка AAA - 1шт./li>
+<li>Їзда вперед та назад</li>
+<li>Сумісний з такими брендами, як Brio, Ikea, Playtive та ін.</li>
+</ul>
+
+ ]]>
+</description>
+
+    <param name="Виробник">EDWONE</param>
+	<param name="Продавець">Інші продавці</param>
+	<param name="Країна-виробник товару">Китай</param>
+	<param name="Країна реєстрації бренду">Великобританія</param>
+	<param name="Вік">3 роки</param>
+	<param name="Аксесуари">Паровозики</param>
+	<param name="Матеріал">Дерево</param>
+	<param name="Новий - б/в">Новий</param>
+	
+  </offer>
 
 </offers>
 </shop>

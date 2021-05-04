@@ -5468,7 +5468,7 @@
 #E16A09
 <offer id="1320897819" available="true" >
 <url>https://leobox.com.ua/ua/p1320897819-zheleznaya-derevyannaya-doroga.html</url>
-    <price>1349</price>
+    <price>1299</price>
 	<old_price>1700</old_price>
 	<price_promo>1599</price_promo>
     <currencyId>UAH</currencyId>
@@ -5515,7 +5515,7 @@
 #E16A10
 <offer id="1320717688" available="false" >
 <url>https://leobox.com.ua/ua/p1320717688-zheleznaya-derevyannaya-doroga.html</url>
-    <price>1399</price>
+    <price>1299</price>
 	<old_price>1700</old_price>
 	<price_promo>1599</price_promo>
     <currencyId>UAH</currencyId>
@@ -5610,7 +5610,7 @@
 #E17P02
 <offer id="1319984782" available="true" >
 <url>https://leobox.com.ua/ua/p1319984782-zheleznaya-doroga-dereva.html</url>
-    <price>1699</price>
+    <price>1499</price>
 	<old_price>1999</old_price>
 	<price_promo>1699</price_promo>
     <currencyId>UAH</currencyId>

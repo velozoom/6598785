@@ -5562,6 +5562,55 @@
  
 #E18A11 
 <offer id="1306339190" available="false" >
+
+#E18A12 
+<offer id="1320107746" available="false" >
+<url>https://leobox.com.ua/ua/p1320107746-zheleznaya-derevyannaya-doroga.html</url>
+    <price>1499</price>
+	<old_price>1600</old_price>
+	<price_promo>1599</price_promo>
+    <currencyId>UAH</currencyId>
+    <categoryId>10</categoryId>
+    <picture>https://www.leobox.ua/content/images/26/600x600l80nn0/dityacha-igrashkova-zaliznitsya-z-dereva-edwone-80-detaley-brio-ikea-e18a12-72076216514849.jpg</picture>
+	<picture>https://www.leobox.ua/content/images/26/600x600l80nn0/95966722859316.jpg</picture>
+	<picture>https://www.leobox.ua/content/images/26/600x529l80nn0/98707061136725.jpg</picture>
+	<picture>https://www.leobox.ua/content/images/26/600x528l80nn0/98637525270519.jpg</picture>
+	<picture>https://www.leobox.ua/content/images/26/600x600l80nn0/66474348809201.jpg</picture>
+	<picture>https://www.leobox.ua/content/images/26/600x600l80nn0/78231595796053.jpg</picture>
+	<picture>https://www.leobox.ua/content/images/26/600x600l80nn0/52969948831704.jpg</picture>
+	<picture>https://www.leobox.ua/content/images/26/600x585l80nn0/24483273907738.jpg</picture>
+	<name>Залізна дорога з дерева EDWONE, 80 деталей, (Електричний локомотив) 3+  E18A12</name>
+    <vendor>Edwone</vendor>
+	<stock_quantity>10</stock_quantity>
+    <vendorCode>edw_E18A12</vendorCode>
+    <description>
+<![CDATA[ 
+<p>Дитяча дерев'яна дорога Edwone - це нова розвиваюча іграшка з 80 елементів, виготовлена ​​з екологічно чистого європейського бука. Конструктор виконаний з безпечних дерев'яних частин, призначений для дітей від 3-х років. Призначений для розвитку творчого та логічного мислення, покращує просторове сприйняття, координацію і моторику. Різнокольорові деталі відрізняються виключно високою якістю англійського бренду EdWone. У комплект входить електричний локомотив, який буде тягнути прицепи і машинки, пересуваючись через мости, тунелі, доставляючи море радості дитині.</p>
+
+<p>Локомотив, який живиться від батарейки, рухається вперед і назад. Вагони приєднуються за допомогою магніту.</p>
+
+
+<p>Характеристики:</p>
+<ul>
+<li>Від 3 років;</li>
+<li>80 елементів;</li>
+<li>Електричний локомотив;</li>
+<li>Дерево Бук;</li>
+</ul>
+
+ ]]>
+</description>
+
+    <param name="Виробник">EDWONE</param>
+	<param name="Продавець">Інші продавці</param>
+	<param name="Країна-виробник товару">Китай</param>
+	<param name="Країна реєстрації бренду">Великобританія</param>
+	<param name="Вік">3 роки</param>
+	<param name="Аксесуари">Будівлі, Декорації, Паровозики, Перехрестя, Рейки, Стрілки</param>
+	<param name="Матеріал">Дерево</param>
+	<param name="Новий - б/в">Новий</param>
+	
+  </offer>
 <url>https://leobox.com.ua/ua/p1306339190-zheleznaya-doroga-dereva.html</url>
     <price>1699</price>
 	<old_price>1900</old_price>

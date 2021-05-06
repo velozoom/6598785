@@ -1677,6 +1677,7 @@
     <url>https://leobox.com.ua/p1027823849-turisticheskij-ryukzak-pentagram.html</url>
     <price>1399</price>
 	<old_price>1499</old_price>
+	<price_promo>1187</price_promo>
     <currencyId>UAH</currencyId>
     <categoryId>2</categoryId>
     <picture>http://i.piccy.info/i9/f4272bd714a18c7520904e0af78f49fc/1598530541/72892/1380432/74727O1CN012Tv00s1t0lZwpkMZn_40625840.jpg</picture>
@@ -2820,7 +2821,7 @@
 # pentagram 40 max
 <offer id="847734475" available="true" >
 <url>https://leobox.com.ua/p847734475-ryukzak-pentagram-max.html</url>
-    <price>1499</price>
+    <price>1449</price>
 	<old_price>1599</old_price>
 	<price_promo>1270</price_promo>
     <currencyId>UAH</currencyId>
@@ -2828,7 +2829,7 @@
     <picture>http://i.piccy.info/i9/764eadfcfc7159341bcba58a44147426/1564400059/195193/1329562/40_max_01.jpg</picture>
     <picture>http://i.piccy.info/i9/d56d6fe8f3bceff8c9431aaa359ad8e9/1564400077/123398/1329562/40_max_02.jpg</picture>
     <picture>http://i.piccy.info/i9/c51a542529c98c37f99e95bc0d91330a/1564400107/106280/1329562/40_max_03.jpg</picture>
-	<name>Рюкзак універсальний Pentagram 40 max Army Green (PM001)</name>
+	<name>Рюкзак універсальний Pentagram 40 max Army Green (PM007)</name>
     <stock_quantity>10</stock_quantity>
     <vendor>Pentagram</vendor>
     <vendorCode>PM007b</vendorCode>
@@ -2946,13 +2947,14 @@
 
 <offer id="1013177380" available="true" >
 <url>https://leobox.com.ua/p1013177380-ryukzak-pentagram-max.html</url>
-    <price>1499</price>
+    <price>1449</price>
 	<old_price>1599</old_price>
+	<price_promo>1187</price_promo>
     <currencyId>UAH</currencyId>
     <categoryId>2</categoryId>
     <picture>http://i.piccy.info/i9/19541c69e87653e194c39ad8bb3b2f04/1564480303/230188/1329562/pm01_black.jpg</picture>
     <picture>http://i.piccy.info/i9/34ef48f234f2983da80d2b21819d18c0/1564480327/182444/1329562/pm01_bl_1.jpg</picture>
-	<name>Рюкзак універсальний Pentagram 40 max Black (PM001)</name>
+	<name>Рюкзак універсальний Pentagram 40 max Black (PM007)</name>
 	<stock_quantity>5</stock_quantity>
     <vendor>Pentagram</vendor>
     <vendorCode>PM007black</vendorCode>

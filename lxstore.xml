@@ -2747,6 +2747,7 @@
 <url>https://leobox.com.ua/p928207002-ryukzak-pentagram-50l.html</url>
     <price>1449</price>
 	<old_price>1599</old_price>
+	<price_promo>1239</price_promo>
     <currencyId>UAH</currencyId>
     <categoryId>2</categoryId>
     <picture>http://i.piccy.info/i9/89ae5669adb763110df3c129773ebe70/1598527932/129562/1380432/pm02_asf_021.jpg</picture>
@@ -2821,6 +2822,7 @@
 <url>https://leobox.com.ua/p847734475-ryukzak-pentagram-max.html</url>
     <price>1499</price>
 	<old_price>1599</old_price>
+	<price_promo>1270</price_promo>
     <currencyId>UAH</currencyId>
     <categoryId>2</categoryId>
     <picture>http://i.piccy.info/i9/764eadfcfc7159341bcba58a44147426/1564400059/195193/1329562/40_max_01.jpg</picture>
@@ -4950,7 +4952,7 @@
 	<param name="Цвет">Черный</param>
   </offer> 
  
- <offer id="1168866633" available="true" >
+ <offer id="1168866633" available="false" >
 <url>https://leobox.com.ua/p1168866633-mecool-km1-deluxe.html</url>
     <price>2499</price>
 	<old_price>2600</old_price>
@@ -4961,7 +4963,7 @@
 	<picture>http://i.piccy.info/i9/6f6172fc56d6a73cce56cb60175ec4bc/1590583310/143211/1380432/KM1r.jpg</picture>
 	<picture>http://i.piccy.info/i9/80fa6ec0fc3aca4f18ae52173ac08fe2/1590583362/90453/1380432/1_2.jpg</picture>
 	<name>Смарт тв приставка Mecool KM1 Deluxe 4gb/32gb (S905X3)</name>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendor>Mecool, Videostrong</vendor>
     <vendorCode>km1_32b</vendorCode>
     <description>
@@ -5562,27 +5564,22 @@
  
 #E18A11 
 <offer id="1306339190" available="false" >
-
-#E18A12 
-<offer id="1320107746" available="false" >
-<url>https://leobox.com.ua/ua/p1320107746-zheleznaya-derevyannaya-doroga.html</url>
-    <price>1499</price>
-	<old_price>1600</old_price>
+<url>https://leobox.com.ua/ua/p1306339190-zheleznaya-doroga-dereva.html</url>
+    <price>1699</price>
+	<old_price>1900</old_price>
 	<price_promo>1599</price_promo>
     <currencyId>UAH</currencyId>
     <categoryId>10</categoryId>
-    <picture>https://www.leobox.ua/content/images/26/600x600l80nn0/dityacha-igrashkova-zaliznitsya-z-dereva-edwone-80-detaley-brio-ikea-e18a12-72076216514849.jpg</picture>
-	<picture>https://www.leobox.ua/content/images/26/600x600l80nn0/95966722859316.jpg</picture>
-	<picture>https://www.leobox.ua/content/images/26/600x529l80nn0/98707061136725.jpg</picture>
-	<picture>https://www.leobox.ua/content/images/26/600x528l80nn0/98637525270519.jpg</picture>
-	<picture>https://www.leobox.ua/content/images/26/600x600l80nn0/66474348809201.jpg</picture>
-	<picture>https://www.leobox.ua/content/images/26/600x600l80nn0/78231595796053.jpg</picture>
-	<picture>https://www.leobox.ua/content/images/26/600x600l80nn0/52969948831704.jpg</picture>
-	<picture>https://www.leobox.ua/content/images/26/600x585l80nn0/24483273907738.jpg</picture>
-	<name>Залізна дорога з дерева EDWONE, 80 деталей, (Електричний локомотив) 3+  E18A12</name>
+    <picture>https://picua.org/images/2021/01/29/85dd998621e10ffc6efa4199c81d35ec.jpg</picture>
+	<picture>https://picua.org/images/2021/01/29/f1ac34564f4177c2461731f31d24836f.jpg</picture>
+	<picture>https://picua.org/images/2021/01/29/3f420479a9406b281a20ff69da292bd3.jpg</picture>
+    <picture>https://picua.org/images/2021/01/29/73d567dcd3f9845f1a103055d254d8d1.jpg</picture>
+    <picture>https://picua.org/images/2021/01/29/7c44f6c670ea64dd8b23a30353a177f2.jpg</picture>
+	<picture>https://picua.org/images/2021/01/29/f5595f102ec2902c37d766b634183701.jpg</picture>
+	<name>Залізна дорога з дерева EDWONE, 80 деталей, (Електричний локомотив) 3+  E18A11</name>
     <vendor>Edwone</vendor>
-	<stock_quantity>10</stock_quantity>
-    <vendorCode>edw_E18A12</vendorCode>
+	<stock_quantity>0</stock_quantity>
+    <vendorCode>edw_E18A11</vendorCode>
     <description>
 <![CDATA[ 
 <p>Дитяча дерев'яна дорога Edwone - це нова розвиваюча іграшка з 80 елементів, виготовлена ​​з екологічно чистого європейського бука. Конструктор виконаний з безпечних дерев'яних частин, призначений для дітей від 3-х років. Призначений для розвитку творчого та логічного мислення, покращує просторове сприйняття, координацію і моторику. Різнокольорові деталі відрізняються виключно високою якістю англійського бренду EdWone. У комплект входить електричний локомотив, який буде тягнути прицепи і машинки, пересуваючись через мости, тунелі, доставляючи море радості дитині.</p>
@@ -5611,22 +5608,27 @@
 	<param name="Новий - б/в">Новий</param>
 	
   </offer>
-<url>https://leobox.com.ua/ua/p1306339190-zheleznaya-doroga-dereva.html</url>
-    <price>1699</price>
-	<old_price>1900</old_price>
+
+#E18A12 
+<offer id="1320107746" available="true" >
+<url>https://leobox.com.ua/ua/p1320107746-zheleznaya-derevyannaya-doroga.html</url>
+    <price>1499</price>
+	<old_price>1600</old_price>
 	<price_promo>1599</price_promo>
     <currencyId>UAH</currencyId>
     <categoryId>10</categoryId>
-    <picture>https://picua.org/images/2021/01/29/85dd998621e10ffc6efa4199c81d35ec.jpg</picture>
-	<picture>https://picua.org/images/2021/01/29/f1ac34564f4177c2461731f31d24836f.jpg</picture>
-	<picture>https://picua.org/images/2021/01/29/3f420479a9406b281a20ff69da292bd3.jpg</picture>
-    <picture>https://picua.org/images/2021/01/29/73d567dcd3f9845f1a103055d254d8d1.jpg</picture>
-    <picture>https://picua.org/images/2021/01/29/7c44f6c670ea64dd8b23a30353a177f2.jpg</picture>
-	<picture>https://picua.org/images/2021/01/29/f5595f102ec2902c37d766b634183701.jpg</picture>
-	<name>Залізна дорога з дерева EDWONE, 80 деталей, (Електричний локомотив) 3+  E18A11</name>
+    <picture>https://www.leobox.ua/content/images/26/600x600l80nn0/dityacha-igrashkova-zaliznitsya-z-dereva-edwone-80-detaley-brio-ikea-e18a12-72076216514849.jpg</picture>
+	<picture>https://www.leobox.ua/content/images/26/600x600l80nn0/95966722859316.jpg</picture>
+	<picture>https://www.leobox.ua/content/images/26/600x529l80nn0/98707061136725.jpg</picture>
+	<picture>https://www.leobox.ua/content/images/26/600x528l80nn0/98637525270519.jpg</picture>
+	<picture>https://www.leobox.ua/content/images/26/600x600l80nn0/66474348809201.jpg</picture>
+	<picture>https://www.leobox.ua/content/images/26/600x600l80nn0/78231595796053.jpg</picture>
+	<picture>https://www.leobox.ua/content/images/26/600x600l80nn0/52969948831704.jpg</picture>
+	<picture>https://www.leobox.ua/content/images/26/600x585l80nn0/24483273907738.jpg</picture>
+	<name>Залізна дорога з дерева EDWONE, 80 деталей, (Електричний локомотив) 3+  E18A12</name>
     <vendor>Edwone</vendor>
-	<stock_quantity>0</stock_quantity>
-    <vendorCode>edw_E18A11</vendorCode>
+	<stock_quantity>10</stock_quantity>
+    <vendorCode>edw_E18A12</vendorCode>
     <description>
 <![CDATA[ 
 <p>Дитяча дерев'яна дорога Edwone - це нова розвиваюча іграшка з 80 елементів, виготовлена ​​з екологічно чистого європейського бука. Конструктор виконаний з безпечних дерев'яних частин, призначений для дітей від 3-х років. Призначений для розвитку творчого та логічного мислення, покращує просторове сприйняття, координацію і моторику. Різнокольорові деталі відрізняються виключно високою якістю англійського бренду EdWone. У комплект входить електричний локомотив, який буде тягнути прицепи і машинки, пересуваючись через мости, тунелі, доставляючи море радості дитині.</p>

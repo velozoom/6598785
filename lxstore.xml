@@ -1678,7 +1678,7 @@
     <url>https://leobox.com.ua/p1027823849-turisticheskij-ryukzak-pentagram.html</url>
     <price>1399</price>
 	<old_price>1499</old_price>
-	<price_promo>1187</price_promo>
+	<price_promo>1186</price_promo>
     <currencyId>UAH</currencyId>
     <categoryId>2</categoryId>
     <picture>http://i.piccy.info/i9/f4272bd714a18c7520904e0af78f49fc/1598530541/72892/1380432/74727O1CN012Tv00s1t0lZwpkMZn_40625840.jpg</picture>
@@ -2749,14 +2749,14 @@
 <url>https://leobox.com.ua/p928207002-ryukzak-pentagram-50l.html</url>
     <price>1449</price>
 	<old_price>1599</old_price>
-	<price_promo>1239</price_promo>
+	<price_promo>1237</price_promo>
     <currencyId>UAH</currencyId>
     <categoryId>2</categoryId>
     <picture>http://i.piccy.info/i9/89ae5669adb763110df3c129773ebe70/1598527932/129562/1380432/pm02_asf_021.jpg</picture>
     <picture>http://i.piccy.info/i9/c243e525d43def5bc37505f04a1154ad/1598527960/219049/1380432/pm02_asf_01.jpg</picture>
     <picture>http://i.piccy.info/i9/49a9954bad30bbe575eb7959c3b338ea/1598527976/106836/1380432/pm02_asf_03.jpg</picture>
     <name>Рюкзак універсальний Pentagram 50 л Navy Blue (PM002)</name>
-	<stock_quantity>10</stock_quantity>
+	<stock_quantity>2</stock_quantity>
     <vendor>Pentagram</vendor>
     <vendorCode>PM002-50nb</vendorCode>
     <description>
@@ -2824,7 +2824,7 @@
 <url>https://leobox.com.ua/p847734475-ryukzak-pentagram-max.html</url>
     <price>1449</price>
 	<old_price>1599</old_price>
-	<price_promo>1270</price_promo>
+	<price_promo>1268</price_promo>
     <currencyId>UAH</currencyId>
     <categoryId>2</categoryId>
     <picture>http://i.piccy.info/i9/764eadfcfc7159341bcba58a44147426/1564400059/195193/1329562/40_max_01.jpg</picture>
@@ -2950,7 +2950,7 @@
 <url>https://leobox.com.ua/p1013177380-ryukzak-pentagram-max.html</url>
     <price>1449</price>
 	<old_price>1599</old_price>
-	<price_promo>1187</price_promo>
+	<price_promo>1268</price_promo>
     <currencyId>UAH</currencyId>
     <categoryId>2</categoryId>
     <picture>http://i.piccy.info/i9/19541c69e87653e194c39ad8bb3b2f04/1564480303/230188/1329562/pm01_black.jpg</picture>

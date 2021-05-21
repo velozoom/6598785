@@ -5727,7 +5727,7 @@
   </offer>
 
 #E18A12 
-<offer id="1320107746" available="true" >
+<offer id="1320107746" available="false" >
 <url>https://leobox.com.ua/ua/p1320107746-zheleznaya-derevyannaya-doroga.html</url>
     <price>1499</price>
 	<old_price>1600</old_price>
@@ -5744,7 +5744,7 @@
 	<picture>https://www.leobox.ua/content/images/26/600x585l80nn0/24483273907738.jpg</picture>
 	<name>Залізна дорога з дерева EDWONE, 80 деталей, (Електричний локомотив) 3+  E18A12</name>
     <vendor>Edwone</vendor>
-	<stock_quantity>10</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendorCode>edw_E18A12</vendorCode>
     <description>
 <![CDATA[ 

@@ -2745,7 +2745,7 @@
 	<param name="цвет">Зеленый</param>
   </offer>
  
-<offer id="928207002" available="true" >
+<offer id="928207002" available="false" >
 <url>https://leobox.com.ua/p928207002-ryukzak-pentagram-50l.html</url>
     <price>1449</price>
 	<old_price>1599</old_price>
@@ -2756,7 +2756,7 @@
     <picture>http://i.piccy.info/i9/c243e525d43def5bc37505f04a1154ad/1598527960/219049/1380432/pm02_asf_01.jpg</picture>
     <picture>http://i.piccy.info/i9/49a9954bad30bbe575eb7959c3b338ea/1598527976/106836/1380432/pm02_asf_03.jpg</picture>
     <name>Рюкзак універсальний Pentagram 50 л Navy Blue (PM002)</name>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendor>Pentagram</vendor>
     <vendorCode>PM002-50nb</vendorCode>
     <description>
@@ -5824,7 +5824,7 @@
 #E17P00
 <offer id="1320080304" available="true" >
 <url>https://leobox.com.ua/ua/p1320080304-zheleznaya-doroga-dereva.html</url>
-    <price>1699</price>
+    <price>1799</price>
 	<old_price>1999</old_price>
 	<price_promo>1699</price_promo>
     <currencyId>UAH</currencyId>
@@ -5922,7 +5922,7 @@
 #E17P05
 <offer id="1388065664" available="true" >
 <url>https://leobox.com.ua/ua/p1388065664-zheleznaya-doroga-dereva.html</url>
-    <price>1699</price>
+    <price>1799</price>
 	<old_price>1999</old_price>
 	<price_promo>1699</price_promo>
     <currencyId>UAH</currencyId>

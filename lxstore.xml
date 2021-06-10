@@ -19,6 +19,7 @@
 <category id="9">Туристичне гідрообладнання</category>
 <category id="10">Залізниця й аксесуари</category>
 <category id="11">Универсальные пульты ДУ</category>
+<category id="12">Маршрутизатори</category>
 </categories>
   <offers>
  
@@ -6059,6 +6060,188 @@
 	<param name="Новий - б/в">Новий</param>
 	
   </offer>
+
+#Ровтери
+
+#Tenda AC6
+<offer id="tnd_ac6" available="true" >
+<url>https://leobox.com.ua/ua/p1418064465-marshrutizator-tenda-ac6.html</url>
+    <price>749</price>
+	<old_price>850</old_price>
+	<price_promo>749</price_promo>
+    <currencyId>UAH</currencyId>
+    <categoryId>12</categoryId>
+    <picture>https://leobox.ua/content/images/31/600x535l80nn0/router-tenda-ac6-ac1200-34228544581831.jpg</picture>
+	<picture>https://leobox.ua/content/images/31/600x544l80nn0/router-tenda-ac6-ac1200-92559645510727.jpg</picture>
+	<picture>https://leobox.ua/content/images/31/600x389l80nn0/router-tenda-ac6-ac1200-18892721428745.jpg</picture>
+	<picture>https://leobox.ua/content/images/31/600x452l80nn0/router-tenda-ac6-ac1200-16041355673306.jpg</picture>
+	<picture>https://leobox.ua/content/images/31/600x600l80nn0/router-tenda-ac6-ac1200-29567479739564.jpg</picture>
+	<picture>https://leobox.ua/content/images/31/600x385l80nn0/router-tenda-ac6-ac1200-94350446036904.jpg</picture>
+	<name>Маршрутизатор Безпровідний (Wi-Fi Роутер) Tenda AC6</name>
+	<stock_quantity>10</stock_quantity>
+    <vendor>Tenda</vendor>
+    <description>
+<![CDATA[ 
+<p><strong>Tenda AC6</strong> - інтелектуальний маршрутизатор, розрахований на стабільну роботу загальною швидкістю до 1167 Мбіт / с паралельно в двох діапазонах: 2,4 і 5 ГГц.</p>
+<p>За рахунок використання спеціальної технології Beamforming + і наявності 4-х надпотужних антен, Tenda AC6 здатний підтримувати безперебійну передачу HD відео і значних потоків даних. Центральний процесор Broadcom з частотою роботи 900 МГц забезпечує швидку обробку інформації без лагів і затримок.</p>
+<p>Tenda AC6 ідеально підходить для роботи всередині великих приміщень з цегляними або залізобетонними стінами, зберігаючи при цьому стабільно потужний сигнал навіть в умовах одночасного підключення декількох пристроїв. </p>
+<p>Проста настройка, система віддаленого управління і низьке споживання енергії роблять Tenda AC6 практичним вибором для домашнього та офісного використання.</p>
+ ]]>
+</description>
+
+    <param name="Частота роботи Wi-Fi">5 ГГц + 2.4 ГГц (дводіапазонний)</param>
+	<param name="Інтерфейси">1 x 10/100 WAN, 3 × 10/100 LAN</param>
+	<param name="Швидкість LAN портів">100 Мбіт/с</param>
+	<param name="WAN-порт">Ethernet</param>
+	<param name="Стандарт зв'язку Wi-Fi">802.11b/g/a, 802.11n, Wi-Fi 5 (802.11ac)</param>
+	<param name="Швидкість Wi-Fi">1167 Мбіт/с</param>
+	<param name="Особливості">Підтримання IPTV, Підтримання VPN</param>
+	<param name="Конструкція антен">Незнімні</param>
+	<param name="Додаткові режими роботи">Точка доступу</param>
+	<param name="Підтримка протоколів">DHCP, L2TP, PPPoE, PPTP</param>
+	<param name="Функції VPN">IPsec pass through, PPTP pass through, L2TP pass through, PPTP server, PPTP client, L2TP client</param>
+	<param name="Додаткові характеристики">Швидкість передавання: 5 ГГц: до 867 Мбіт/сек, 2.4 ГГц: до 300 Мбіт/сек), Робоча температура: 0…+40 °C, Температура зберігання: -40…+70 °C, Робоча відносна вологість: 10…90% без конденсату, Відносна вологість зберігання: 5…90% без конденсату</param>
+	<param name="Габарити та вага">220 x 141.5 x 49 мм, 750г</param>
+	<param name="Кількість антен">4</param>
+	<param name="Країна-виробник">Китай</param>
+	<param name="Цвет">Черный</param>
+  </offer> 
+
+#Tenda AC7
+<offer id="tnd_ac7" available="true" >
+<url>https://leobox.com.ua/ua/p1418081739-marshrutizator-tenda-ac7.html</url>
+    <price>1099</price>
+	<old_price>1150</old_price>
+	<price_promo>1099</price_promo>
+    <currencyId>UAH</currencyId>
+    <categoryId>12</categoryId>
+    <picture>https://leobox.ua/content/images/32/600x544l80nn0/95705495648325.jpg</picture>
+	<picture>https://leobox.ua/content/images/32/586x600l80nn0/71703000066133.jpg</picture>
+	<picture>https://leobox.ua/content/images/32/582x600l80nn0/80410651195617.jpg</picture>
+	<picture>https://leobox.ua/content/images/32/600x600l80nn0/47167153884313.jpg</picture>
+	<name>Маршрутизатор Безпровідний (Wi-Fi Роутер) Tenda AC7</name>
+	<stock_quantity>10</stock_quantity>
+    <vendor>Tenda</vendor>
+    <description>
+<![CDATA[ 
+<p><strong>Tenda AC7</strong> - двохдіапазонний Wi-Fi маршрутизатор, що відрізняється надійністю і стабільністю роботи. Пристрій ідеально підходить для використання в багатоквартирних будинках з великою кількістю стін і кімнат, оскільки сигнал залишається стабільно потужним у великому радіусі покриття.</p>
+<p>Маршрутизатор повністю відповідає вимогам стандартів 5 покоління: завдяки застосуванню 802.11ac wave 2 швидкість сигналу по двом діапазонам досягає тисячі сто шістьдесят сім Мбіт / с.</p>
+<p>Підсилювач потужності, 5 зовнішніх антен з посиленням 6 дБи і технологія Beamforming + - даний набір параметрів дозволяє маршрутизатора працювати стабільно. Не варто залишати без уваги і новий процесор з технологією MU-MIMO, завдяки чому кількість активних користувачів, підключених до однієї точки доступу можна сміливо збільшити.</p>
+<p>Ще одним приємним бонусом можна вважати опцію перенесення PPPoE аккаунта зі свого старого пристрою на Tenda AC7.</p>
+ ]]>
+</description>
+
+    <param name="Частота роботи Wi-Fi">5 ГГц + 2.4 ГГц (дводіапазонний)</param>
+	<param name="Інтерфейси">1 x 10/100 WAN, 3 × 10/100 LAN</param>
+	<param name="Швидкість LAN портів">100 Мбіт/с</param>
+	<param name="WAN-порт">Ethernet</param>
+	<param name="Стандарт зв'язку Wi-Fi">802.11b/g/a, 802.11n, Wi-Fi 5 (802.11ac)</param>
+	<param name="Швидкість Wi-Fi">1167 Мбіт/с</param>
+	<param name="Особливості">Підтримання IPTV, Підтримання VPN</param>
+	<param name="Конструкція антен">Незнімні</param>
+	<param name="Додаткові режими роботи">Точка доступу</param>
+	<param name="Підтримка протоколів">DHCP, L2TP, PPPoE, PPTP</param>
+	<param name="Функції VPN">IPsec pass through, PPTP pass through, L2TP pass through, PPTP server, PPTP client, L2TP client</param>
+	<param name="Функції брандмауера">Захист від UDP flood attack, Захист від TCP flood attack, Захист від flood attack, Заборона WAN PING з Інтернету</param>
+	<param name="Додаткові характеристики">Швидкість передавання: 5 ГГц: до 867 Мбіт/сек, 2.4 ГГц: до 300 Мбіт/сек), Робоча температура: 0…+40 °C, Температура зберігання: -40…+70 °C, Робоча відносна вологість: 10…90% без конденсату, Відносна вологість зберігання: 5…90% без конденсату</param>
+	<param name="Габарити та вага">220 х 141.5 х 49 мм, 800г</param>
+	<param name="Кількість антен">5</param>
+	<param name="Країна-виробник">Китай</param>
+	<param name="Цвет">Черный</param>
+  </offer>
+
+#Tenda AC11
+<offer id="tnd_ac11" available="true" >
+<url>https://leobox.com.ua/ua/p1418084779-marshrutizator-tenda-ac11.html</url>
+    <price>1199</price>
+	<old_price>1250</old_price>
+	<price_promo>1099</price_promo>
+    <currencyId>UAH</currencyId>
+    <categoryId>12</categoryId>
+    <picture>https://leobox.ua/content/images/35/500x500l80nn0/router-tenda-ac11-ac1200-wifi-802.11ac-1-gbit-s-39559189263280.jpg</picture>
+	<picture>https://leobox.ua/content/images/35/500x500l80nn0/router-tenda-ac11-ac1200-wifi-802.11ac-1-gbit-s-30895118873762.jpg</picture>
+	<picture>https://leobox.ua/content/images/35/500x500l80nn0/router-tenda-ac11-ac1200-wifi-802.11ac-1-gbit-s-33917031683126.jpg</picture>
+	<picture>https://leobox.ua/content/images/35/500x500l80nn0/router-tenda-ac11-ac1200-wifi-802.11ac-1-gbit-s-27364315260292.jpg</picture>
+	<name>Маршрутизатор Безпровідний (Гігабітний Wi-Fi Роутер) Tenda AC11</name>
+	<stock_quantity>10</stock_quantity>
+    <vendor>Tenda</vendor>
+    <description>
+<![CDATA[ 
+<p><strong>Tenda AC11</strong> - Wi-Fi-маршрутизатор, що відрізняється високою продуктивністю і хорошою пропускною спроможністю оптичного волокна.</p>
+<p>Пристрій оснащений портами Gigabit WAN і LAN, що підвищує швидкість і якість передачі сигналу по дротах. Стандарт 802.11ac wave 2.0 - це нові можливості для обладнання такого рівня, завдяки чому стає реальною двухдиапазонная передача даних із загальною швидкістю до 1167 Мбіт / с.</p>
+<p>Застосування технологій щодо посилення сигналу для бездротового обміну інформацією (діапазони 2,4 і 5 ГГц) помітно розширює Wi-Fi зону, а Beamforming + сприяє тому, що маршрутизатор AC11 працює стабільно навіть незважаючи на перешкоди у вигляді декількох стін. Тепер можна вільно підключати більшу кількість пристроїв одночасно, не побоюючись погіршення сигналу - інноваційна технологія MU-MIMO, застосована в Tenda AC11, дозволяє звести час очікування до мінімуму</p>
+ ]]>
+</description>
+
+    <param name="Частота роботи Wi-Fi">5 ГГц + 2.4 ГГц (дводіапазонний)</param>
+	<param name="Інтерфейси">1 х 10/100/1000 Мбіт/сек WAN, 3 х 10/100/1000 Мбіт/сек LAN LAN</param>
+	<param name="Швидкість LAN портів">1 Гбіт/с</param>
+	<param name="WAN-порт">Ethernet</param>
+	<param name="Стандарт зв'язку Wi-Fi">802.11b/g/a, 802.11n, Wi-Fi 5 (802.11ac)</param>
+	<param name="Стандарт швидкості Wi-Fi">AC1200</param>
+	<param name="Тип шифрування">WPA, WPA2-PSK, WPA-PSK</param>
+	<param name="Швидкість Wi-Fi">1167 Мбіт/с</param>
+	<param name="Особливості">Підтримання IPTV, Підтримка Beamforming, Підтримка MU-MIMO</param>
+	<param name="Функції безпеки">Гостьовий доступ</param>
+	<param name="Конструкція антен">Незнімні</param>
+	<param name="Додаткові режими роботи">Точка доступу</param>
+	<param name="Підтримка протоколів">DHCP, IPsec, IPv6, L2TP, PPPoE, PPTP, UPnP</param>
+	<param name="Функції VPN">IPsec pass through, PPTP pass through, L2TP pass through, PPTP server, PPTP client, L2TP client</param>
+	<param name="Функції брандмауера">Захист від UDP flood attack, Захист від TCP flood attack, Захист від flood attack, Заборона WAN PING з Інтернету</param>
+	<param name="Додаткові характеристики">Швидкість передавання: 5 ГГц: до 867 Мбіт/сек, 2.4 ГГц: до 300 Мбіт/сек), Робоча температура: 0…+40 °C, Температура зберігання: -40…+70 °C, Робоча відносна вологість: 10…90% без конденсату, Відносна вологість зберігання: 5…90% без конденсату</param>
+	<param name="Габарити та вага">220 х 141.5 х 49 мм, 900г</param>
+	<param name="Кількість антен">5</param>
+	<param name="Країна-виробник">Китай</param>
+	<param name="Цвет">Черный</param>
+  </offer>
+
+#Tenda AC23
+<offer id="tnd_ac23" available="true" >
+<url>https://leobox.com.ua/ua/p1419373841-marshrutizator-tenda-ac23.html</url>
+    <price>1699</price>
+	<old_price>1850</old_price>
+	<price_promo>1599</price_promo>
+    <currencyId>UAH</currencyId>
+    <categoryId>12</categoryId>
+    <picture>https://leobox.ua/content/images/36/600x563l80nn0/router-tenda-ac23-ac2100-4x4-mimo-1-gbit-s-7-anten-53447798428628.jpg</picture>
+	<picture>https://leobox.ua/content/images/36/600x476l80nn0/router-tenda-ac23-ac2100-4x4-mimo-1-gbit-s-7-anten-16477696318087.jpg</picture>
+	<picture>https://leobox.ua/content/images/36/597x600l80nn0/router-tenda-ac23-ac2100-4x4-mimo-1-gbit-s-7-anten-26558821442493.jpg</picture>
+	<picture>https://leobox.ua/content/images/36/600x442l80nn0/router-tenda-ac23-ac2100-4x4-mimo-1-gbit-s-7-anten-97892244987083.jpg</picture>
+	<name>Маршрутизатор Безпровідний (Гігабітний Wi-Fi Роутер) Tenda AC23</name>
+	<stock_quantity>10</stock_quantity>
+    <vendor>Tenda</vendor>
+    <description>
+<![CDATA[ 
+<p><strong>Tenda AC11</strong> - Wi-Fi маршрутизатор з підтримкою двохдіапазонної передачі сигналу для більш високій швидкості з'єднання і передачі даних по мережі. Застосування технології 802.11ac wave 2 в гігабітному пристрої дозволяє відчути всі переваги інноваційних можливостей: прилад розрахований на підтримку швидкості до 2033 Мбіт / с (діапазони 2,4 і 5 ГГц). Технологія MU-MIMO 4х4 сприяє значному розширенню зони покриття без втрати швидкості і якості бездротової передачі сигналу.</p>
+<p>При використанні всіх гігабітних портів для передачі даних по дротах загальна швидкість доступу до мережі може досягати 1000 Мбіт / с. На окрему увагу заслуговує процесор (1 ГГц) і співпроцесор (500 МГц), створені за двоядерний 28 нм технології. Завдяки такому високотехнологічному оснащенню процес передачі сигналу і його обробки обладнанням оптимізується.</p>
+<p>Tenda AC23 обладнаний 7 зовнішніми посиленими антенами по 6 дБи, тому пристрій не втрачає своєї продуктивності навіть при наявності декількох стін значної товщини.</p>
+ ]]>
+</description>
+
+    <param name="Частота роботи Wi-Fi">5 ГГц + 2.4 ГГц (дводіапазонний)</param>
+	<param name="Інтерфейси">1 х 10/100/1000 Мбіт/сек WAN, 3 х 10/100/1000 Мбіт/сек LAN LAN</param>
+	<param name="Швидкість LAN портів">1 Гбіт/с</param>
+	<param name="WAN-порт">Ethernet</param>
+	<param name="Стандарт зв'язку Wi-Fi">802.11b/g/a, 802.11n, Wi-Fi 5 (802.11ac)</param>
+	<param name="Стандарт швидкості Wi-Fi">AC1200</param>
+	<param name="Тип шифрування">WPA, WPA2-PSK, WPA-PSK</param>
+	<param name="Швидкість Wi-Fi">2033 Мбіт/сек</param>
+	<param name="Особливості">Підтримання IPTV, Підтримка Beamforming, Підтримка MU-MIMO</param>
+	<param name="Функції безпеки">Батьківський контроль</param>
+	<param name="Конструкція антен">Незнімні</param>
+	<param name="Додаткові режими роботи">Точка доступу</param>
+	<param name="Підтримка протоколів">DHCP, IPsec, IPv6, L2TP, PPPoE, PPTP, UPnP</param>
+	<param name="Функції VPN">IPsec pass through, PPTP pass through, L2TP pass through, PPTP server, PPTP client, L2TP client</param>
+	<param name="Функції брандмауера">Захист від UDP flood attack, Захист від TCP flood attack, Захист від flood attack, Заборона WAN PING з Інтернету</param>
+	<param name="Інші функції">Smart Traffic Prioritisation, Smart WiFi Schedule, Smart Power Saving, Smart LED on/off, Tenda Cloud, Tenda App, Bandwidth Control</param>
+	<param name="Додаткові характеристики">MAC Clone, Статична маршрутизація, Системний журнал, Конфігурація резервного копіювання та відновлення, Оновлення прошивки онлайн, Оновлення прошивки через браузер, Підтримка IPv6</param>
+	<param name="Габарити та вага">238.9 х 144.3 х 40.3 мм, 1000г</param>
+	<param name="Кількість антен">7</param>
+	<param name="Країна-виробник">Китай</param>
+	<param name="Цвет">Черный</param>
+  </offer>
+
+
 
 </offers>
 </shop>

@@ -4676,7 +4676,7 @@
 	<param name="Цвет">Черный</param>
   </offer> 
  
-<offer id="1247581062" available="false" >
+<offer id="1247581062" available="true" >
 <url>https://leobox.com.ua/p1247581062-ugoos-tox1-432.html</url>
     <price>1799</price>
 	<old_price>1850</old_price>
@@ -4689,7 +4689,7 @@
 	<picture>http://i.piccy.info/i9/21589b100e89adabd479d68b370806bc/1599111113/76440/1380432/tox_01.jpg</picture>
 	<picture>http://i.piccy.info/i9/dc27fb8349b88c5f8eef5eb6a54a0a2b/1599111150/51802/1380432/H45abab50f4554db5aefaccbaa63cb95ak.jpg</picture>
 	<name>Смарт тв приставка - TOX1 4K TV Box 4/32 GB</name>
-	<stock_quantity>0</stock_quantity>
+	<stock_quantity>10</stock_quantity>
     <vendor>Ugoos</vendor>
     <vendorCode>Tox1_b</vendorCode>
     <description>

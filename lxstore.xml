@@ -4281,10 +4281,10 @@
 	<param name="Цвет">Черный</param>
   </offer>
 
-<offer id="947645560" available="false" >
+<offer id="947645560" available="true" >
 <url>https://leobox.com.ua/p947645560-mecool-km3-464.html</url>
-    <price>2299</price>
-	<old_price>2400</old_price>
+    <price>2399</price>
+	<old_price>2500</old_price>
     <currencyId>UAH</currencyId>
     <categoryId>3</categoryId>
     <picture>http://i.piccy.info/i9/fe129b15c3515ff4e4d2c848f1088f61/1567499736/102986/1329562/01.jpg</picture>
@@ -4411,9 +4411,9 @@
 	<param name="Цвет">Черный</param>
   </offer>
 
-<offer id="1150902907" available="false" >
+<offer id="1150902907" available="true" >
 <url>https://leobox.com.ua/p1150902907-ugoos-am6-plus.html</url>
-    <price>5599</price>
+    <price>5499</price>
 	<old_price>5800</old_price>
 	<price_promo>5400</price_promo>
     <currencyId>UAH</currencyId>
@@ -4422,7 +4422,7 @@
     <picture>http://i.piccy.info/i9/1fa2df520798c9d248a4b1f6600fc02b/1590652378/85028/1380432/04.jpg</picture>
 	<picture>http://i.piccy.info/i9/b94c206f1a73ff617128cb2dd92c6c53/1590652166/44014/1380432/ugoos_am6_3_1000x1000.jpg</picture>
 	<name>Смарт тв приставка - Ugoos AM6 Plus 4/32 GB</name>
-	<stock_quantity>0</stock_quantity>
+	<stock_quantity>5</stock_quantity>
     <vendor>Ugoos</vendor>
     <vendorCode>am6_plus_b</vendorCode>
     <description>
@@ -4478,9 +4478,9 @@
 	<param name="Цвет">Черный</param>
   </offer>
  
-<offer id="1089380092" available="false" >
+<offer id="1089380092" available="true" >
 <url>https://leobox.com.ua/p1089380092-ugoos-cube-216.html</url>
-    <price>1899</price>
+    <price>1849</price>
 	<old_price>2000</old_price>
 	<price_promo>1898</price_promo>
     <currencyId>UAH</currencyId>
@@ -4544,9 +4544,9 @@
 	<param name="Цвет">Черный</param>
   </offer>
 
-<offer id="1089404316" available="false" >
+<offer id="1089404316" available="true" >
 <url>https://leobox.com.ua/p1089404316-ugoos-pro-432.html</url>
-    <price>2449</price>
+    <price>2499</price>
 	<old_price>2600</old_price>
 	<price_promo>2448</price_promo>
     <currencyId>UAH</currencyId>
@@ -4610,7 +4610,7 @@
 	<param name="Цвет">Черный</param>
   </offer> 
  
-<offer id="1100274137" available="false" >
+<offer id="1100274137" available="true" >
 <url>https://leobox.com.ua/p1100274137-ugoos-plus-464.html</url>
     <price>2799</price>
 	<old_price>2900</old_price>
@@ -4621,7 +4621,7 @@
     <picture>https://picua.org/images/2020/05/28/7d9efb0045c7bd45c8df1769fc05fa0e.jpg</picture>
 	<picture>https://picua.org/images/2020/05/28/376741547fc27b362e6463c0f4186ac0.jpg</picture>
 	<name>Смарт тв приставка - X3 Plus Ugoos 4/64 GB</name>
-	<stock_quantity>5</stock_quantity>
+	<stock_quantity>10</stock_quantity>
     <vendor>Ugoos</vendor>
     <vendorCode>x3plus_b</vendorCode>
     <description>
@@ -4823,11 +4823,11 @@
 	<param name="Цвет">Черный</param>
   </offer>
 
-<offer id="1088594094" available="false" >
+<offer id="1088594094" available="true" >
 <url>https://leobox.com.ua/p1088594094-beelink-king-pro.html</url>
-    <price>4199</price>
-	<old_price>4500</old_price>
-	<price_promo>4197</price_promo>
+    <price>4699</price>
+	<old_price>4800</old_price>
+	<price_promo>4699</price_promo>
     <currencyId>UAH</currencyId>
     <categoryId>3</categoryId>
     <picture>http://i.piccy.info/i9/c7f06b18592448b59be7a5ed5624bca2/1591253217/179470/1380432/04.jpg</picture>
@@ -4972,7 +4972,7 @@
 
  #mecool km1 
  
- <offer id="1169484743" available="false" >
+ <offer id="1169484743" available="true" >
 <url>https://leobox.com.ua/p1169484743-mecool-km1-classic.html</url>
     <price>1899</price>
 	<old_price>1890</old_price>
@@ -4983,7 +4983,7 @@
 	<picture>http://i.piccy.info/i9/6f6172fc56d6a73cce56cb60175ec4bc/1590583310/143211/1380432/KM1r.jpg</picture>
 	<picture>http://i.piccy.info/i9/80fa6ec0fc3aca4f18ae52173ac08fe2/1590583362/90453/1380432/1_2.jpg</picture>
 	<name>Смарт тв приставка Mecool KM1 Classic 2gb/16gb (S905X3)</name>
-	<stock_quantity>0</stock_quantity>
+	<stock_quantity>10</stock_quantity>
     <vendor>Mecool, Videostrong</vendor>
     <vendorCode>km1_16b</vendorCode>
     <description>
@@ -5100,9 +5100,9 @@
 	<param name="Цвет">Черный</param>
   </offer> 
  
- <offer id="1168837975" available="false" >
+ <offer id="1168837975" available="true" >
 <url>https://leobox.com.ua/p1168837975-mecool-km1-collective.html</url>
-    <price>2699</price>
+    <price>2469</price>
 	<old_price>2600</old_price>
     <currencyId>UAH</currencyId>
     <categoryId>3</categoryId>
@@ -5111,7 +5111,7 @@
 	<picture>http://i.piccy.info/i9/6f6172fc56d6a73cce56cb60175ec4bc/1590583310/143211/1380432/KM1r.jpg</picture>
 	<picture>http://i.piccy.info/i9/80fa6ec0fc3aca4f18ae52173ac08fe2/1590583362/90453/1380432/1_2.jpg</picture>
 	<name>Смарт тв приставка Mecool KM1 Collective 4gb/64gb (S905X3)</name>
-	<stock_quantity>0</stock_quantity>
+	<stock_quantity>10</stock_quantity>
     <vendor>Mecool, Videostrong</vendor>
     <vendorCode>km1_64b</vendorCode>
     <description>

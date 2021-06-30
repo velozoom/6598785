@@ -5972,7 +5972,7 @@
   </offer>
 
 #Набір поїздів
-<offer id="1405023837" available="true" >
+<offer id="1405023837" available="false" >
 <url>https://leobox.com.ua/ua/p1405023837-nabor-poezdov-vagonov.html</url>
     <price>699</price>
 	<old_price>800</old_price>
@@ -6067,7 +6067,7 @@
 #Tenda AC6
 <offer id="tnd_ac6" available="true" >
 <url>https://leobox.com.ua/ua/p1418064465-marshrutizator-tenda-ac6.html</url>
-    <price>749</price>
+    <price>739</price>
 	<old_price>850</old_price>
 	<price_promo>749</price_promo>
     <currencyId>UAH</currencyId>

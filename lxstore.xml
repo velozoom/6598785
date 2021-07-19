@@ -5824,7 +5824,7 @@
   </offer>
 
 #E17P00
-<offer id="1320080304" available="true" >
+<offer id="1320080304" available="false" >
 <url>https://leobox.com.ua/ua/p1320080304-zheleznaya-doroga-dereva.html</url>
     <price>1799</price>
 	<old_price>1999</old_price>
@@ -5839,7 +5839,7 @@
 	<picture>http://i.piccy.info/i9/257eefec7a6dfe7433d4b297dc2aca07/1619764814/56683/1427124/92425764011159.jpg</picture>
 	<name>Залізна дорога з дерева EDWONE, 110 деталей, 3+  E17P00 (електричний локомотив)</name>
     <vendor>Edwone</vendor>
-	<stock_quantity>5</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendorCode>edw_E17P00</vendorCode>
     <description>
 <![CDATA[ 

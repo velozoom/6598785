@@ -5986,7 +5986,7 @@
 	<picture>https://www.leobox.ua/content/images/13/600x368l80nn0/50718975544771.jpg</picture>
 	<name>Набір поїздів і вагонів 12 шт до дерев'яної дороги Brio, Ikea, Playtive, Edwone та інших (E16C01)</name>
     <vendor>Edwone</vendor>
-	<stock_quantity>5</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendorCode>edw_E16C01</vendorCode>
     <description>
 <![CDATA[ 
@@ -6019,7 +6019,7 @@
   </offer>
 
 #Електричний локомотив
-<offer id="1404402139" available="true" >
+<offer id="1404402139" available="false" >
 <url>https://leobox.com.ua/ua/p1404402139-elektricheskij-lokomotiv-edwone.html</url>
     <price>399</price>
 	<old_price>500</old_price>
@@ -6032,7 +6032,7 @@
 	<picture>http://i.piccy.info/i9/75aa35c042f776b88999ba05fb618cc6/1619768490/96363/1427124/21212.jpg</picture>
 	<name>Електричний локомотив Edwone до дерев'яної дороги Brio, Ikea, Playtive (E21A23)</name>
     <vendor>Edwone</vendor>
-	<stock_quantity>5</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendorCode>edw_E21A23</vendorCode>
     <description>
 <![CDATA[ 
@@ -6067,7 +6067,7 @@
 #Tenda AC6
 <offer id="tnd_ac6" available="true" >
 <url>https://leobox.com.ua/ua/p1418064465-marshrutizator-tenda-ac6.html</url>
-    <price>739</price>
+    <price>699</price>
 	<old_price>850</old_price>
 	<price_promo>749</price_promo>
     <currencyId>UAH</currencyId>
@@ -6111,8 +6111,8 @@
 #Tenda AC7
 <offer id="tnd_ac7" available="true" >
 <url>https://leobox.com.ua/ua/p1418081739-marshrutizator-tenda-ac7.html</url>
-    <price>1099</price>
-	<old_price>1150</old_price>
+    <price>999</price>
+	<old_price>1100</old_price>
 	<price_promo>1099</price_promo>
     <currencyId>UAH</currencyId>
     <categoryId>12</categoryId>
@@ -6154,8 +6154,8 @@
 #Tenda AC11
 <offer id="tnd_ac11" available="true" >
 <url>https://leobox.com.ua/ua/p1418084779-marshrutizator-tenda-ac11.html</url>
-    <price>1199</price>
-	<old_price>1250</old_price>
+    <price>1299</price>
+	<old_price>1400</old_price>
 	<price_promo>1099</price_promo>
     <currencyId>UAH</currencyId>
     <categoryId>12</categoryId>
@@ -6199,7 +6199,7 @@
 #Tenda AC23
 <offer id="tnd_ac23" available="true" >
 <url>https://leobox.com.ua/ua/p1419373841-marshrutizator-tenda-ac23.html</url>
-    <price>1699</price>
+    <price>1799</price>
 	<old_price>1850</old_price>
 	<price_promo>1599</price_promo>
     <currencyId>UAH</currencyId>
@@ -6247,7 +6247,7 @@
 #ipega 9076
 <offer id="ipg_9076" available="true" >
 <url>https://leobox.com.ua/ua/p1122081022-gejmpad-ipega-9076.html</url>
-    <price>699</price>
+    <price>649</price>
 	<old_price>750</old_price>
 	<price_promo>499</price_promo>
     <currencyId>UAH</currencyId>
@@ -6287,7 +6287,7 @@
 #ipega 9078
 <offer id="ipg_9078" available="true" >
 <url>https://leobox.com.ua/ua/p1425215054-gejmpad-ipega-9078.html</url>
-    <price>699</price>
+    <price>599</price>
 	<old_price>750</old_price>
 	<price_promo>499</price_promo>
     <currencyId>UAH</currencyId>
@@ -6352,8 +6352,8 @@
 #ipega 9157
 <offer id="ipg_9157" available="true" >
 <url>https://leobox.com.ua/ua/p1425221037-gejmpad-ipega-9157.html</url>
-    <price>499</price>
-	<old_price>600</old_price>
+    <price>599</price>
+	<old_price>650</old_price>
 	<price_promo>499</price_promo>
     <currencyId>UAH</currencyId>
     <categoryId>5</categoryId>
@@ -6423,7 +6423,7 @@
 #ipega 9118
 <offer id="ipg_9118" available="true" >
 <url>https://leobox.com.ua/ua/p1425231388-gejmpad-ipega-9118.html</url>
-    <price>899</price>
+    <price>799</price>
 	<old_price>1000</old_price>
 	<price_promo>799</price_promo>
     <currencyId>UAH</currencyId>
@@ -6495,8 +6495,8 @@
 #gamesir t4pro
 <offer id="gs_t4pro" available="true" >
 <url>https://leobox.com.ua/ua/p1425791214-gejmpad-dlya-android.html</url>
-    <price>1099</price>
-	<old_price>1200</old_price>
+    <price>1399</price>
+	<old_price>1600</old_price>
 	<price_promo>1099</price_promo>
     <currencyId>UAH</currencyId>
     <categoryId>5</categoryId>
@@ -6558,7 +6558,7 @@ GameSir T4 pro тепер оснащений шестишаровим&nbsp;гі�
 #mocute 054mx
 <offer id="Mocute_054mx" available="true" >
 <url>https://leobox.com.ua/ua/p1425763414-gejmpad-dlya-android.html</url>
-    <price>699</price>
+    <price>899</price>
 	<old_price>750</old_price>
 	<price_promo>699</price_promo>
     <currencyId>UAH</currencyId>
@@ -6618,7 +6618,7 @@ GameSir T4 pro тепер оснащений шестишаровим&nbsp;гі�
 #mocute 054
 <offer id="Mocute_054" available="true" >
 <url>https://leobox.com.ua/ua/p909131535-gejmpad-dlya-android.html</url>
-    <price>699</price>
+    <price>649</price>
 	<old_price>750</old_price>
 	<price_promo>699</price_promo>
     <currencyId>UAH</currencyId>

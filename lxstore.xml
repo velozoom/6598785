@@ -2948,7 +2948,7 @@
 	<param name="цвет">Синий</param>
   </offer>
 
-<offer id="1013177380" available="true" >
+<offer id="1013177380" available="false" >
 <url>https://leobox.com.ua/p1013177380-ryukzak-pentagram-max.html</url>
     <price>1449</price>
 	<old_price>1599</old_price>
@@ -2958,7 +2958,7 @@
     <picture>http://i.piccy.info/i9/19541c69e87653e194c39ad8bb3b2f04/1564480303/230188/1329562/pm01_black.jpg</picture>
     <picture>http://i.piccy.info/i9/34ef48f234f2983da80d2b21819d18c0/1564480327/182444/1329562/pm01_bl_1.jpg</picture>
 	<name>Рюкзак універсальний Pentagram 40 max Black (PM007)</name>
-	<stock_quantity>5</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendor>Pentagram</vendor>
     <vendorCode>PM007black</vendorCode>
     <description>
@@ -4827,9 +4827,9 @@
 
 <offer id="1088594094" available="true" >
 <url>https://leobox.com.ua/p1088594094-beelink-king-pro.html</url>
-    <price>4699</price>
-	<old_price>4800</old_price>
-	<price_promo>4699</price_promo>
+    <price>4999</price>
+	<old_price>5400</old_price>
+	<price_promo>4799</price_promo>
     <currencyId>UAH</currencyId>
     <categoryId>3</categoryId>
     <picture>http://i.piccy.info/i9/c7f06b18592448b59be7a5ed5624bca2/1591253217/179470/1380432/04.jpg</picture>

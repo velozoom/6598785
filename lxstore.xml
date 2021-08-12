@@ -5249,7 +5249,7 @@
 	<param name="Цвет">Белый</param>
   </offer> 
 
-<offer id="983679825" available="true" >
+<offer id="983679825" available="false" >
 <url>https://leobox.com.ua/p983679825-deerma-dem-f628.html</url>
     <price>799</price>
 	<old_price>1299</old_price>
@@ -5260,7 +5260,7 @@
     <picture>http://i.piccy.info/i9/ecb18a975e237254a54d70e6619f59e7/1566383319/175128/1329562/02.jpg</picture>
 	<picture>http://i.piccy.info/i9/6561d1eea258dde36de01119bae7ba5b/1566383341/160206/1329562/03.jpg</picture>
 	<name>Зволожувач повітря Deerma DEM-F628</name>
-	<stock_quantity>10</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendor>Deerma</vendor>
     <vendorCode>Dr_F628</vendorCode>
     <description>
@@ -5537,7 +5537,7 @@
 
 <offer id="1098681126" available="true" >
 <url>https://leobox.com.ua/p1098681126-deerma-dem-f628s.html</url>
-    <price>899</price>
+    <price>1199</price>
 	<old_price>1300</old_price>
 	<price_promo>910</price_promo>
     <currencyId>UAH</currencyId>

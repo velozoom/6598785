@@ -1676,7 +1676,7 @@
 	<param name="цвет">Синий</param>
   </offer>
 
-<offer id="1027823849" available="true" >
+<offer id="1027823849" available="false" >
     <url>https://leobox.com.ua/p1027823849-turisticheskij-ryukzak-pentagram.html</url>
     <price>1399</price>
 	<old_price>1499</old_price>
@@ -1687,7 +1687,7 @@
     <picture>http://i.piccy.info/i9/2227773c7e62769a26a3cbdfa8598781/1598529739/49709/1380432/O1CN01hCARDY1WjtOwGiZZI_572282825.jpg</picture>
     <picture>http://i.piccy.info/i9/80f2a87090af9e00466e288e7a7a6ee7/1598529764/60824/1380432/2222.jpg</picture>
     <name>Рюкзак універсальний Pentagram 35 л Army Green (PM001) </name>
-	<stock_quantity>5</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendor>Pentagram</vendor>
     <vendorCode>PM001-35h</vendorCode>
     <description>
@@ -1747,7 +1747,7 @@
 	<param name="цвет">Зеленый</param>
   </offer>
 
-<offer id="1026580776" available="false" >
+<offer id="1026580776" available="true" >
     <url>https://leobox.com.ua/p1026580776-turisticheskij-ryukzak-pentagram.html</url>
     <price>1399</price>
 	<old_price>1499</old_price>

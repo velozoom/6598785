@@ -4482,9 +4482,9 @@
  
 <offer id="1089380092" available="true" >
 <url>https://leobox.com.ua/p1089380092-ugoos-cube-216.html</url>
-    <price>1849</price>
+    <price>1949</price>
 	<old_price>2000</old_price>
-	<price_promo>1898</price_promo>
+	<price_promo>1798</price_promo>
     <currencyId>UAH</currencyId>
     <categoryId>3</categoryId>
     <picture>http://i.piccy.info/i9/849e42ee24e2ef40e4e89bf81ea69d7b/1590653452/121364/1380432/r01.jpg</picture>
@@ -5689,13 +5689,13 @@
 	<price_promo>1599</price_promo>
     <currencyId>UAH</currencyId>
     <categoryId>10</categoryId>
-    <picture>https://picua.org/images/2021/01/29/85dd998621e10ffc6efa4199c81d35ec.jpg</picture>
-	<picture>https://picua.org/images/2021/01/29/f1ac34564f4177c2461731f31d24836f.jpg</picture>
-	<picture>https://picua.org/images/2021/01/29/3f420479a9406b281a20ff69da292bd3.jpg</picture>
-    <picture>https://picua.org/images/2021/01/29/73d567dcd3f9845f1a103055d254d8d1.jpg</picture>
-    <picture>https://picua.org/images/2021/01/29/7c44f6c670ea64dd8b23a30353a177f2.jpg</picture>
-	<picture>https://picua.org/images/2021/01/29/f5595f102ec2902c37d766b634183701.jpg</picture>
-	<name>Залізна дорога з дерева EDWONE, 80 деталей, (Електричний локомотив) 3+  E21A10 (E18A11)</name>
+    <picture>https://leobox.ua/content/images/25/51025900807403_+732eb64422.jpg</picture>
+	<picture>https://leobox.ua/content/images/25/99550695638796_+8dbb37ba71.jpg</picture>
+	<picture>https://leobox.ua/content/images/25/dityacha-igrashkova-zaliznitsya-z-dereva-edwone-80-detaley-brio-ikea-16072327746023_+f8721625d1.jpg</picture>
+    <picture>https://leobox.ua/content/images/25/dityacha-igrashkova-zaliznitsya-z-dereva-edwone-80-detaley-brio-ikea-29946995763640_+075c39b9ac.jpg</picture>
+    <picture>https://leobox.ua/content/images/25/dityacha-igrashkova-zaliznitsya-z-dereva-edwone-80-detaley-brio-ikea-18212780229450_+ca3d7d2452.jpg</picture>
+	<picture>https://leobox.ua/content/images/25/dityacha-igrashkova-zaliznitsya-z-dereva-edwone-80-detaley-brio-ikea-39477329026939_+f06eccfdd0.jpg</picture>
+	<name>Залізна дорога з дерева EDWONE, 80 деталей, (Електричний локомотив) 3+  E21A10</name>
     <vendor>Edwone</vendor>
 	<stock_quantity>10</stock_quantity>
     <vendorCode>edw_E18A11</vendorCode>

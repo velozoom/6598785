@@ -1971,7 +1971,7 @@
     <picture>https://picua.org/images/2019/04/12/545a89932fec0db5ad6f2f19e499322b.jpg</picture>
     <picture>https://picua.org/images/2019/04/12/19e9405b50790f67d398d4d2688b61a4.jpg</picture>
     <name>Рюкзак універсальний Pentagram 35 л Peacock Blue (PM06)</name>
-	<stock_quantity>2</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendor>Pentagram</vendor>
     <vendorCode>PM06p</vendorCode>
     <description>
@@ -2041,7 +2041,7 @@
     <picture>https://picua.org/images/2019/04/04/345975d4b2151e5413e3f2dc02b8cefb.jpg</picture>
     <picture>https://picua.org/images/2019/04/04/4c56979bb1c08a54e9d9c82453bb55cf.jpg</picture>
     <name>Рюкзак універсальний Pentagram 35 л Navy Blue (PM06)</name>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendor>Pentagram</vendor>
     <vendorCode>PM06n</vendorCode>
     <description>
@@ -2109,7 +2109,7 @@
     <picture>https://picua.org/images/2019/04/12/92b7dff434322578809e46097b4860a0.jpg</picture>
     <picture>https://picua.org/images/2019/04/12/87f4500647fa0aa2f1a759b4e709294f.jpg</picture>
     <name>Рюкзак універсальний Pentagram 35 л Orange (PM06)</name>
-	<stock_quantity>5</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendor>Pentagram</vendor>
     <vendorCode>PM06o</vendorCode>
     <description>
@@ -2178,7 +2178,7 @@
     <picture>http://i.piccy.info/i9/1f62539e908d0fe5c8de7789d4706436/1564466888/204478/1329562/pmd08_haki_04.jpg</picture>
 	<picture>http://i.piccy.info/i9/b3771c879b1c72e7c00aff190403c78b/1564466909/165600/1329562/pmd08_haki_02.jpg</picture>
     <name>Рюкзак універсальний Pentagram 35 л Army Green (PM06)</name>
-	<stock_quantity>5</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendor>Pentagram</vendor>
     <vendorCode>PM006_h</vendorCode>
     <description>
@@ -2246,7 +2246,7 @@
     <picture>http://i.piccy.info/i9/4b28b517fcecc3d784b62b647ad0bc83/1564471773/180651/1329562/pmd07_black_02.jpg</picture>
     <picture>http://i.piccy.info/i9/9a9e74b4bf2a773178a574bba40387b2/1564471800/179457/1329562/pmd07_black_03.jpg</picture>
     <name>Рюкзак універсальний Pentagram 35 л Black (PM06)</name>
-	<stock_quantity>5</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendor>Pentagram</vendor>
     <vendorCode>PM006_b</vendorCode>
     <description>
@@ -6359,7 +6359,7 @@
 #Ровтери
 
 #Tenda AC6
-<offer id="tnd_ac6" available="true" >
+<offer id="tnd_ac6" available="false" >
 <url>https://leobox.com.ua/ua/p1418064465-marshrutizator-tenda-ac6.html</url>
     <price>849</price>
 	<old_price>950</old_price>
@@ -6373,7 +6373,7 @@
 	<picture>https://leobox.ua/content/images/31/600x600l80nn0/router-tenda-ac6-ac1200-29567479739564.jpg</picture>
 	<picture>https://leobox.ua/content/images/31/600x385l80nn0/router-tenda-ac6-ac1200-94350446036904.jpg</picture>
 	<name>Маршрутизатор Безпровідний (Wi-Fi Роутер) Tenda AC6</name>
-	<stock_quantity>10</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendor>Tenda</vendor>
     <description>
 <![CDATA[ 
@@ -6446,7 +6446,7 @@
   </offer>
 
 #Tenda AC11
-<offer id="tnd_ac11" available="true" >
+<offer id="tnd_ac11" available="false" >
 <url>https://leobox.com.ua/ua/p1418084779-marshrutizator-tenda-ac11.html</url>
     <price>1299</price>
 	<old_price>1400</old_price>
@@ -6458,7 +6458,7 @@
 	<picture>https://leobox.ua/content/images/35/500x500l80nn0/router-tenda-ac11-ac1200-wifi-802.11ac-1-gbit-s-33917031683126.jpg</picture>
 	<picture>https://leobox.ua/content/images/35/500x500l80nn0/router-tenda-ac11-ac1200-wifi-802.11ac-1-gbit-s-27364315260292.jpg</picture>
 	<name>Маршрутизатор Безпровідний (Гігабітний Wi-Fi Роутер) Tenda AC11</name>
-	<stock_quantity>10</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendor>Tenda</vendor>
     <description>
 <![CDATA[ 

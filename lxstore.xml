@@ -5633,24 +5633,24 @@
 	
   </offer> 
 
-#E16A10
-<offer id="1320717688" available="false" >
+#E21A17
+<offer id="1320717688" available="true" >
 <url>https://leobox.com.ua/ua/p1320717688-zheleznaya-derevyannaya-doroga.html</url>
-    <price>1299</price>
-	<old_price>1700</old_price>
-	<price_promo>1599</price_promo>
+    <price>1349</price>
+	<old_price>1500</old_price>
+	<price_promo>1299</price_promo>
     <currencyId>UAH</currencyId>
     <categoryId>10</categoryId>
-    <picture>https://picua.org/images/2021/01/29/c2a4677ac89674189a7e046071713b28.jpg</picture>
-	<picture>https://picua.org/images/2021/01/29/254bddc1299491441cee6abd6fdc5ca7.jpg</picture>
-	<picture>https://picua.org/images/2021/01/29/87682c0097e534767a0394d6a8af2846.jpg</picture>
-    <picture>https://picua.org/images/2021/01/29/5103e6e78e2ea8f57e7c32d8563e6df8.jpg</picture>
-    <picture>https://picua.org/images/2021/01/29/bbc1e8f975e798d70844ce76f34ba3a7.jpg</picture>
-	<picture>https://picua.org/images/2021/01/29/1c954d01b0b7846c495ce4664109f058.jpg</picture>
-	<picture>https://picua.org/images/2021/01/29/0dcd4d0020e48eee2221a271945d9adb.jpg</picture>
-	<name>Залізна дорога з дерева EDWONE, 70 деталей, (Електричний локомотив) 3+  E16A10</name>
+    <picture>https://leobox.ua/content/images/27/dityacha-igrashkova-zaliznitsya-z-dereva-edwone-70-detaley-brio-ikea-e16a10-93590319045972_+38f23284af.jpg</picture>
+	<picture>https://leobox.ua/content/images/27/dityacha-igrashkova-zaliznitsya-z-dereva-edwone-70-detaley-brio-ikea-e16a10-58746562871783_+bc2d7f8b18.jpg</picture>
+	<picture>https://leobox.ua/content/images/27/dityacha-igrashkova-zaliznitsya-z-dereva-edwone-70-detaley-brio-ikea-e16a10-50547949923399_+691a9ddcdd.jpg</picture>
+    <picture>https://leobox.ua/content/images/27/dityacha-igrashkova-zaliznitsya-z-dereva-edwone-70-detaley-brio-ikea-e16a10-43700723435649_+8261fdd65e.jpg</picture>
+    <picture>https://leobox.ua/content/images/27/dityacha-igrashkova-zaliznitsya-z-dereva-edwone-70-detaley-brio-ikea-e16a10-77805248354026_+baf09a23ad.jpg</picture>
+	<picture>https://leobox.ua/content/images/27/dityacha-igrashkova-zaliznitsya-z-dereva-edwone-70-detaley-brio-ikea-e16a10-51667970384275_+fb3e4b07d7.jpg</picture>
+	<picture>https://leobox.ua/content/images/27/dityacha-igrashkova-zaliznitsya-z-dereva-edwone-70-detaley-brio-ikea-e16a10-33610976115155_+fd4780adda.jpg</picture>
+	<name>Залізна дорога з дерева EDWONE, 70 деталей, (Електричний локомотив) 3+  E21A17</name>
     <vendor>Edwone</vendor>
-	<stock_quantity>0</stock_quantity>
+	<stock_quantity>2</stock_quantity>
     <vendorCode>edw_E16A10</vendorCode>
     <description>
 <![CDATA[ 
@@ -5681,7 +5681,7 @@
 	
   </offer>
  
-#E18A11 
+#E21A10 
 <offer id="1306339190" available="true" >
 <url>https://leobox.com.ua/ua/p1306339190-zheleznaya-doroga-dereva.html</url>
     <price>1499</price>
@@ -5728,7 +5728,7 @@
 	
   </offer>
 
-#E18A12 
+#E21A09
 <offer id="1320107746" available="true" >
 <url>https://leobox.com.ua/ua/p1320107746-zheleznaya-derevyannaya-doroga.html</url>
     <price>1499</price>
@@ -6219,7 +6219,7 @@
   </offer>
 
 #E21A07
-<offer id="edw_E21A07" available="true" >
+<offer id="edw_E21A07" available="false" >
 <url>https://leobox.com.ua/ua/p1459545205-zheleznaya-doroga-dereva.html</url>
     <price>2999</price>
 	<old_price>3200</old_price>
@@ -6230,7 +6230,7 @@
 	<picture>https://leobox.ua/content/images/45/dityacha-igrashkova-zaliznitsya-z-dereva-edwone-168-detaley-brio-ikea-e21a07-71037022437799_+4fe1603ab2.jpg</picture>
 	<name>Іграшкова залізниця з дерева EDWONE, 168 деталей, 3+  E21A07 (електричний локомотив)</name>
     <vendor>Edwone</vendor>
-	<stock_quantity>10</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendorCode>edw_E21A07</vendorCode>
     <description>
 <![CDATA[ 

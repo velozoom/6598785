@@ -1465,8 +1465,7 @@
 	<param name="гарантия">14 дней</param>
 	<param name="цвет">Зеленый</param>
   </offer> 
-
-  
+ 
 <offer id="998381504" available="false" >
     <url>https://leobox.com.ua/p998381504-turisticheskij-ryukzak-pentagram.html</url>
     <price>1299</price>
@@ -1533,7 +1532,6 @@
 	<param name="гарантия">14 дней</param>
 	<param name="цвет">Черный</param>
   </offer>  
-
 
 <offer id="917327158" available="false" >
     <url>https://leobox.com.ua/p917327158-turisticheskij-ryukzak-pentagram.html</url>
@@ -5539,7 +5537,7 @@
 <url>https://leobox.com.ua/p1098681126-deerma-dem-f628s.html</url>
     <price>1199</price>
 	<old_price>1300</old_price>
-	<price_promo>910</price_promo>
+	<price_promo>918</price_promo>
     <currencyId>UAH</currencyId>
     <categoryId>7</categoryId>
     <picture>http://i.piccy.info/i9/56ab3559a0bf9027c833aeecf0a20446/1580458283/100046/1329562/01.jpg</picture>

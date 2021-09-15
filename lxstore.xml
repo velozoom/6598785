@@ -6019,7 +6019,7 @@
   </offer>
 
 #E21A14
-<offer id="edw_E21A14" available="true" >
+<offer id="edw_E21A14" available="false" >
 <url>https://leobox.com.ua/ua/p1459503643-zheleznaya-doroga-dereva.html</url>
     <price>1599</price>
 	<old_price>1800</old_price>
@@ -6033,7 +6033,7 @@
     <picture>https://leobox.ua/content/images/7/76804651890223_+30fff0100d.jpg</picture>
 	<name>Іграшкова залізниця з дерева EDWONE, 110 деталей, 3+  E21A14 (електричний локомотив)</name>
     <vendor>Edwone</vendor>
-	<stock_quantity>10</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendorCode>edw_E21A14</vendorCode>
     <description>
 <![CDATA[ 
@@ -6170,7 +6170,7 @@
 #E21A08
 <offer id="edw_E21A08" available="false" >
 <url>https://leobox.com.ua/ua/p1459557144-zheleznaya-doroga-dereva.html</url>
-    <price>2699</price>
+    <price>2689</price>
 	<old_price>2800</old_price>
 	<price_promo>2499</price_promo>
     <currencyId>UAH</currencyId>

@@ -3447,7 +3447,7 @@
 	<param name="Колір">Чорний</param>
   </offer>
 
-<offer id="1231806774" available="true" >
+<offer id="1231806774" available="false" >
 <url>https://leobox.com.ua/p1231806774-ryukzak-gorodskoj-ozuko.html</url>
     <price>1049</price>
 	<old_price>1149</old_price>
@@ -3461,7 +3461,7 @@
 	<picture>http://i.piccy.info/i9/63eb9170b6f4d5386f947224eed46157/1596788221/203602/1380432/IMG_0301.jpg</picture>
 	<picture>http://i.piccy.info/i9/182b23744b3d20698ed1f238128f45bb/1596788251/159207/1380432/99616IMG_0310.jpg</picture>
 	<name>Рюкзак городской Ozuko 8980 Черный</name>
-	<stock_quantity>5</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendor>Ozuko</vendor>
     <vendorCode>8980</vendorCode>
     <description>
@@ -4283,7 +4283,7 @@
 
 <offer id="947645560" available="true" >
 <url>https://leobox.com.ua/p947645560-mecool-km3-464.html</url>
-    <price>2399</price>
+    <price>2499</price>
 	<old_price>2500</old_price>
     <currencyId>UAH</currencyId>
     <categoryId>3</categoryId>
@@ -4825,7 +4825,7 @@
 
 <offer id="1088594094" available="true" >
 <url>https://leobox.com.ua/p1088594094-beelink-king-pro.html</url>
-    <price>4999</price>
+    <price>5299</price>
 	<old_price>5400</old_price>
 	<price_promo>4799</price_promo>
     <currencyId>UAH</currencyId>
@@ -5537,7 +5537,7 @@
 <url>https://leobox.com.ua/p1098681126-deerma-dem-f628s.html</url>
     <price>1199</price>
 	<old_price>1300</old_price>
-	<price_promo>918</price_promo>
+	<price_promo>1100</price_promo>
     <currencyId>UAH</currencyId>
     <categoryId>7</categoryId>
     <picture>http://i.piccy.info/i9/56ab3559a0bf9027c833aeecf0a20446/1580458283/100046/1329562/01.jpg</picture>
@@ -6168,9 +6168,9 @@
   </offer>
 
 #E21A08
-<offer id="edw_E21A08" available="true" >
+<offer id="edw_E21A08" available="false" >
 <url>https://leobox.com.ua/ua/p1459557144-zheleznaya-doroga-dereva.html</url>
-    <price>2499</price>
+    <price>2699</price>
 	<old_price>2800</old_price>
 	<price_promo>2499</price_promo>
     <currencyId>UAH</currencyId>
@@ -6182,7 +6182,7 @@
     <picture>https://leobox.ua/content/images/5/98753000981133_+ba62243528.jpg</picture>
 	<name>Іграшкова залізниця з дерева EDWONE, 146 деталей, 3+  E21A08 (електричний локомотив)</name>
     <vendor>Edwone</vendor>
-	<stock_quantity>10</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendorCode>edw_E21A08</vendorCode>
     <description>
 <![CDATA[ 

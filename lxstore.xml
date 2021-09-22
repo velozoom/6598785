@@ -3076,7 +3076,7 @@
 	<param name="цвет">Красный</param>
   </offer>
 
-<offer id="1032763052" available="true" >
+<offer id="1032763052" available="false" >
 <url>https://leobox.com.ua/p1032763052-ryukzak-pentagram-turizm.html</url>
     <price>1699</price>
 	<old_price>1800</old_price>
@@ -3086,7 +3086,7 @@
     <picture>http://i.piccy.info/i9/706e4fc1fd5583139377b92320e0d6e4/1567573682/114069/1329562/pm005_g_02.jpg</picture>
 	<picture>http://i.piccy.info/i9/f5d17103ff15faa1f2bb64ac54a9fab4/1567573703/114032/1329562/pm005_g_03.jpg</picture>
 	<name>Рюкзак туристический Pentagram 50 max  Green (PM-M005)</name>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendor>Pentagram</vendor>
     <vendorCode>M005-50g</vendorCode>
     <description>

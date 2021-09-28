@@ -6267,7 +6267,7 @@
 
 <offer id="iekool_02" available="true" >
 <url>https://leobox.com.ua/ua/p1474612108-zheleznaya-doroga-dereva.html</url>
-    <price>1949</price>
+    <price>1979</price>
 	<old_price>2100</old_price>
 	<price_promo>1949</price_promo>
     <currencyId>UAH</currencyId>
@@ -6462,8 +6462,8 @@
 
 <offer id="iekool_13" available="true" >
 <url>https://leobox.com.ua/ua/p1476086640-zheleznaya-doroga-dereva.html</url>
-    <price>2599</price>
-	<old_price>2700</old_price>
+    <price>2699</price>
+	<old_price>2800</old_price>
 	<price_promo>2599</price_promo>
     <currencyId>UAH</currencyId>
     <categoryId>10</categoryId>
@@ -6713,11 +6713,11 @@
 	<param name="Новий - б/в">Новий</param>
 </offer>
 
-<offer id="iekool_38" available="true" >
+<offer id="iekool_38" available="false" >
 <url>https://leobox.com.ua/ua/p1478640823-zheleznaya-doroga-dereva.html</url>
-    <price>2999</price>
-	<old_price>2900</old_price>
-	<price_promo>2799</price_promo>
+    <price>3699</price>
+	<old_price>4000</old_price>
+	<price_promo>3699</price_promo>
     <currencyId>UAH</currencyId>
     <categoryId>10</categoryId>
     <picture>https://leobox.ua/content/images/11/43546537118873_+61309ad997.jpg</picture>
@@ -6728,7 +6728,7 @@
 	<picture>http://i.piccy.info/i9/710511d280c3a82b3d3ea5037d836a8a/1632135036/343239/1441731/38.jpg</picture>
 	<name>Игрушечная железная дорога из дерева Iekool-playtive 150 деталей 142x132</name>
     <vendor>Iekool</vendor>
-	<stock_quantity>2</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendorCode>iekool_38</vendorCode>
     <description>
 <![CDATA[ 

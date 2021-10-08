@@ -4281,7 +4281,7 @@
 	<param name="Цвет">Черный</param>
   </offer>
 
-<offer id="947645560" available="true" >
+<offer id="947645560" available="false" >
 <url>https://leobox.com.ua/p947645560-mecool-km3-464.html</url>
     <price>2499</price>
 	<old_price>2500</old_price>
@@ -4291,7 +4291,7 @@
     <picture>http://i.piccy.info/i9/2cb398df633727e0a24dc02c581dfa6c/1567499759/111207/1329562/02.jpg</picture>
 	<picture>http://i.piccy.info/i9/3fee1f114156fee7da2de0d79057d3df/1567499933/106381/1329562/03.jpg</picture>
 	<name>Смарт тв приставка Mecool KM3 4gb/64gb</name>
-	<stock_quantity>10</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendor>LX Store</vendor>
     <vendorCode>Km3_atv_b</vendorCode>
     <description>
@@ -5535,7 +5535,7 @@
 
 <offer id="1098681126" available="true" >
 <url>https://leobox.com.ua/p1098681126-deerma-dem-f628s.html</url>
-    <price>1099</price>
+    <price>1199</price>
 	<old_price>1300</old_price>
 	<price_promo>1100</price_promo>
     <currencyId>UAH</currencyId>
@@ -5923,9 +5923,9 @@
 #E17P05
 <offer id="1388065664" available="true" >
 <url>https://leobox.com.ua/ua/p1388065664-zheleznaya-doroga-dereva.html</url>
-    <price>1899</price>
-	<old_price>1999</old_price>
-	<price_promo>1699</price_promo>
+    <price>1999</price>
+	<old_price>2200</old_price>
+	<price_promo>1899</price_promo>
     <currencyId>UAH</currencyId>
     <categoryId>10</categoryId>
     <picture>https://www.leobox.ua/content/images/8/600x532l80nn0/dityacha-igrashkova-zaliznitsya-z-dereva-edwone-110-detaley-brio-ikea-e17p05-19009078044307.jpg</picture>

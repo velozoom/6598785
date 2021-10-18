@@ -6650,7 +6650,7 @@
 	<param name="Новий - б/в">Новий</param>
 </offer>
 
-<offer id="iekool_34" available="true" >
+<offer id="iekool_34" available="false" >
 <url>https://leobox.ua/content/images/13/12270701537222_+801f25b5f4.jpg</url>
     <price>2799</price>
 	<old_price>2900</old_price>
@@ -6665,7 +6665,7 @@
 	<picture>http://i.piccy.info/i9/1049415e002430524108c285209482cc/1632134389/330282/1441731/34.jpg</picture>
 	<name>Игрушечная железная дорога из дерева Iekool-playtive 90 деталей 102x65</name>
     <vendor>Iekool</vendor>
-	<stock_quantity>2</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendorCode>iekool_34</vendorCode>
     <description>
 <![CDATA[ 

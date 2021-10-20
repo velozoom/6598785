@@ -7330,9 +7330,9 @@
 #Tenda AC7
 <offer id="tnd_ac7" available="true" >
 <url>https://leobox.com.ua/ua/p1418081739-marshrutizator-tenda-ac7.html</url>
-    <price>999</price>
-	<old_price>1100</old_price>
-	<price_promo>1099</price_promo>
+    <price>1099</price>
+	<old_price>1300</old_price>
+	<price_promo>1199</price_promo>
     <currencyId>UAH</currencyId>
     <categoryId>12</categoryId>
     <picture>https://leobox.ua/content/images/32/600x544l80nn0/95705495648325.jpg</picture>

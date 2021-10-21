@@ -3775,7 +3775,7 @@
 	<param name="Колір">Черный</param>
   </offer>
  
- <offer id="oz_9242L" available="true" >
+ <offer id="oz_9242L" available="false" >
 <url>https://leobox.com.ua/ua/p1407475576-ryukzak-ozuko-9242l.html</url>
     <price>1449</price>
 	<old_price>1500</old_price>
@@ -3790,7 +3790,7 @@
 	<picture>https://www.leobox.ua/content/images/13/600x600l80nn0/64102309889382.jpeg</picture>
 	<picture>https://www.leobox.ua/content/images/13/600x468l80nn0/75818444436582.jpeg</picture>
 	<name>Рюкзак-сумка Ozuko 9242L Чорний</name>
-	<stock_quantity>5</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendor>Ozuko</vendor>
     <vendorCode>oz_9242L</vendorCode>
     <description>

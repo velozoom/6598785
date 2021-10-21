@@ -5681,7 +5681,7 @@
   </offer>
  
 #E21A10 
-<offer id="1306339190" available="true" >
+<offer id="1306339190" available="false" >
 <url>https://leobox.com.ua/ua/p1306339190-zheleznaya-doroga-dereva.html</url>
     <price>1499</price>
 	<old_price>1900</old_price>
@@ -5696,7 +5696,7 @@
 	<picture>https://leobox.ua/content/images/25/dityacha-igrashkova-zaliznitsya-z-dereva-edwone-80-detaley-brio-ikea-39477329026939_+f06eccfdd0.jpg</picture>
 	<name>Залізна дорога з дерева EDWONE, 80 деталей, (Електричний локомотив) 3+  E21A10</name>
     <vendor>Edwone</vendor>
-	<stock_quantity>10</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendorCode>edw_E18A11</vendorCode>
     <description>
 <![CDATA[ 
@@ -5823,7 +5823,7 @@
   </offer>
 
 #E17P00
-<offer id="1320080304" available="true" >
+<offer id="1320080304" available="false" >
 <url>https://leobox.com.ua/ua/p1320080304-zheleznaya-doroga-dereva.html</url>
     <price>1899</price>
 	<old_price>1999</old_price>
@@ -5838,7 +5838,7 @@
 	<picture>http://i.piccy.info/i9/257eefec7a6dfe7433d4b297dc2aca07/1619764814/56683/1427124/92425764011159.jpg</picture>
 	<name>Залізна дорога з дерева EDWONE, 110 деталей, 3+  E21A01 (електричний локомотив)</name>
     <vendor>Edwone</vendor>
-	<stock_quantity>10</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendorCode>edw_E17P00</vendorCode>
     <description>
 <![CDATA[ 
@@ -5971,7 +5971,7 @@
   </offer>
 
 #E21A24
-<offer id="edw_E21A24" available="true" >
+<offer id="edw_E21A24" available="false" >
 <url>https://leobox.com.ua/ua/p1458985872-zheleznaya-doroga-dereva.html</url>
     <price>1799</price>
 	<old_price>1900</old_price>
@@ -5985,7 +5985,7 @@
     <picture>https://leobox.ua/content/images/4/zalizna-doroga-z-dereva-edwone-120-detaley-brio-ikea-playtive-e21a24-16297304366354_+a44e1dc619.jpg</picture>
 	<name>Іграшкова залізниця з дерева EDWONE, 120 деталей, 3+  E21A24 (електричний локомотив)</name>
     <vendor>Edwone</vendor>
-	<stock_quantity>10</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendorCode>edw_E21A24</vendorCode>
     <description>
 <![CDATA[ 
@@ -6839,7 +6839,7 @@
 	<param name="Новий - б/в">Новий</param>
 </offer>
 
-<offer id="iekool_55" available="true" >
+<offer id="iekool_55" available="false" >
 <url>https://leobox.com.ua/ua/p1479132147-zheleznaya-doroga-dereva.html</url>
     <price>2699</price>
 	<old_price>2800</old_price>
@@ -6854,7 +6854,7 @@
 	<picture>http://i.piccy.info/i9/709cc00bda1662a735e4d2e2146bcd08/1632136072/319611/1441731/55.jpg</picture>
 	<name>Игрушечная железная дорога из дерева Iekool-playtive 100 деталей 110x72</name>
     <vendor>Iekool</vendor>
-	<stock_quantity>2</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendorCode>iekool_55</vendorCode>
     <description>
 <![CDATA[ 

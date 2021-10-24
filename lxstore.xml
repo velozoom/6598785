@@ -90,16 +90,17 @@
 	<param name="цвет">Синий</param>
   </offer> 
   
-<offer id="741989699" available="false" >
+<offer id="741989699" available="true" >
     <url>https://leobox.com.ua/p741989699-ryukzak-anmeilu-25l.html</url>
-    <price>1199</price>
+    <price>1099</price>
+	<old_price>1300</old_price>
     <currencyId>UAH</currencyId>
     <categoryId>2</categoryId>
     <picture>http://i.piccy.info/i9/beb64d1caa972a59548ff8002efc7020/1564386501/192240/1329562/bl_green_00.jpg</picture>
     <picture>http://i.piccy.info/i9/d8b23bb48e8f13aec3e0c62f9e33cd8d/1564386519/157815/1329562/bl_green_01.jpg</picture>
     <picture>http://i.piccy.info/i9/ebdb64c3dad4a5145b57c3a9cd560591/1564386546/136356/1329562/bl_green_02.jpg</picture>
     <name>Рюкзак Anmeilu 25 л Black (1012)</name>
-	<stock_quantity>0</stock_quantity>
+	<stock_quantity>10</stock_quantity>
     <vendor>Anmeilu</vendor>
     <vendorCode>1012-dg</vendorCode>
     <description>
@@ -157,9 +158,10 @@
 	<param name="цвет">Черный</param>
   </offer> 
   
-<offer id="741988841" available="false" >
+<offer id="741988841" available="true" >
     <url>https://leobox.com.ua/p741988841-ryukzak-anmeilu-25l.html</url>
     <price>1099</price>
+	<old_price>1300</old_price>
     <currencyId>UAH</currencyId>
     <categoryId>2</categoryId>
     <picture>http://i.piccy.info/i9/9b1e0cccb89f3a89f418e9b4a3fbc65b/1564386735/217364/1329562/bl_red_01.jpg</picture>
@@ -224,9 +226,10 @@
 	<param name="цвет">Черный</param>
   </offer> 
   
-<offer id="742086869" available="false" >
+<offer id="742086869" available="true" >
 <url>https://leobox.com.ua/p742086869-ryukzak-anmeilu-20l.html</url>
-    <price>1099</price>
+    <price>1299</price>
+	<old_price>1400</old_price>
     <currencyId>UAH</currencyId>
     <categoryId>2</categoryId>
     <picture>http://i.piccy.info/i9/f0da58a4b6bfd88dedfd6b46c3b8d0ab/1564389109/94646/1329562/grey_01.jpg</picture>
@@ -287,9 +290,10 @@
 	<param name="цвет">Серый</param>
   </offer> 
   
-<offer id="742035418" available="false" >
+<offer id="742035418" available="true" >
 <url>https://leobox.com.ua/p742035418-ryukzak-anmeilu-20l.html</url>
-    <price>1099</price>
+    <price>1299</price>
+	<old_price>1400</old_price>
     <currencyId>UAH</currencyId>
     <categoryId>2</categoryId>
     <picture>https://picua.org/images/2019/04/12/a4792de85c1c1843bbf935bc1d576b1a.jpg</picture>
@@ -340,9 +344,10 @@
 	<param name="цвет">Синий</param>
   </offer> 
   
-<offer id="742026408" available="false" >
+<offer id="742026408" available="true" >
 <url>https://leobox.com.ua/p742026408-ryukzak-anmeilu-20l.html</url>
-    <price>1099</price>
+    <price>1299</price>
+	<old_price>1400</old_price>
     <currencyId>UAH</currencyId>
     <categoryId>2</categoryId>
     <picture>http://i.piccy.info/i9/430e863a08737f8ff5dfc084959d847c/1564048894/33677/1329562/black_01.jpg</picture>
@@ -402,9 +407,10 @@
 	<param name="цвет">Черный</param>
   </offer> 
   
-<offer id="741967625" available="false" >
+<offer id="741967625" available="true" >
 <url>https://leobox.com.ua/p741967625-ryukzak-anmeilu-20l.html</url>
-    <price>1099</price>
+    <price>1299</price>
+	<old_price>1400</old_price>
     <currencyId>UAH</currencyId>
     <categoryId>2</categoryId>
     <picture>https://picua.org/images/2019/04/12/0b53606c805c7bf9a740b6295fc78882.jpg</picture>
@@ -535,9 +541,10 @@
 	<param name="цвет">Синий</param>
   </offer>
   
-<offer id="741935018" available="false" >
+<offer id="741935018" available="true" >
 <url>https://leobox.com.ua/p741935018-ryukzak-anmeilu-20l.html</url>
-    <price>1099</price>
+    <price>1299</price>
+	<old_price>1400</old_price>
     <currencyId>UAH</currencyId>
     <categoryId>2</categoryId>
     <picture>http://i.piccy.info/i9/37a5f84f507d4ce9f766b94b947995b4/1564047760/168812/1329562/gre01.jpg</picture>
@@ -598,9 +605,10 @@
 	<param name="цвет">Серый</param>
   </offer> 
 
-<offer id="998200899" available="false" >
+<offer id="998200899" available="true" >
 <url>https://leobox.com.ua/p998200899-ryukzak-anmeilu-20l.html</url>
-    <price>1099</price>
+    <price>1299</price>
+	<old_price>1400</old_price>
     <currencyId>UAH</currencyId>
     <categoryId>2</categoryId>
     <picture>http://i.piccy.info/i9/3fd4851586d07d115ac79ed1343cddc3/1564395529/174400/1329562/01.jpg</picture>
@@ -661,9 +669,10 @@
 	<param name="цвет">Черный</param>
   </offer> 
 
-<offer id="742043943" available="false" >
+<offer id="742043943" available="true" >
 <url>https://leobox.com.ua/p742043943-ryukzak-anmeilu-20l.html</url>
-    <price>1099</price>
+    <price>1299</price>
+	<old_price>1500</old_price>
     <currencyId>UAH</currencyId>
     <categoryId>2</categoryId>
     <picture>https://picua.org/images/2019/04/12/0372b8aabfadb651b7ff1bfee1771055.jpg</picture>
@@ -789,9 +798,10 @@
 
 #Anmeilu 50l
 
-<offer id="998581390" available="false" >
+<offer id="998581390" available="true" >
 <url>https://leobox.com.ua/p998581390-ryukzak-anmeilu-50l.html</url>
-    <price>1549</price>
+    <price>1599</price>
+	<old_price>1800</old_price>
     <currencyId>UAH</currencyId>
     <categoryId>2</categoryId>
     <picture>http://i.piccy.info/i9/bf58e99b287fd3318c5f20c76ca0f2b9/1568708114/187275/1329562/01_r.jpg</picture>
@@ -854,9 +864,10 @@
 	<param name="цвет">Красный</param>
   </offer>
 
-<offer id="998225896" available="false" >
+<offer id="998225896" available="true" >
 <url>https://leobox.com.ua/p998225896-ryukzak-anmeilu-50l.html</url>
-    <price>1549</price>
+    <price>1599</price>
+	<old_price>1300</old_price>
     <currencyId>UAH</currencyId>
     <categoryId>2</categoryId>
     <picture>http://i.piccy.info/i9/e249a20006d21df46f0f39292cb9f990/1568708637/86925/1329562/01_b.jpg</picture>
@@ -2453,16 +2464,17 @@
 	<param name="цвет">Зеленый</param>
   </offer>
  
-<offer id="823899529" available="false" >
+<offer id="823899529" available="true" >
 <url>https://leobox.com.ua/p823899529-ryukzak-pentagram-50l.html</url>
     <price>1449</price>
+	<old_price>1500</old_price>
     <currencyId>UAH</currencyId>
     <categoryId>2</categoryId>
     <picture>http://i.piccy.info/i9/3f3817cb8587ef2b3730aaf52d1bc533/1564473077/141056/1329562/pm02_blue_022.jpg</picture>
     <picture>http://i.piccy.info/i9/33ea49b837208a1082e66c76b1b4eb18/1564473135/174703/1329562/pm02_blue_01.jpg</picture>
     <picture>http://i.piccy.info/i9/a4a7412dc004c4f00fc01316609b38e6/1564473154/112690/1329562/pm02_blue_033.jpg</picture>
 	<name>Рюкзак універсальний Pentagram 50 л Lake Blue (PM002)</name>
-	<stock_quantity>0</stock_quantity>
+	<stock_quantity>1</stock_quantity>
     <vendor>Pentagram</vendor>
     <vendorCode>PM002-50b</vendorCode>
     <description>
@@ -2526,16 +2538,17 @@
 	<param name="цвет">Синий</param>
   </offer>
  
-<offer id="928207426" available="false" >
+<offer id="928207426" available="true" >
 <url>https://leobox.com.ua/p928207426-ryukzak-pentagram-50l.html</url>
     <price>1449</price>
+	<old_price>1500</old_price>
     <currencyId>UAH</currencyId>
     <categoryId>2</categoryId>
     <picture>https://picua.org/images/2019/04/12/b256fccc0a60ee4c6ad0ac54b661eef2.jpg</picture>
     <picture>https://picua.org/images/2019/04/12/304c24ba4b562b684c4346ca548ce3fb.jpg</picture>
     <picture>https://picua.org/images/2019/04/12/09baef7626f41371612cebba623e45d2.jpg</picture>
 	<name>Рюкзак універсальний Pentagram 50 л Claret Red (PM002)</name>
-	<stock_quantity>0</stock_quantity>
+	<stock_quantity>2</stock_quantity>
     <vendor>Pentagram</vendor>
     <vendorCode>PM002-50r</vendorCode>
     <description>
@@ -2673,7 +2686,7 @@
 	<param name="цвет">Черный</param>
   </offer> 
 
-<offer id="917325251" available="false" >
+<offer id="917325251" available="true" >
 <url>https://leobox.com.ua/p917325251-ryukzak-pentagram-50l.html</url>
     <price>1449</price>
 	<old_price>1599</old_price>
@@ -2683,7 +2696,7 @@
     <picture>http://i.piccy.info/i9/f21588bc145b6ba16f3a31ec5a256f17/1565773607/153850/1329562/pm02_haki_02.jpg</picture>
     <picture>http://i.piccy.info/i9/fb671f25804400b99ff3812e3a61f56a/1565773639/119559/1329562/pm02_haki_04.jpg</picture>
     <name>Рюкзак універсальний Pentagram 50 л Army Green (PM002)</name>
-	<stock_quantity>0</stock_quantity>
+	<stock_quantity>10</stock_quantity>
     <vendor>Pentagram</vendor>
     <vendorCode>PM002-50h</vendorCode>
     <description>
@@ -2884,8 +2897,8 @@
 	<param name="цвет">Зеленый</param>
   </offer> 
 
-<offer id="928203677" available="false" >
-<url>https://leobox.com.ua/p928203677-ryukzak-pentagram-max.html</url>
+<offer id="928203677" available="true" >
+<url>https://leobox.com.ua/p847734475-ryukzak-pentagram-max.html</url>
     <price>1499</price>
 	<old_price>1599</old_price>
     <currencyId>UAH</currencyId>
@@ -2893,7 +2906,7 @@
     <picture>http://i.piccy.info/i9/d0e5ebc9a033e6bfe19310611dd23e76/1564479149/121782/1329562/pm01_bl.jpg</picture>
     <picture>http://i.piccy.info/i9/d5418cf63b3a06b300cc30075198ee54/1564480009/139421/1329562/pm01_bl_01.jpg</picture>
 	<name>Рюкзак універсальний Pentagram 40 max Navy Blue (PM001)</name>
-	<stock_quantity>0</stock_quantity>
+	<stock_quantity>10</stock_quantity>
     <vendor>Pentagram</vendor>
     <vendorCode>PM007bl</vendorCode>
     <description>
@@ -3322,9 +3335,9 @@
   </offer>
  
  # ozuko
- 
-<offer id="1226173392" available="false" >
-<url>https://leobox.com.ua/p1226173392-ryukzak-ozuko-8983l.html</url>
+ #8983S
+<offer id="1226173392" available="true" >
+<url>https://leobox.com.ua/p1235324557-ryukzak-ozuko-8983s.html</url>
     <price>1649</price>
 	<old_price>1749</old_price>
 	<price_promo>1649</price_promo>
@@ -3384,8 +3397,8 @@
 	<param name="Страна-производитель товара">Китай</param>
 	<param name="Колір">Чорний</param>
   </offer>
-
-<offer id="1231784512" available="false" >
+#8983L
+<offer id="1231784512" available="true" >
 <url>https://leobox.com.ua/p1231784512-ryukzak-ozuko-8983l.html</url>
     <price>1699</price>
 	<old_price>1799</old_price>
@@ -3400,7 +3413,7 @@
 	<picture>http://i.piccy.info/i9/1855b9683db2e5b7b782550774c1a661/1596786039/442073/1380432/IMG_6414.jpg</picture>
 	<picture>http://i.piccy.info/i9/c47bb8597616c03406b707a6d597960a/1596786137/319810/1380432/84537IMG_6428.jpg</picture>
 	<name>Рюкзак Ozuko 8983 из баллистического нейлона для путешествий с отделением для ноутбука до 20 дюймов черный</name>
-	<stock_quantity>0</stock_quantity>
+	<stock_quantity>5</stock_quantity>
     <vendor>Ozuko</vendor>
     <vendorCode>8983_20</vendorCode>
     <description>
@@ -3492,8 +3505,8 @@
 	<param name="Страна-производитель товара">Китай</param>
 	<param name="Колір">Чорний</param>
   </offer>
- 
-<offer id="1231815951" available="false" >
+ #9066
+<offer id="1231815951" available="true" >
 <url>https://leobox.com.ua/p1231815951-ryukzak-rolltop-ozuko.html</url>
     <price>1145</price>
 	<old_price>1299</old_price>
@@ -3507,7 +3520,7 @@
 	<picture>http://i.piccy.info/i9/8220fc3eb422f813dcf9d783c905f93f/1596789911/274488/1380432/245015X7A9339.jpg</picture>
 	<picture>http://i.piccy.info/i9/1f1cf9bb8891f2faa47d7d554ed7fc72/1596789936/286546/1380432/5X7A9340.jpg</picture>
 	<name>Рюкзак Роллтоп OZUKO RollTop 9066 Черный</name>
-	<stock_quantity>0</stock_quantity>
+	<stock_quantity>10</stock_quantity>
     <vendor>Ozuko</vendor>
     <vendorCode>9066</vendorCode>
     <description>
@@ -3626,7 +3639,7 @@
 	<picture>http://i.piccy.info/i9/f9aa454b344c1bc65983c6773d090ad7/1597653970/392678/1380432/5X7A2741.jpg</picture>
 	<picture>http://i.piccy.info/i9/29b5c20d79b4c2e3d3ab411185950f42/1597653997/502889/1380432/5X7A2773.jpg</picture>
 	<name>Рюкзак с одной лямкой OZUKO 9223 Черный</name>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>10</stock_quantity>
     <vendor>Ozuko</vendor>
     <vendorCode>9223</vendorCode>
     <description>
@@ -3659,7 +3672,7 @@
 	<param name="Колір">Чорний</param>
   </offer> 
  
-<offer id="1234439619" available="false" >
+<offer id="1234439619" available="true" >
 <url>https://leobox.com.ua/p1234439619-ryukzak-odnoj-lyamkoj.html</url>
     <price>845</price>
 	<old_price>945</old_price>
@@ -3669,7 +3682,7 @@
     <picture>http://i.piccy.info/i9/3fe4c820e63cdbb343f41f3562b3885a/1597654059/204472/1380432/5X7A8628.jpg</picture>
     <picture>http://i.piccy.info/i9/7efc443f87b47555c874224f379adce8/1597654094/225422/1380432/219165X7A8624.jpg</picture>
 	<name>Рюкзак с одной лямкой OZUKO 9223 Камуфляжний</name>
-	<stock_quantity>0</stock_quantity>
+	<stock_quantity>10</stock_quantity>
     <vendor>Ozuko</vendor>
     <vendorCode>9223_k</vendorCode>
     <description>
@@ -5779,8 +5792,8 @@
 #E17P02
 <offer id="1319984782" available="true" >
 <url>https://leobox.com.ua/ua/p1319984782-zheleznaya-doroga-dereva.html</url>
-    <price>1499</price>
-	<old_price>1999</old_price>
+    <price>1399</price>
+	<old_price>1599</old_price>
 	<price_promo>1699</price_promo>
     <currencyId>UAH</currencyId>
     <categoryId>10</categoryId>

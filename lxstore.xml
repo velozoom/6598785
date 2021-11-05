@@ -6536,7 +6536,7 @@
 	<param name="Новий - б/в">Новий</param>
 </offer>
 
-<offer id="iekool_32" available="true" >
+<offer id="iekool_32" available="false" >
 <url>https://leobox.com.ua/ua/p1476093766-zheleznaya-doroga-dereva.html</url>
     <price>2999</price>
 	<old_price>3300</old_price>
@@ -6551,7 +6551,7 @@
 	<picture>http://i.piccy.info/i9/b5be2eb52790cf164e042cb6bfb317c0/1632133563/293726/1441731/32.jpg</picture>
 	<name>Игрушечная железная дорога из дерева Iekool-playtive 146 деталей 126x100</name>
     <vendor>Iekool</vendor>
-	<stock_quantity>2</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendorCode>iekool_32</vendorCode>
     <description>
 <![CDATA[ 

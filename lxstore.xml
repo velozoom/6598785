@@ -5790,7 +5790,7 @@
   </offer>
 
 #E17P02
-<offer id="1319984782" available="true" >
+<offer id="1319984782" available="false" >
 <url>https://leobox.com.ua/ua/p1319984782-zheleznaya-doroga-dereva.html</url>
     <price>1399</price>
 	<old_price>1499</old_price>
@@ -5805,7 +5805,7 @@
 	<picture>https://picua.org/images/2021/01/29/c817cceae2aa880f1127b6b37d3bbb41.jpg</picture>
 	<name>Залізна дорога з дерева EDWONE, 100 деталей, 3+  E17P02</name>
     <vendor>Edwone</vendor>
-	<stock_quantity>5</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendorCode>edw_E17P02</vendorCode>
     <description>
 <![CDATA[ 
@@ -6789,7 +6789,7 @@
 	<param name="Новий - б/в">Новий</param>
 </offer>
 
-<offer id="iekool_40" available="true" >
+<offer id="iekool_40" available="false" >
 <url>https://leobox.com.ua/ua/p1479140471-zheleznaya-doroga-dereva.html</url>
     <price>2699</price>
 	<old_price>2800</old_price>
@@ -6804,7 +6804,7 @@
 	<picture>https://leobox.ua/content/images/19/11997135422923_+0216b75707.jpg</picture>
 	<name>Игрушечная железная дорога из дерева Iekool-playtive 110 деталей 102x125</name>
     <vendor>Iekool</vendor>
-	<stock_quantity>2</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendorCode>iekool_40</vendorCode>
     <description>
 <![CDATA[ 
@@ -6915,7 +6915,7 @@
 	<param name="Новий - б/в">Новий</param>
 </offer>
 
-<offer id="iekool_56" available="true" >
+<offer id="iekool_56" available="false" >
 <url>https://leobox.com.ua/ua/p1479134795-zheleznaya-doroga-dereva.html</url>
     <price>2999</price>
 	<old_price>3200</old_price>
@@ -6930,7 +6930,7 @@
 	<picture>http://i.piccy.info/i9/283126a3a5fc00ac2e1124e80e1aeb94/1632136962/305538/1441731/56.jpg</picture>
 	<name>Игрушечная железная дорога из дерева Iekool-playtive 110 деталей 102x115</name>
     <vendor>Iekool</vendor>
-	<stock_quantity>2</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendorCode>iekool_56</vendorCode>
     <description>
 <![CDATA[ 
@@ -6978,7 +6978,7 @@
 	<param name="Новий - б/в">Новий</param>
 </offer>
 
-<offer id="iekool_60" available="true" >
+<offer id="iekool_60" available="false" >
 <url>https://leobox.com.ua/ua/p1479145915-zheleznaya-doroga-dereva.html</url>
     <price>2799</price>
 	<old_price>2900</old_price>
@@ -6993,7 +6993,7 @@
 	<picture>http://i.piccy.info/i9/c4d9fe2e7bc48f8a05e75c6e5ac71230/1632137378/330549/1441731/60.jpg</picture>
 	<name>Игрушечная железная дорога из дерева Iekool-playtive 110 деталей 115x85</name>
     <vendor>Iekool</vendor>
-	<stock_quantity>2</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendorCode>iekool_60</vendorCode>
     <description>
 <![CDATA[ 
@@ -7341,7 +7341,7 @@
   </offer> 
 
 #Tenda AC7
-<offer id="tnd_ac7" available="true" >
+<offer id="tnd_ac7" available="false" >
 <url>https://leobox.com.ua/ua/p1418081739-marshrutizator-tenda-ac7.html</url>
     <price>1099</price>
 	<old_price>1300</old_price>
@@ -7353,7 +7353,7 @@
 	<picture>https://leobox.ua/content/images/32/582x600l80nn0/80410651195617.jpg</picture>
 	<picture>https://leobox.ua/content/images/32/600x600l80nn0/47167153884313.jpg</picture>
 	<name>Маршрутизатор Безпровідний (Wi-Fi Роутер) Tenda AC7</name>
-	<stock_quantity>10</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendor>Tenda</vendor>
     <description>
 <![CDATA[ 

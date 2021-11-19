@@ -4985,10 +4985,10 @@
 
  #mecool km1 
  
- <offer id="1169484743" available="false" >
+ <offer id="1169484743" available="true" >
 <url>https://leobox.com.ua/p1169484743-mecool-km1-classic.html</url>
-    <price>1899</price>
-	<old_price>1890</old_price>
+    <price>1799</price>
+	<old_price>1899</old_price>
     <currencyId>UAH</currencyId>
     <categoryId>3</categoryId>
     <picture>http://i.piccy.info/i9/487420122e991d62809c36d52ba795d0/1590583242/108186/1380432/210116731_images_18086911843.jpg</picture>
@@ -4996,7 +4996,7 @@
 	<picture>http://i.piccy.info/i9/6f6172fc56d6a73cce56cb60175ec4bc/1590583310/143211/1380432/KM1r.jpg</picture>
 	<picture>http://i.piccy.info/i9/80fa6ec0fc3aca4f18ae52173ac08fe2/1590583362/90453/1380432/1_2.jpg</picture>
 	<name>Смарт тв приставка Mecool KM1 Classic 2gb/16gb (S905X3)</name>
-	<stock_quantity>0</stock_quantity>
+	<stock_quantity>1</stock_quantity>
     <vendor>Mecool, Videostrong</vendor>
     <vendorCode>km1_16b</vendorCode>
     <description>
@@ -5049,10 +5049,10 @@
 	<param name="Цвет">Черный</param>
   </offer> 
  
- <offer id="1168866633" available="false" >
+ <offer id="1168866633" available="true" >
 <url>https://leobox.com.ua/p1168866633-mecool-km1-deluxe.html</url>
-    <price>2499</price>
-	<old_price>2600</old_price>
+    <price>2249</price>
+	<old_price>2420</old_price>
     <currencyId>UAH</currencyId>
     <categoryId>3</categoryId>
     <picture>http://i.piccy.info/i9/487420122e991d62809c36d52ba795d0/1590583242/108186/1380432/210116731_images_18086911843.jpg</picture>
@@ -5060,7 +5060,7 @@
 	<picture>http://i.piccy.info/i9/6f6172fc56d6a73cce56cb60175ec4bc/1590583310/143211/1380432/KM1r.jpg</picture>
 	<picture>http://i.piccy.info/i9/80fa6ec0fc3aca4f18ae52173ac08fe2/1590583362/90453/1380432/1_2.jpg</picture>
 	<name>Смарт тв приставка Mecool KM1 Deluxe 4gb/32gb (S905X3)</name>
-	<stock_quantity>0</stock_quantity>
+	<stock_quantity>2</stock_quantity>
     <vendor>Mecool, Videostrong</vendor>
     <vendorCode>km1_32b</vendorCode>
     <description>
@@ -5113,9 +5113,9 @@
 	<param name="Цвет">Черный</param>
   </offer> 
  
- <offer id="1168837975" available="false" >
+ <offer id="1168837975" available="true" >
 <url>https://leobox.com.ua/p1168837975-mecool-km1-collective.html</url>
-    <price>2469</price>
+    <price>2499</price>
 	<old_price>2600</old_price>
     <currencyId>UAH</currencyId>
     <categoryId>3</categoryId>
@@ -5124,7 +5124,7 @@
 	<picture>http://i.piccy.info/i9/6f6172fc56d6a73cce56cb60175ec4bc/1590583310/143211/1380432/KM1r.jpg</picture>
 	<picture>http://i.piccy.info/i9/80fa6ec0fc3aca4f18ae52173ac08fe2/1590583362/90453/1380432/1_2.jpg</picture>
 	<name>Смарт тв приставка Mecool KM1 Collective 4gb/64gb (S905X3)</name>
-	<stock_quantity>0</stock_quantity>
+	<stock_quantity>2</stock_quantity>
     <vendor>Mecool, Videostrong</vendor>
     <vendorCode>km1_64b</vendorCode>
     <description>
@@ -6084,7 +6084,7 @@
 #E21С13
 <offer id="edw_E21C13" available="true" >
 <url>https://leobox.com.ua/ua/p1459503643-zheleznaya-doroga-dereva.html</url>
-    <price>1499</price>
+    <price>1599</price>
 	<old_price>1800</old_price>
 	<price_promo>1499</price_promo>
     <currencyId>UAH</currencyId>
@@ -6278,9 +6278,9 @@
 
 #Iekool
 
-<offer id="iekool_02" available="true" >
+<offer id="iekool_02" available="false" >
 <url>https://leobox.com.ua/ua/p1474612108-zheleznaya-doroga-dereva.html</url>
-    <price>1979</price>
+    <price>1879</price>
 	<old_price>2100</old_price>
 	<price_promo>1949</price_promo>
     <currencyId>UAH</currencyId>
@@ -6291,7 +6291,7 @@
 	<picture>http://i.piccy.info/i9/35f097a074ef066b7212936a27bc45a5/1631962197/269894/1441731/iekool_02.jpg</picture>
 	<name>Игрушечная железная дорога из дерева iekool 70 деталей, 102x52</name>
     <vendor>Iekool</vendor>
-	<stock_quantity>2</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendorCode>iekool_02</vendorCode>
     <description>
 <![CDATA[ 
@@ -6406,7 +6406,7 @@
 	
   </offer>
 
-<offer id="iekool_05" available="true" >
+<offer id="iekool_05" available="false" >
 <url>https://leobox.com.ua/ua/p1476086640-zheleznaya-doroga-dereva.html</url>
     <price>2499</price>
 	<old_price>2600</old_price>
@@ -6423,7 +6423,7 @@
 	<picture>http://i.piccy.info/i9/b11b0d0324395d8a2d6596464a83ac56/1631962981/296311/1441731/iekool_05.jpg</picture>
 	<name>Іграшкова залізниця з дерева Iekool-playtive, 110 деталей, 103x83</name>
     <vendor>Iekool</vendor>
-	<stock_quantity>2</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendorCode>iekool_05</vendorCode>
     <description>
 <![CDATA[ 
@@ -7107,9 +7107,9 @@
 
 <offer id="iekool_park" available="true" >
 <url>https://leobox.com.ua/ua/p1479478226-parkovka-liftom-dereva.html</url>
-    <price>1199</price>
+    <price>1099</price>
 	<old_price>1300</old_price>
-	<price_promo>199</price_promo>
+	<price_promo>1099</price_promo>
     <currencyId>UAH</currencyId>
     <categoryId>10</categoryId>
     <picture>http://i.piccy.info/i9/aab3d48f7fbf54794c1ed671649b9338/1632141258/55223/1441731/57486photo_2021_09_19_15_08_10.jpg</picture>
@@ -7155,9 +7155,9 @@
 
 <offer id="iekool_train" available="true" >
 <url>https://leobox.com.ua/ua/p1479484365-umnyj-parovozik-dereva.html</url>
-    <price>299</price>
-	<old_price>400</old_price>
-	<price_promo>299</price_promo>
+    <price>399</price>
+	<old_price>500</old_price>
+	<price_promo>399</price_promo>
     <currencyId>UAH</currencyId>
     <categoryId>10</categoryId>
     <picture>http://i.piccy.info/i9/c57ba7effcc3fc6caaef75d3c9c3fde0/1632215615/98874/1441731/3334461641_w640_h640_3334461641.jpg</picture>
@@ -7431,7 +7431,7 @@
 #Tenda AC23
 <offer id="tnd_ac23" available="true" >
 <url>https://leobox.com.ua/ua/p1419373841-marshrutizator-tenda-ac23.html</url>
-    <price>1799</price>
+    <price>1699</price>
 	<old_price>1850</old_price>
 	<price_promo>1599</price_promo>
     <currencyId>UAH</currencyId>
@@ -7725,7 +7725,7 @@
   </offer>
 
 #gamesir t4pro
-<offer id="gs_t4pro" available="true" >
+<offer id="gs_t4pro" available="false" >
 <url>https://leobox.com.ua/ua/p1425791214-gejmpad-dlya-android.html</url>
     <price>1399</price>
 	<old_price>1600</old_price>
@@ -7738,7 +7738,7 @@
 	<picture>https://www.leobox.ua/content/images/40/505x426l80nn0/geympad-gamesir-t4-pro-bluetooth-dzhoystik-27644532040715.jpg</picture>
 	<picture>https://www.leobox.ua/content/images/40/505x426l80nn0/geympad-gamesir-t4-pro-bluetooth-dzhoystik-11439091240970.jpg</picture>
 	<name>Геймпад джойстик для смартфона GameSir T4 Pro Multi-platform Game Controller</name>
-	<stock_quantity>10</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendor>GameSir</vendor>
     <description>
 <![CDATA[ 

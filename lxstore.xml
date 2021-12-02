@@ -225,7 +225,7 @@
 	<param name="гарантия">14 дней</param>
 	<param name="цвет">Черный</param>
   </offer> 
-  
+#1022  
 <offer id="742086869" available="true" >
 <url>https://leobox.com.ua/p742086869-ryukzak-anmeilu-20l.html</url>
     <price>1299</price>
@@ -406,7 +406,7 @@
 	<param name="гарантия">14 дней</param>
 	<param name="цвет">Черный</param>
   </offer> 
-  
+ #1023 
 <offer id="741967625" available="true" >
 <url>https://leobox.com.ua/p741967625-ryukzak-anmeilu-20l.html</url>
     <price>1299</price>
@@ -461,7 +461,7 @@
 	<param name="цвет">Зеленый</param>
   </offer>   
    
-<offer id="722057074" available="false" >
+<offer id="722057074" available="true" >
     <url>https://leobox.com.ua/p722057074-ryukzak-anmeilu-20l.html</url>
     <price>1099</price>
     <currencyId>UAH</currencyId>

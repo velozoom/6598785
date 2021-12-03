@@ -5178,7 +5178,7 @@
   </offer> 
  
  #V01
- <offer id="v01" available="true" >
+ <offer id="v01" available="false" >
 <url>https://leobox.com.ua/ua/p1247899353-air-mouse-mecool.html</url>
     <price>499</price>
 	<old_price>600</old_price>
@@ -5190,7 +5190,7 @@
 	<picture>https://leobox.ua/content/images/17/600x600l80nn0/88811302423259.png</picture>
 	<picture>https://leobox.ua/content/images/17/600x600l80nn0/21998756791423.png</picture>
 	<name>Mecool V01 Bluetooth Пульт с гироскопом та микрофоном</name>
-	<stock_quantity>10</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendor>Mecool, Videostrong</vendor>
     <vendorCode>v01</vendorCode>
     <description>

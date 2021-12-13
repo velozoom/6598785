@@ -5986,9 +5986,9 @@
 #E21A24
 <offer id="edw_E21A24" available="false" >
 <url>https://leobox.com.ua/ua/p1458985872-zheleznaya-doroga-dereva.html</url>
-    <price>1799</price>
-	<old_price>1900</old_price>
-	<price_promo>1699</price_promo>
+    <price>1899</price>
+	<old_price>1950</old_price>
+	<price_promo>1899</price_promo>
     <currencyId>UAH</currencyId>
     <categoryId>10</categoryId>
     <picture>https://leobox.ua/content/images/4/24904060595509_+5bcb6d798c.jpg</picture>
@@ -6035,9 +6035,9 @@
 #E21A14
 <offer id="edw_E21A14" available="true" >
 <url>https://leobox.com.ua/ua/p1459503643-zheleznaya-doroga-dereva.html</url>
-    <price>1699</price>
-	<old_price>1800</old_price>
-	<price_promo>1599</price_promo>
+    <price>1899</price>
+	<old_price>1950</old_price>
+	<price_promo>1899</price_promo>
     <currencyId>UAH</currencyId>
     <categoryId>10</categoryId>
     <picture>https://leobox.ua/content/images/7/zalizna-doroga-z-dereva-edwone-110-detaley-brio-ikea-playtive-e21a14-11582169900830_+e93b447f73.jpg</picture>
@@ -6085,8 +6085,8 @@
 <offer id="edw_E21C13" available="true" >
 <url>https://leobox.com.ua/ua/p1459503643-zheleznaya-doroga-dereva.html</url>
     <price>1599</price>
-	<old_price>1800</old_price>
-	<price_promo>1499</price_promo>
+	<old_price>1650</old_price>
+	<price_promo>1599</price_promo>
     <currencyId>UAH</currencyId>
     <categoryId>10</categoryId>
     <picture>https://leobox.ua/content/images/3/zalizna-doroga-z-dereva-edwone-85-detaley-park-dinozavriv-brio-ikea-playtive-e21c13-69038658888816_+0452c01c0e.jpg</picture>

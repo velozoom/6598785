@@ -5934,7 +5934,7 @@
   </offer>
 
 #E17P05
-<offer id="1388065664" available="true" >
+<offer id="1388065664" available="false" >
 <url>https://leobox.com.ua/ua/p1388065664-zheleznaya-doroga-dereva.html</url>
     <price>2200</price>
 	<old_price>2250</old_price>
@@ -5946,7 +5946,7 @@
 	<picture>https://www.leobox.ua/content/images/8/600x354l80nn0/dityacha-igrashkova-zaliznitsya-z-dereva-edwone-110-detaley-brio-ikea-e17p05-28367237409719.jpg</picture>
 	<name>Детская железная дорога из дерева EdWone, 110 деталей (Brio, Ikea, Playtive) E21A03 (электрический локомотив)</name>
     <vendor>Edwone</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendorCode>edw_E17P05</vendorCode>
     <description>
 <![CDATA[ 

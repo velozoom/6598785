@@ -3336,7 +3336,7 @@
  
  # ozuko
  #8983S
-<offer id="1226173392" available="true" >
+<offer id="1226173392" available="false" >
 <url>https://leobox.com.ua/p1235324557-ryukzak-ozuko-8983s.html</url>
     <price>1649</price>
 	<old_price>1749</old_price>
@@ -3398,7 +3398,7 @@
 	<param name="Колір">Чорний</param>
   </offer>
 #8983L
-<offer id="1231784512" available="true" >
+<offer id="1231784512" available="false" >
 <url>https://leobox.com.ua/p1231784512-ryukzak-ozuko-8983l.html</url>
     <price>1699</price>
 	<old_price>1799</old_price>
@@ -3413,7 +3413,7 @@
 	<picture>http://i.piccy.info/i9/1855b9683db2e5b7b782550774c1a661/1596786039/442073/1380432/IMG_6414.jpg</picture>
 	<picture>http://i.piccy.info/i9/c47bb8597616c03406b707a6d597960a/1596786137/319810/1380432/84537IMG_6428.jpg</picture>
 	<name>Рюкзак Ozuko 8983 из баллистического нейлона для путешествий с отделением для ноутбука до 20 дюймов черный</name>
-	<stock_quantity>5</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendor>Ozuko</vendor>
     <vendorCode>8983_20</vendorCode>
     <description>

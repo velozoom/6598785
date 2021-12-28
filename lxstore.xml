@@ -7105,7 +7105,7 @@
 	<param name="Новий - б/в">Новий</param>
 </offer>
 
-<offer id="iekool_park" available="true" >
+<offer id="iekool_park" available="false" >
 <url>https://leobox.com.ua/ua/p1479478226-parkovka-liftom-dereva.html</url>
     <price>1099</price>
 	<old_price>1300</old_price>
@@ -7118,7 +7118,7 @@
 	<picture>http://i.piccy.info/i9/a78854d18ac03eaf0635ca8ca828bf1b/1632141328/65524/1441731/photo_2021_09_19_15_08_23.jpg</picture>
 	<name>Игровой набор парковка 3-уровневая из дерева Iekool</name>
     <vendor>Iekool</vendor>
-	<stock_quantity>2</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendorCode>iekool_park</vendorCode>
     <description>
 <![CDATA[ 
@@ -7341,7 +7341,7 @@
   </offer> 
 
 #Tenda AC7
-<offer id="tnd_ac7" available="false" >
+<offer id="tnd_ac7" available="true" >
 <url>https://leobox.com.ua/ua/p1418081739-marshrutizator-tenda-ac7.html</url>
     <price>1099</price>
 	<old_price>1300</old_price>
@@ -7353,7 +7353,7 @@
 	<picture>https://leobox.ua/content/images/32/582x600l80nn0/80410651195617.jpg</picture>
 	<picture>https://leobox.ua/content/images/32/600x600l80nn0/47167153884313.jpg</picture>
 	<name>Маршрутизатор Безпровідний (Wi-Fi Роутер) Tenda AC7</name>
-	<stock_quantity>0</stock_quantity>
+	<stock_quantity>1</stock_quantity>
     <vendor>Tenda</vendor>
     <description>
 <![CDATA[ 
@@ -7384,7 +7384,7 @@
   </offer>
 
 #Tenda AC11
-<offer id="tnd_ac11" available="false" >
+<offer id="tnd_ac11" available="true" >
 <url>https://leobox.com.ua/ua/p1418084779-marshrutizator-tenda-ac11.html</url>
     <price>1299</price>
 	<old_price>1400</old_price>
@@ -7396,7 +7396,7 @@
 	<picture>https://leobox.ua/content/images/35/500x500l80nn0/router-tenda-ac11-ac1200-wifi-802.11ac-1-gbit-s-33917031683126.jpg</picture>
 	<picture>https://leobox.ua/content/images/35/500x500l80nn0/router-tenda-ac11-ac1200-wifi-802.11ac-1-gbit-s-27364315260292.jpg</picture>
 	<name>Маршрутизатор Безпровідний (Гігабітний Wi-Fi Роутер) Tenda AC11</name>
-	<stock_quantity>0</stock_quantity>
+	<stock_quantity>1</stock_quantity>
     <vendor>Tenda</vendor>
     <description>
 <![CDATA[ 
@@ -7477,7 +7477,7 @@
 
 #Геймпади
 #ipega 9076
-<offer id="ipg_9076" available="true" >
+<offer id="ipg_9076" available="false" >
 <url>https://leobox.com.ua/ua/p1122081022-gejmpad-ipega-9076.html</url>
     <price>649</price>
 	<old_price>750</old_price>
@@ -7492,7 +7492,7 @@
 	<picture>https://leobox.ua/content/images/29/600x600l80nn0/84621371516637.jpg</picture>
 	<picture>https://leobox.ua/content/images/29/600x600l80nn0/87361438438203.jpg</picture>
 	<name>Безпровідний геймпад iPega PG-9076 для смартфонів і ПК Bluetooth+USB Black</name>
-	<stock_quantity>10</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendor>iPega</vendor>
     <description>
 <![CDATA[ 

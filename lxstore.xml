@@ -7343,7 +7343,7 @@
 #Tenda AC7
 <offer id="tnd_ac7" available="true" >
 <url>https://leobox.com.ua/ua/p1418081739-marshrutizator-tenda-ac7.html</url>
-    <price>1099</price>
+    <price>1299</price>
 	<old_price>1300</old_price>
 	<price_promo>1199</price_promo>
     <currencyId>UAH</currencyId>
@@ -7386,7 +7386,7 @@
 #Tenda AC11
 <offer id="tnd_ac11" available="true" >
 <url>https://leobox.com.ua/ua/p1418084779-marshrutizator-tenda-ac11.html</url>
-    <price>1299</price>
+    <price>1399</price>
 	<old_price>1400</old_price>
 	<price_promo>1099</price_promo>
     <currencyId>UAH</currencyId>
@@ -7429,7 +7429,7 @@
   </offer>
 
 #Tenda AC23
-<offer id="tnd_ac23" available="true" >
+<offer id="tnd_ac23" available="false" >
 <url>https://leobox.com.ua/ua/p1419373841-marshrutizator-tenda-ac23.html</url>
     <price>1699</price>
 	<old_price>1850</old_price>
@@ -7441,7 +7441,7 @@
 	<picture>https://leobox.ua/content/images/36/597x600l80nn0/router-tenda-ac23-ac2100-4x4-mimo-1-gbit-s-7-anten-26558821442493.jpg</picture>
 	<picture>https://leobox.ua/content/images/36/600x442l80nn0/router-tenda-ac23-ac2100-4x4-mimo-1-gbit-s-7-anten-97892244987083.jpg</picture>
 	<name>Маршрутизатор Безпровідний (Гігабітний Wi-Fi Роутер) Tenda AC23</name>
-	<stock_quantity>10</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendor>Tenda</vendor>
     <description>
 <![CDATA[ 

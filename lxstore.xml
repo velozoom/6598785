@@ -798,7 +798,7 @@
 
 #Anmeilu 50l
 
-<offer id="998581390" available="true" >
+<offer id="998581390" available="false" >
 <url>https://leobox.com.ua/p998581390-ryukzak-anmeilu-50l.html</url>
     <price>1599</price>
 	<old_price>1800</old_price>
@@ -807,7 +807,7 @@
     <picture>http://i.piccy.info/i9/bf58e99b287fd3318c5f20c76ca0f2b9/1568708114/187275/1329562/01_r.jpg</picture>
     <picture>http://i.piccy.info/i9/f19e19f125bee32f146972b48679bd62/1568708132/123688/1329562/02_r.jpg</picture>
 	<name>Рюкзак туристический Anmeilu 50 Red</name>
-	<stock_quantity>5</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendor>Anmeilu</vendor>
     <vendorCode>6002_1</vendorCode>
     <description>
@@ -864,7 +864,7 @@
 	<param name="цвет">Красный</param>
   </offer>
 
-<offer id="998225896" available="true" >
+<offer id="998225896" available="false" >
 <url>https://leobox.com.ua/p998225896-ryukzak-anmeilu-50l.html</url>
     <price>1599</price>
 	<old_price>1300</old_price>
@@ -874,7 +874,7 @@
     <picture>http://i.piccy.info/i9/44e1bafcd6c77acc0c247e2455ec2c96/1568708673/95590/1329562/03_b.jpg</picture>
 	<picture>http://i.piccy.info/i9/2a897a9a57f2f66ad4d0cf0a5999e92b/1568708703/57659/1329562/02_b.jpg</picture>
 	<name>Рюкзак туристический Anmeilu 50 Green</name>
-	<stock_quantity>5</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendor>Anmeilu</vendor>
     <vendorCode>6002</vendorCode>
     <description>
@@ -1614,7 +1614,7 @@
  
 # pentagram pm001 35 1300
 
-<offer id="1026581425" available="true" >
+<offer id="1026581425" available="false" >
     <url>https://leobox.com.ua/p1026581425-turisticheskij-ryukzak-pentagram.html</url>
     <price>1399</price>
 	<old_price>1499</old_price>
@@ -1624,7 +1624,7 @@
     <picture>http://i.piccy.info/i9/2227773c7e62769a26a3cbdfa8598781/1598529739/49709/1380432/O1CN01hCARDY1WjtOwGiZZI_572282825.jpg</picture>
     <picture>http://i.piccy.info/i9/80f2a87090af9e00466e288e7a7a6ee7/1598529764/60824/1380432/2222.jpg</picture>
     <name>Рюкзак універсальний Pentagram 35 л Navy Blue (PM001) </name>
-	<stock_quantity>5</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendor>Pentagram</vendor>
     <vendorCode>PM001-35m</vendorCode>
     <description>
@@ -1756,7 +1756,7 @@
 	<param name="цвет">Зеленый</param>
   </offer>
 
-<offer id="1026580776" available="true" >
+<offer id="1026580776" available="false" >
     <url>https://leobox.com.ua/p1026580776-turisticheskij-ryukzak-pentagram.html</url>
     <price>1399</price>
 	<old_price>1499</old_price>
@@ -1767,7 +1767,7 @@
     <picture>http://i.piccy.info/i9/2227773c7e62769a26a3cbdfa8598781/1598529739/49709/1380432/O1CN01hCARDY1WjtOwGiZZI_572282825.jpg</picture>
     <picture>http://i.piccy.info/i9/80f2a87090af9e00466e288e7a7a6ee7/1598529764/60824/1380432/2222.jpg</picture>
     <name>Рюкзак універсальний Pentagram 35 л Black (PM001) </name>
-	<stock_quantity>5</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendor>Pentagram</vendor>
     <vendorCode>PM001-35b</vendorCode>
     <description>
@@ -2686,7 +2686,7 @@
 	<param name="цвет">Черный</param>
   </offer> 
 
-<offer id="917325251" available="true" >
+<offer id="917325251" available="false" >
 <url>https://leobox.com.ua/p917325251-ryukzak-pentagram-50l.html</url>
     <price>1449</price>
 	<old_price>1599</old_price>
@@ -2696,7 +2696,7 @@
     <picture>http://i.piccy.info/i9/f21588bc145b6ba16f3a31ec5a256f17/1565773607/153850/1329562/pm02_haki_02.jpg</picture>
     <picture>http://i.piccy.info/i9/fb671f25804400b99ff3812e3a61f56a/1565773639/119559/1329562/pm02_haki_04.jpg</picture>
     <name>Рюкзак універсальний Pentagram 50 л Army Green (PM002)</name>
-	<stock_quantity>10</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendor>Pentagram</vendor>
     <vendorCode>PM002-50h</vendorCode>
     <description>
@@ -2959,7 +2959,7 @@
 	<param name="цвет">Синий</param>
   </offer>
 
-<offer id="1013177380" available="true" >
+<offer id="1013177380" available="false" >
 <url>https://leobox.com.ua/p1013177380-ryukzak-pentagram-max.html</url>
     <price>1549</price>
 	<old_price>1599</old_price>
@@ -2969,7 +2969,7 @@
     <picture>http://i.piccy.info/i9/19541c69e87653e194c39ad8bb3b2f04/1564480303/230188/1329562/pm01_black.jpg</picture>
     <picture>http://i.piccy.info/i9/34ef48f234f2983da80d2b21819d18c0/1564480327/182444/1329562/pm01_bl_1.jpg</picture>
 	<name>Рюкзак універсальний Pentagram 40 max Black (PM007)</name>
-	<stock_quantity>2</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendor>Pentagram</vendor>
     <vendorCode>PM007black</vendorCode>
     <description>
@@ -7345,7 +7345,7 @@
 <url>https://leobox.com.ua/ua/p1418081739-marshrutizator-tenda-ac7.html</url>
     <price>1299</price>
 	<old_price>1300</old_price>
-	<price_promo>1199</price_promo>
+	<price_promo>1399</price_promo>
     <currencyId>UAH</currencyId>
     <categoryId>12</categoryId>
     <picture>https://leobox.ua/content/images/32/600x544l80nn0/95705495648325.jpg</picture>
@@ -7386,9 +7386,9 @@
 #Tenda AC11
 <offer id="tnd_ac11" available="true" >
 <url>https://leobox.com.ua/ua/p1418084779-marshrutizator-tenda-ac11.html</url>
-    <price>1399</price>
+    <price>1749</price>
 	<old_price>1400</old_price>
-	<price_promo>1099</price_promo>
+	<price_promo>1599</price_promo>
     <currencyId>UAH</currencyId>
     <categoryId>12</categoryId>
     <picture>https://leobox.ua/content/images/35/500x500l80nn0/router-tenda-ac11-ac1200-wifi-802.11ac-1-gbit-s-39559189263280.jpg</picture>

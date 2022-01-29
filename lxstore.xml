@@ -7517,7 +7517,7 @@
   </offer>
 
 #ipega 9078
-<offer id="ipg_9078" available="true" >
+<offer id="ipg_9078" available="false" >
 <url>https://leobox.com.ua/ua/p1425215054-gejmpad-ipega-9078.html</url>
     <price>599</price>
 	<old_price>750</old_price>
@@ -7529,7 +7529,7 @@
 	<picture>https://www.leobox.ua/content/images/37/600x506l80nn0/55530848632101.png</picture>
 	<picture>https://www.leobox.ua/content/images/37/600x429l80nn0/30723286244792.jpg</picture>
 	<name>Безпроводной геймпад iPega PG-9078 для смартфонів і Smart TV</name>
-	<stock_quantity>10</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendor>iPega</vendor>
     <description>
 <![CDATA[ 
@@ -7582,7 +7582,7 @@
   </offer>
 
 #ipega 9157
-<offer id="ipg_9157" available="true" >
+<offer id="ipg_9157" available="false" >
 <url>https://leobox.com.ua/ua/p1425221037-gejmpad-ipega-9157.html</url>
     <price>599</price>
 	<old_price>650</old_price>
@@ -7598,7 +7598,7 @@
 	<picture>https://www.leobox.ua/content/images/41/500x500l80nn0/copy_igroviy-dzhoystik-ipega-pg-9118-bluetooth-geympad-37849661054494.jpg</picture>
 	<picture>https://www.leobox.ua/content/images/41/500x500l80nn0/copy_igroviy-dzhoystik-ipega-pg-9118-bluetooth-geympad-62645213910182.jpg</picture>
 	<name>Геймпад iPega PG-9157 для смартфонов и Smart TV</name>
-	<stock_quantity>10</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendor>iPega</vendor>
     <description>
 <![CDATA[ 
@@ -7655,9 +7655,9 @@
 #ipega 9118
 <offer id="ipg_9118" available="true" >
 <url>https://leobox.com.ua/ua/p1425231388-gejmpad-ipega-9118.html</url>
-    <price>799</price>
-	<old_price>1000</old_price>
-	<price_promo>799</price_promo>
+    <price>999</price>
+	<old_price>1100</old_price>
+	<price_promo>899</price_promo>
     <currencyId>UAH</currencyId>
     <categoryId>5</categoryId>
     <picture>https://www.leobox.ua/content/images/39/600x600l80nn0/20640312316336.jpg</picture>

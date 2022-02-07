@@ -3506,7 +3506,7 @@
 	<param name="Колір">Чорний</param>
   </offer>
  #9066
-<offer id="1231815951" available="true" >
+<offer id="1231815951" available="false" >
 <url>https://leobox.com.ua/p1231815951-ryukzak-rolltop-ozuko.html</url>
     <price>1199</price>
 	<old_price>1299</old_price>
@@ -3520,7 +3520,7 @@
 	<picture>http://i.piccy.info/i9/8220fc3eb422f813dcf9d783c905f93f/1596789911/274488/1380432/245015X7A9339.jpg</picture>
 	<picture>http://i.piccy.info/i9/1f1cf9bb8891f2faa47d7d554ed7fc72/1596789936/286546/1380432/5X7A9340.jpg</picture>
 	<name>Рюкзак Роллтоп OZUKO RollTop 9066 Черный</name>
-	<stock_quantity>10</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendor>Ozuko</vendor>
     <vendorCode>9066</vendorCode>
     <description>
@@ -3747,7 +3747,7 @@
 	<param name="Колір">Камуфляжний</param>
   </offer> 
  
-<offer id="oz_9242S" available="true" >
+<offer id="oz_9242S" available="false" >
 <url>https://leobox.com.ua/ua/p1345627578-ryukzak-ozuko-9242s.html</url>
     <price>1349</price>
 	<old_price>1500</old_price>
@@ -3762,7 +3762,7 @@
 	<picture>https://www.leobox.ua/content/images/12/600x600l80nn0/71072844685016.jpg</picture>
 	<picture>https://www.leobox.ua/content/images/12/600x468l80nn0/60344272346546.jpg</picture>
 	<name>Рюкзак-сумка Ozuko 9242S Чорний</name>
-	<stock_quantity>5</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendor>Ozuko</vendor>
     <vendorCode>oz_9242S</vendorCode>
     <description>
@@ -7653,7 +7653,7 @@
   </offer>
 
 #ipega 9118
-<offer id="ipg_9118" available="true" >
+<offer id="ipg_9118" available="false" >
 <url>https://leobox.com.ua/ua/p1425231388-gejmpad-ipega-9118.html</url>
     <price>999</price>
 	<old_price>1100</old_price>
@@ -7669,7 +7669,7 @@
 	<picture>https://www.leobox.ua/content/images/39/600x600l80nn0/21077169010869.jpg</picture>
 	<picture>https://www.leobox.ua/content/images/39/600x600l80nn0/84281353907305.jpg</picture>
 	<name>Бездротовий ігровий геймпад для смартфона, джойстик для телефону iPega PG-9118, Bluetooth Gamepad для IOS, Android (PG-9118)</name>
-	<stock_quantity>10</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendor>iPega</vendor>
     <description>
 <![CDATA[ 

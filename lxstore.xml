@@ -5212,6 +5212,39 @@
 	<param name="Цвет">Черный</param>
   </offer>
  
+ #ugoos ur-01
+  <offer id="ur01" available="true" >
+<url>https://leobox.com.ua/ua/p1529206811-air-mouse-ugoos.html</url>
+    <price>449</price>
+	<old_price>500</old_price>
+    <currencyId>UAH</currencyId>
+    <categoryId>11</categoryId>
+    <picture>https://leobox.ua/content/images/6/44596833999556_+1a75f3a884.jpeg</picture>
+	<picture>https://leobox.ua/content/images/6/29880510029386_+d98b937560.jpeg</picture>
+	<picture>https://leobox.ua/content/images/6/33225472116166_+e9024721e4.jpeg</picture>
+		<name>Ugoos UR01 Air Mouse Bluetooth Пульт с гироскопом та микрофоном</name>
+	<stock_quantity>10</stock_quantity>
+    <vendor>Ugoos</vendor>
+    <vendorCode>ur01</vendorCode>
+    <description>
+<![CDATA[ 
+<p>Гіроскопічний пульт Air Mouse Ugoos UR01 з голосовим управлінням і гіроскопом призначений для дистанційного керування smart приставками, мультимедійними плеєрами та іншими пристроями на базі операційних систем Android, Windows, Mac і Linux.</p>
+<p>Air Mouse Ugoos UR01 (гіроскоп + голосове управління) - це бездротова миша. Fly Air Mouse Ugoos UR01 не вимагає ніяких додаткових налаштувань. Після того як ви спарили смарт приставку з пультом по Bluetooth - миша налаштовується автоматично.</p>
+<p>Вбудований 6-ти позиційний гіроскоп дозволить вам включити курсор миші і використовувати пульт для інтернет-серфінгу.</p>
+<p>Пульт наділений Bluetooth і фактично робить його універсальним пристроєм для керування Android tv боксів, пульт має ІЧ-модуль з функцією навчальної кнопки яка дасть вам можливість не використовувати інших пультів і насолоджуватися керуванням, як телевізійної Android-приставки, так і для ввімкнення/вимкнення вашого телевізора.</p>
+<p>З аеро мишею  Ugoos UR01 вам більше не знадобиться тверда рівна поверхня для керування приставкою або телевізором. Кнопки гучності, повернення, домашньої сторінки, кроку назад і інших істотно спростять управління технікою.</p>
+<p>Функція передачі голосу через пульт, дозволить Вам насолодитися управлінням за допомогою спеціальних додатків, таких як Google Assistant. </p>
+ ]]>
+</description>
+
+    <param name="Производитель">Ugoos</param>
+    <param name="Совместимая техника">Смарт Приставки</param>
+	<param name="Тип">Смарт пульт, Универсальный пульт</param>
+	<param name="Канал связи">Инфракрасный, Bluetooth</param>
+	<param name="Страна-производитель товара">Китай</param>
+	<param name="Цвет">Черный</param>
+  </offer>
+ 
  # zvolozhuvachi
 <offer id="985086658" available="false" >
 <url>https://leobox.com.ua/p985086658-meling-158-45l.html</url>

@@ -2464,7 +2464,7 @@
 	<param name="цвет">Зеленый</param>
   </offer>
  
-<offer id="823899529" available="true" >
+<offer id="823899529" available="false" >
 <url>https://leobox.com.ua/p823899529-ryukzak-pentagram-50l.html</url>
     <price>1449</price>
 	<old_price>1500</old_price>
@@ -2474,7 +2474,7 @@
     <picture>http://i.piccy.info/i9/33ea49b837208a1082e66c76b1b4eb18/1564473135/174703/1329562/pm02_blue_01.jpg</picture>
     <picture>http://i.piccy.info/i9/a4a7412dc004c4f00fc01316609b38e6/1564473154/112690/1329562/pm02_blue_033.jpg</picture>
 	<name>Рюкзак універсальний Pentagram 50 л Lake Blue (PM002)</name>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendor>Pentagram</vendor>
     <vendorCode>PM002-50b</vendorCode>
     <description>

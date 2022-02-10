@@ -3908,7 +3908,7 @@
 	<param name="Колір">Камуфляжний</param>
   </offer> 
  
-<offer id="1234440709" available="true" >
+<offer id="1234440709" available="false" >
 <url>https://leobox.com.ua/p1234440709-ryukzak-sumka-transformer.html</url>
     <price>1299</price>
 	<old_price>1500</old_price>
@@ -3919,7 +3919,7 @@
     <picture>http://i.piccy.info/i9/59d1c072f89866eec18719282aeb6e9d/1597654323/347779/1380432/5X7A2805.jpg</picture>
 	<picture>http://i.piccy.info/i9/9c6d5693d55550dbeebeec33277d4c9d/1597654351/306785/1380432/5X7A2807.jpg</picture>
 	<name>Рюкзак-сумка трансформер Ozuko 9225 Чорний</name>
-	<stock_quantity>5</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendor>Ozuko</vendor>
     <vendorCode>9225</vendorCode>
     <description>
@@ -5306,7 +5306,7 @@
 	<param name="Цвет">Черный</param>
   </offer> 
  
- <offer id="1168837975" available="true" >
+ <offer id="1168837975" available="false" >
 <url>https://leobox.com.ua/p1168837975-mecool-km1-collective.html</url>
     <price>2499</price>
 	<old_price>2600</old_price>
@@ -5317,7 +5317,7 @@
 	<picture>http://i.piccy.info/i9/6f6172fc56d6a73cce56cb60175ec4bc/1590583310/143211/1380432/KM1r.jpg</picture>
 	<picture>http://i.piccy.info/i9/80fa6ec0fc3aca4f18ae52173ac08fe2/1590583362/90453/1380432/1_2.jpg</picture>
 	<name>Смарт тв приставка Mecool KM1 Collective 4gb/64gb (S905X3)</name>
-	<stock_quantity>2</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendor>Mecool, Videostrong</vendor>
     <vendorCode>km1_64b</vendorCode>
     <description>
@@ -7479,9 +7479,9 @@
 #Електричний локомотив
 <offer id="1404402139" available="true" >
 <url>https://leobox.com.ua/ua/p1404402139-elektricheskij-lokomotiv-edwone.html</url>
-    <price>399</price>
-	<old_price>500</old_price>
-	<price_promo>500</price_promo>
+    <price>349</price>
+	<old_price>400</old_price>
+	<price_promo>350</price_promo>
     <currencyId>UAH</currencyId>
     <categoryId>10</categoryId>
     <picture>http://i.piccy.info/i9/cf174892aae3fac01602c41a56f0707b/1619768456/26848/1427124/192532132.jpg</picture>

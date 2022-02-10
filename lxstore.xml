@@ -3022,6 +3022,199 @@
 	<param name="цвет">Черный</param>
   </offer>
 
+#pentagram 40 lite Чорний
+<offer id="PM002b-40b" available="true" >
+<url>https://leobox.com.ua/ua/p1026600348-turisticheskij-ryukzak-pentagram.html</url>
+    <price>1199</price>
+	<old_price>1250</old_price>
+	<price_promo>1199</price_promo>
+    <currencyId>UAH</currencyId>
+    <categoryId>8</categoryId>
+    <picture>https://leobox.ua/content/images/50/45514047267620_+b17655d3a7.jpg</picture>
+    <picture>https://leobox.ua/content/images/49/rukzak-pentagram-lite-40l-universalniy-mokriy-asfalt-pm002-b-78548013032238_+ad79ed55d0.jpg</picture>
+	<name>Рюкзак Pentagram lite, 40л, універсальний (PM002-B) Черный</name>
+	<stock_quantity>1</stock_quantity>
+    <vendor>Pentagram</vendor>
+    <vendorCode>PM002b-40b</vendorCode>
+    <description>
+<![CDATA[ 
+<p>По боках рюкзака розміщені відкриті кишені для пляшки, термоса чи іншого. </p>
+<p>Кишеня у верхній частині призначена для речей, до яких необхідний швидкий доступ. Чудово підходить для документів, квитків та іншого. На нижній частині, в спеціальній кишені, схований дощовик оранжевого кольору. Також цю кишеню можна використовувати для власних речей.</p>
+<p>Стильний та модний дизайн рюкзака підійде для любої статі.</p>
+
+<p>Особливості рюкзака Pentagram 40L:</p>
+<ul>
+<li>Рюкзак виготовлено з високоякісної та водовідштовхувальної тканини, стійкої до механічних пошкоджень.</li>
+<li>Підходить для туризму, велосипеда та повсякденного використання</li>
+</ul>
+
+<p>Характеристики:</p>
+<ul>
+<li>Розміри: 52*32*23 см</li>
+<li>Об'єм: 38 л</li>
+<li>Вага: 900 г</li>
+<li>Матеріал: водостійкий нейлон</li>
+</ul>
+
+<p>Комплектація:</p>
+<ul>
+<li>Рюкзак Pentagram 40L</li>
+<li>Дощовик</li>
+</ul>
+ ]]>
+</description>
+	<param name="Категорія">Для дівчаток, Для жінок, Для чоловіків, Для хлопчиків</param>
+	<param name="Матеріал">Поліестер</param>
+	<param name="размеры">52 x 32 x 23 см</param>
+	<param name="вес">0,9 кг</param>
+	<param name="Страна-производитель товара">Китай</param>
+	<param name="Колір">Чорний</param>
+  </offer>
+#pentagram 40 Мокрий асфальт
+<offer id="PM002b-40m" available="true" >
+<url>https://leobox.com.ua/ua/p1026593068-turisticheskij-ryukzak-pentagram.html</url>
+    <price>1199</price>
+	<old_price>1250</old_price>
+	<price_promo>1199</price_promo>
+    <currencyId>UAH</currencyId>
+    <categoryId>8</categoryId>
+    <picture>https://leobox.ua/content/images/49/rukzak-pentagram-lite-40l-universalniy-mokriy-asfalt-pm002-b-45067559500187_+0d7fa1fadb.jpg</picture>
+    <picture>https://leobox.ua/content/images/49/rukzak-pentagram-lite-40l-universalniy-mokriy-asfalt-pm002-b-26845582933196_+b45800f508.jpg</picture>
+	<name>Рюкзак Pentagram lite, 40л, універсальний (PM002-B) Темно синій</name>
+	<stock_quantity>1</stock_quantity>
+    <vendor>Pentagram</vendor>
+    <vendorCode>PM002b-40m</vendorCode>
+    <description>
+<![CDATA[ 
+<p>По боках рюкзака розміщені відкриті кишені для пляшки, термоса чи іншого. </p>
+<p>Кишеня у верхній частині призначена для речей, до яких необхідний швидкий доступ. Чудово підходить для документів, квитків та іншого. На нижній частині, в спеціальній кишені, схований дощовик оранжевого кольору. Також цю кишеню можна використовувати для власних речей.</p>
+<p>Стильний та модний дизайн рюкзака підійде для любої статі.</p>
+
+<p>Особливості рюкзака Pentagram 40L:</p>
+<ul>
+<li>Рюкзак виготовлено з високоякісної та водовідштовхувальної тканини, стійкої до механічних пошкоджень.</li>
+<li>Підходить для туризму, велосипеда та повсякденного використання</li>
+</ul>
+
+<p>Характеристики:</p>
+<ul>
+<li>Розміри: 52*32*23 см</li>
+<li>Об'єм: 38 л</li>
+<li>Вага: 900 г</li>
+<li>Матеріал: водостійкий нейлон</li>
+</ul>
+
+<p>Комплектація:</p>
+<ul>
+<li>Рюкзак Pentagram 40L</li>
+<li>Дощовик</li>
+</ul>
+ ]]>
+</description>
+	<param name="Категорія">Для дівчаток, Для жінок, Для чоловіків, Для хлопчиків</param>
+	<param name="Матеріал">Поліестер</param>
+	<param name="размеры">52 x 32 x 23 см</param>
+	<param name="вес">0,9 кг</param>
+	<param name="Страна-производитель товара">Китай</param>
+	<param name="Колір">Синий</param>
+  </offer>
+#pentagram 40 Хакі
+<offer id="PM002b-40h" available="true" >
+<url>https://leobox.com.ua/ua/p1236069569-turisticheskij-ryukzak-pentagram.html</url>
+    <price>1199</price>
+	<old_price>1250</old_price>
+	<price_promo>1199</price_promo>
+    <currencyId>UAH</currencyId>
+    <categoryId>8</categoryId>
+    <picture>https://leobox.ua/content/images/1/rukzak-pentagram-lite-40l-khaki-49003540512757_+1bf752b1fe.jpg</picture>
+    <picture>https://leobox.ua/content/images/49/rukzak-pentagram-lite-40l-universalniy-mokriy-asfalt-pm002-b-78548013032238_+ad79ed55d0.jpg</picture>
+	<name>Рюкзак Pentagram lite, 40л, універсальний (PM002-B) Хакі</name>
+	<stock_quantity>2</stock_quantity>
+    <vendor>Pentagram</vendor>
+    <vendorCode>PM002b-40h</vendorCode>
+    <description>
+<![CDATA[ 
+<p>По боках рюкзака розміщені відкриті кишені для пляшки, термоса чи іншого. </p>
+<p>Кишеня у верхній частині призначена для речей, до яких необхідний швидкий доступ. Чудово підходить для документів, квитків та іншого. На нижній частині, в спеціальній кишені, схований дощовик оранжевого кольору. Також цю кишеню можна використовувати для власних речей.</p>
+<p>Стильний та модний дизайн рюкзака підійде для любої статі.</p>
+
+<p>Особливості рюкзака Pentagram 40L:</p>
+<ul>
+<li>Рюкзак виготовлено з високоякісної та водовідштовхувальної тканини, стійкої до механічних пошкоджень.</li>
+<li>Підходить для туризму, велосипеда та повсякденного використання</li>
+</ul>
+
+<p>Характеристики:</p>
+<ul>
+<li>Розміри: 52*32*23 см</li>
+<li>Об'єм: 38 л</li>
+<li>Вага: 900 г</li>
+<li>Матеріал: водостійкий нейлон</li>
+</ul>
+
+<p>Комплектація:</p>
+<ul>
+<li>Рюкзак Pentagram 40L</li>
+<li>Дощовик</li>
+</ul>
+ ]]>
+</description>
+	<param name="Категорія">Для дівчаток, Для жінок, Для чоловіків, Для хлопчиків</param>
+	<param name="Матеріал">Поліестер</param>
+	<param name="размеры">52 x 32 x 23 см</param>
+	<param name="вес">0,9 кг</param>
+	<param name="Страна-производитель товара">Китай</param>
+	<param name="Колір">Зеленый</param>
+  </offer>
+#pentagram 40 Синій
+<offer id="PM002b-40bl" available="true" >
+<url>https://leobox.com.ua/ua/p1497389911-turisticheskij-ryukzak-pentagram.html</url>
+    <price>1199</price>
+	<old_price>1250</old_price>
+	<price_promo>1199</price_promo>
+    <currencyId>UAH</currencyId>
+    <categoryId>8</categoryId>
+    <picture>https://leobox.ua/content/images/3/rukzak-pentagram-lite-40l-siniy-pm002-b-32959634967476_+5bea906ef9.jpg</picture>
+    <picture>https://leobox.ua/content/images/3/59194356000694_+65458a843a.jpg</picture>
+	<name>Рюкзак Pentagram lite, 40л, універсальний (PM002-B) Синій</name>
+	<stock_quantity>1</stock_quantity>
+    <vendor>Pentagram</vendor>
+    <vendorCode>PM002b-40bl</vendorCode>
+    <description>
+<![CDATA[ 
+<p>По боках рюкзака розміщені відкриті кишені для пляшки, термоса чи іншого. </p>
+<p>Кишеня у верхній частині призначена для речей, до яких необхідний швидкий доступ. Чудово підходить для документів, квитків та іншого. На нижній частині, в спеціальній кишені, схований дощовик оранжевого кольору. Також цю кишеню можна використовувати для власних речей.</p>
+<p>Стильний та модний дизайн рюкзака підійде для любої статі.</p>
+
+<p>Особливості рюкзака Pentagram 40L:</p>
+<ul>
+<li>Рюкзак виготовлено з високоякісної та водовідштовхувальної тканини, стійкої до механічних пошкоджень.</li>
+<li>Підходить для туризму, велосипеда та повсякденного використання</li>
+</ul>
+
+<p>Характеристики:</p>
+<ul>
+<li>Розміри: 52*32*23 см</li>
+<li>Об'єм: 38 л</li>
+<li>Вага: 900 г</li>
+<li>Матеріал: водостійкий нейлон</li>
+</ul>
+
+<p>Комплектація:</p>
+<ul>
+<li>Рюкзак Pentagram 40L</li>
+<li>Дощовик</li>
+</ul>
+ ]]>
+</description>
+	<param name="Категорія">Для дівчаток, Для жінок, Для чоловіків, Для хлопчиків</param>
+	<param name="Матеріал">Поліестер</param>
+	<param name="размеры">52 x 32 x 23 см</param>
+	<param name="вес">0,9 кг</param>
+	<param name="Страна-производитель товара">Китай</param>
+	<param name="Колір">Синій</param>
+  </offer>
+
 
 # pentagram 50 max
 <offer id="1032563511" available="false" >

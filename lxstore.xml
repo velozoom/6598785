@@ -3023,7 +3023,7 @@
   </offer>
 
 #pentagram 40 lite Чорний
-<offer id="PM002b-40b" available="true" >
+<offer id="PM002b-40b" available="false" >
 <url>https://leobox.com.ua/ua/p1026600348-turisticheskij-ryukzak-pentagram.html</url>
     <price>1199</price>
 	<old_price>1250</old_price>
@@ -3033,7 +3033,7 @@
     <picture>https://leobox.ua/content/images/50/45514047267620_+b17655d3a7.jpg</picture>
     <picture>https://leobox.ua/content/images/49/rukzak-pentagram-lite-40l-universalniy-mokriy-asfalt-pm002-b-78548013032238_+ad79ed55d0.jpg</picture>
 	<name>Рюкзак Pentagram lite, 40л, універсальний (PM002-B) Черный</name>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendor>Pentagram</vendor>
     <vendorCode>PM002b-40b</vendorCode>
     <description>
@@ -3071,7 +3071,7 @@
 	<param name="Колір">Чорний</param>
   </offer>
 #pentagram 40 Мокрий асфальт
-<offer id="PM002b-40m" available="true" >
+<offer id="PM002b-40m" available="false" >
 <url>https://leobox.com.ua/ua/p1026593068-turisticheskij-ryukzak-pentagram.html</url>
     <price>1199</price>
 	<old_price>1250</old_price>
@@ -3081,7 +3081,7 @@
     <picture>https://leobox.ua/content/images/49/rukzak-pentagram-lite-40l-universalniy-mokriy-asfalt-pm002-b-45067559500187_+0d7fa1fadb.jpg</picture>
     <picture>https://leobox.ua/content/images/49/rukzak-pentagram-lite-40l-universalniy-mokriy-asfalt-pm002-b-26845582933196_+b45800f508.jpg</picture>
 	<name>Рюкзак Pentagram lite, 40л, універсальний (PM002-B) Темно синій</name>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendor>Pentagram</vendor>
     <vendorCode>PM002b-40m</vendorCode>
     <description>

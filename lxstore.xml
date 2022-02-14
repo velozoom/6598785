@@ -2538,7 +2538,7 @@
 	<param name="цвет">Синий</param>
   </offer>
  
-<offer id="928207426" available="true" >
+<offer id="928207426" available="false" >
 <url>https://leobox.com.ua/p928207426-ryukzak-pentagram-50l.html</url>
     <price>1449</price>
 	<old_price>1500</old_price>
@@ -2548,7 +2548,7 @@
     <picture>https://picua.org/images/2019/04/12/304c24ba4b562b684c4346ca548ce3fb.jpg</picture>
     <picture>https://picua.org/images/2019/04/12/09baef7626f41371612cebba623e45d2.jpg</picture>
 	<name>Рюкзак універсальний Pentagram 50 л Claret Red (PM002)</name>
-	<stock_quantity>2</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendor>Pentagram</vendor>
     <vendorCode>PM002-50r</vendorCode>
     <description>

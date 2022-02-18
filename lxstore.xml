@@ -3119,7 +3119,7 @@
 	<param name="Колір">Синий</param>
   </offer>
 #pentagram 40 Хакі
-<offer id="PM002b-40h" available="true" >
+<offer id="PM002b-40h" available="false" >
 <url>https://leobox.com.ua/ua/p1236069569-turisticheskij-ryukzak-pentagram.html</url>
     <price>1199</price>
 	<old_price>1250</old_price>
@@ -3129,7 +3129,7 @@
     <picture>https://leobox.ua/content/images/1/rukzak-pentagram-lite-40l-khaki-49003540512757_+1bf752b1fe.jpg</picture>
     <picture>https://leobox.ua/content/images/49/rukzak-pentagram-lite-40l-universalniy-mokriy-asfalt-pm002-b-78548013032238_+ad79ed55d0.jpg</picture>
 	<name>Рюкзак Pentagram lite, 40л, універсальний (PM002-B) Хакі</name>
-	<stock_quantity>2</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendor>Pentagram</vendor>
     <vendorCode>PM002b-40h</vendorCode>
     <description>
@@ -3167,7 +3167,7 @@
 	<param name="Колір">Зеленый</param>
   </offer>
 #pentagram 40 Синій
-<offer id="PM002b-40bl" available="true" >
+<offer id="PM002b-40bl" available="false" >
 <url>https://leobox.com.ua/ua/p1497389911-turisticheskij-ryukzak-pentagram.html</url>
     <price>1199</price>
 	<old_price>1250</old_price>
@@ -3177,7 +3177,7 @@
     <picture>https://leobox.ua/content/images/3/rukzak-pentagram-lite-40l-siniy-pm002-b-32959634967476_+5bea906ef9.jpg</picture>
     <picture>https://leobox.ua/content/images/3/59194356000694_+65458a843a.jpg</picture>
 	<name>Рюкзак Pentagram lite, 40л, універсальний (PM002-B) Синій</name>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendor>Pentagram</vendor>
     <vendorCode>PM002b-40bl</vendorCode>
     <description>

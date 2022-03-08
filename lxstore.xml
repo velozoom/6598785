@@ -4065,7 +4065,7 @@
 	<param name="Цвет">Зеленый</param>
   </offer> 
 
-<offer id="1243979501" available="true" >
+<offer id="1243979501" available="false" >
 <url>https://leobox.com.ua/p1243979501-gidrator-turistichnij-pitna.html</url>
     <price>299</price>
 	<old_price>499</old_price>
@@ -4076,7 +4076,7 @@
 	<picture>http://i.piccy.info/i9/be512dccf842b05c8ef19afe536cfaeb/1598608171/66126/1380432/4740304.jpg</picture>
 	<picture>http://i.piccy.info/i9/87fecd3c17a8fd37201623eef4720386/1598606549/146160/1380432/01.jpg</picture>
 	<name>Гідратор (питна система) Pentagram 2 л Синій</name>
-	<stock_quantity>10</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendor>Pentagram</vendor>
     <vendorCode>W2L-B</vendorCode>
     <description>
@@ -7477,7 +7477,7 @@
   </offer>
 
 #Електричний локомотив
-<offer id="1404402139" available="true" >
+<offer id="1404402139" available="false" >
 <url>https://leobox.com.ua/ua/p1404402139-elektricheskij-lokomotiv-edwone.html</url>
     <price>349</price>
 	<old_price>400</old_price>
@@ -7490,7 +7490,7 @@
 	<picture>http://i.piccy.info/i9/75aa35c042f776b88999ba05fb618cc6/1619768490/96363/1427124/21212.jpg</picture>
 	<name>Електричний локомотив Edwone до дерев'яної дороги Brio, Ikea, Playtive (E21A23)</name>
     <vendor>Edwone</vendor>
-	<stock_quantity>10</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendorCode>edw_E21A23</vendorCode>
     <description>
 <![CDATA[ 
@@ -8137,7 +8137,7 @@ GameSir G4 pro тепер оснащений шестишаровим&nbsp;гі�
   </offer>
 
 #mocute 054
-<offer id="Mocute_054" available="true" >
+<offer id="Mocute_054" available="false" >
 <url>https://leobox.com.ua/ua/p909131535-gejmpad-dlya-android.html</url>
     <price>649</price>
 	<old_price>750</old_price>
@@ -8149,7 +8149,7 @@ GameSir G4 pro тепер оснащений шестишаровим&nbsp;гі�
 	<picture>https://leobox.ua/content/images/22/600x600l80nn0/mocute-054-bluetooth-geympad-dlya-android-82217274096949.jpg</picture>
 	<picture>https://leobox.ua/content/images/22/600x600l80nn0/mocute-054-bluetooth-geympad-dlya-android-38351510327885.jpg</picture>
 	<name>Геймпад джойстик для смартфона Mocute 054 Multi-platform Game Controller</name>
-	<stock_quantity>10</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendor>Mocute</vendor>
     <description>
 <![CDATA[ 

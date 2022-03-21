@@ -4750,18 +4750,18 @@
 	<param name="Цвет">Черный</param>
   </offer>
 
-<offer id="1089404316" available="false" >
+<offer id="1089404316" available="true" >
 <url>https://leobox.com.ua/p1089404316-ugoos-pro-432.html</url>
-    <price>2499</price>
-	<old_price>2600</old_price>
-	<price_promo>2448</price_promo>
+    <price>2899</price>
+	<old_price>3000</old_price>
+	<price_promo>2899</price_promo>
     <currencyId>UAH</currencyId>
     <categoryId>3</categoryId>
     <picture>https://picua.org/images/2020/05/28/c9b216b4860ca4bf8f380c137ffce370.jpg</picture>
     <picture>https://picua.org/images/2020/05/28/7d9efb0045c7bd45c8df1769fc05fa0e.jpg</picture>
 	<picture>https://picua.org/images/2020/05/28/376741547fc27b362e6463c0f4186ac0.jpg</picture>
 	<name>Смарт тв приставка - X3 Pro Ugoos 4/32 GB</name>
-	<stock_quantity>0</stock_quantity>
+	<stock_quantity>10</stock_quantity>
     <vendor>Ugoos</vendor>
     <vendorCode>x3pro_b</vendorCode>
     <description>
@@ -4816,18 +4816,18 @@
 	<param name="Цвет">Черный</param>
   </offer> 
  
-<offer id="1100274137" available="false" >
+<offer id="1100274137" available="true" >
 <url>https://leobox.com.ua/p1100274137-ugoos-plus-464.html</url>
-    <price>2888</price>
-	<old_price>2900</old_price>
-	<price_promo>2798</price_promo>
+    <price>3199</price>
+	<old_price>3300</old_price>
+	<price_promo>3199</price_promo>
     <currencyId>UAH</currencyId>
     <categoryId>3</categoryId>
     <picture>https://picua.org/images/2020/05/28/bc6f6af8e1922a6afdf3832751c9f69c.jpg</picture>
     <picture>https://picua.org/images/2020/05/28/7d9efb0045c7bd45c8df1769fc05fa0e.jpg</picture>
 	<picture>https://picua.org/images/2020/05/28/376741547fc27b362e6463c0f4186ac0.jpg</picture>
 	<name>Смарт тв приставка - X3 Plus Ugoos 4/64 GB</name>
-	<stock_quantity>0</stock_quantity>
+	<stock_quantity>10</stock_quantity>
     <vendor>Ugoos</vendor>
     <vendorCode>x3plus_b</vendorCode>
     <description>
@@ -4882,11 +4882,11 @@
 	<param name="Цвет">Черный</param>
   </offer> 
  
-<offer id="1247581062" available="false" >
+<offer id="1247581062" available="true" >
 <url>https://leobox.com.ua/p1247581062-ugoos-tox1-432.html</url>
-    <price>1799</price>
-	<old_price>1850</old_price>
-	<price_promo>1699</price_promo>
+    <price>1999</price>
+	<old_price>2100</old_price>
+	<price_promo>2100</price_promo>
     <currencyId>UAH</currencyId>
     <categoryId>3</categoryId>
     <picture>http://i.piccy.info/i9/2ec0f36b90387318a5648b2f2bdf21e7/1599111011/50402/1380432/tox1_1000x1000.jpg</picture>
@@ -4895,7 +4895,7 @@
 	<picture>http://i.piccy.info/i9/21589b100e89adabd479d68b370806bc/1599111113/76440/1380432/tox_01.jpg</picture>
 	<picture>http://i.piccy.info/i9/dc27fb8349b88c5f8eef5eb6a54a0a2b/1599111150/51802/1380432/H45abab50f4554db5aefaccbaa63cb95ak.jpg</picture>
 	<name>Смарт тв приставка - TOX1 4K TV Box 4/32 GB</name>
-	<stock_quantity>0</stock_quantity>
+	<stock_quantity>10</stock_quantity>
     <vendor>Ugoos</vendor>
     <vendorCode>Tox1_b</vendorCode>
     <description>
@@ -5032,7 +5032,7 @@
 <offer id="1088594094" available="true" >
 <url>https://leobox.com.ua/p1088594094-beelink-king-pro.html</url>
     <price>5200</price>
-	<old_price>5300</old_price>
+	<old_price>5400</old_price>
 	<price_promo>5100</price_promo>
     <currencyId>UAH</currencyId>
     <categoryId>3</categoryId>
@@ -5178,9 +5178,9 @@
 
  #mecool km1 
  
- <offer id="1169484743" available="false" >
+ <offer id="1169484743" available="true" >
 <url>https://leobox.com.ua/p1169484743-mecool-km1-classic.html</url>
-    <price>1799</price>
+    <price>1999</price>
 	<old_price>1899</old_price>
     <currencyId>UAH</currencyId>
     <categoryId>3</categoryId>
@@ -5189,7 +5189,7 @@
 	<picture>http://i.piccy.info/i9/6f6172fc56d6a73cce56cb60175ec4bc/1590583310/143211/1380432/KM1r.jpg</picture>
 	<picture>http://i.piccy.info/i9/80fa6ec0fc3aca4f18ae52173ac08fe2/1590583362/90453/1380432/1_2.jpg</picture>
 	<name>Смарт тв приставка Mecool KM1 Classic 2gb/16gb (S905X3)</name>
-	<stock_quantity>0</stock_quantity>
+	<stock_quantity>10</stock_quantity>
     <vendor>Mecool, Videostrong</vendor>
     <vendorCode>km1_16b</vendorCode>
     <description>
@@ -5242,10 +5242,10 @@
 	<param name="Цвет">Черный</param>
   </offer> 
  
- <offer id="1168866633" available="false" >
+ <offer id="1168866633" available="true" >
 <url>https://leobox.com.ua/p1168866633-mecool-km1-deluxe.html</url>
-    <price>2249</price>
-	<old_price>2420</old_price>
+    <price>2399</price>
+	<old_price>2450</old_price>
     <currencyId>UAH</currencyId>
     <categoryId>3</categoryId>
     <picture>http://i.piccy.info/i9/487420122e991d62809c36d52ba795d0/1590583242/108186/1380432/210116731_images_18086911843.jpg</picture>
@@ -5253,7 +5253,7 @@
 	<picture>http://i.piccy.info/i9/6f6172fc56d6a73cce56cb60175ec4bc/1590583310/143211/1380432/KM1r.jpg</picture>
 	<picture>http://i.piccy.info/i9/80fa6ec0fc3aca4f18ae52173ac08fe2/1590583362/90453/1380432/1_2.jpg</picture>
 	<name>Смарт тв приставка Mecool KM1 Deluxe 4gb/32gb (S905X3)</name>
-	<stock_quantity>0</stock_quantity>
+	<stock_quantity>10</stock_quantity>
     <vendor>Mecool, Videostrong</vendor>
     <vendorCode>km1_32b</vendorCode>
     <description>
@@ -5408,7 +5408,7 @@
  #ugoos ur-01
   <offer id="ur01" available="true" >
 <url>https://leobox.com.ua/ua/p1529206811-air-mouse-ugoos.html</url>
-    <price>449</price>
+    <price>399</price>
 	<old_price>500</old_price>
     <currencyId>UAH</currencyId>
     <categoryId>11</categoryId>
@@ -6457,7 +6457,7 @@
   </offer>
 
 #E21A07
-<offer id="edw_E21A07" available="true" >
+<offer id="edw_E21A07" available="false" >
 <url>https://leobox.com.ua/ua/p1459545205-zheleznaya-doroga-dereva.html</url>
     <price>3199</price>
 	<old_price>3500</old_price>
@@ -6468,7 +6468,7 @@
 	<picture>https://leobox.ua/content/images/45/dityacha-igrashkova-zaliznitsya-z-dereva-edwone-168-detaley-brio-ikea-e21a07-71037022437799_+4fe1603ab2.jpg</picture>
 	<name>Іграшкова залізниця з дерева EDWONE, 168 деталей, 3+  E21A07 (електричний локомотив)</name>
     <vendor>Edwone</vendor>
-	<stock_quantity>5</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendorCode>edw_E21A07</vendorCode>
     <description>
 <![CDATA[ 

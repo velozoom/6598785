@@ -7951,7 +7951,7 @@
   </offer>
 
 #gamesir t4pro
-<offer id="gs_t4pro" available="true" >
+<offer id="gs_t4pro" available="false" >
 <url>https://leobox.com.ua/ua/p1425791214-gejmpad-dlya-android.html</url>
     <price>1299</price>
 	<old_price>1400</old_price>
@@ -7964,7 +7964,7 @@
 	<picture>https://www.leobox.ua/content/images/40/505x426l80nn0/geympad-gamesir-t4-pro-bluetooth-dzhoystik-27644532040715.jpg</picture>
 	<picture>https://www.leobox.ua/content/images/40/505x426l80nn0/geympad-gamesir-t4-pro-bluetooth-dzhoystik-11439091240970.jpg</picture>
 	<name>Геймпад джойстик для смартфона GameSir T4 Pro Multi-platform Game Controller</name>
-	<stock_quantity>10</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendor>GameSir</vendor>
     <description>
 <![CDATA[ 

@@ -8014,7 +8014,7 @@ GameSir T4 pro тепер оснащений шестишаровим&nbsp;гі�
   </offer>
 
 #gamesir g4pro
-<offer id="gs_g4pro" available="true" >
+<offer id="gs_g4pro" available="false" >
 <url>https://leobox.com.ua/p1558321061-gejmpad-dlya-android.html</url>
     <price>1869</price>
 	<old_price>1900</old_price>
@@ -8027,7 +8027,7 @@ GameSir T4 pro тепер оснащений шестишаровим&nbsp;гі�
 	<picture>https://leobox.ua/content/images/28/geympad-gamesir-g4-pro-bluetooth-usb-android-ios-dzhoystik-16951762198455_+ac0b414b78.jpg</picture>
 	<picture>https://leobox.ua/content/images/28/geympad-gamesir-g4-pro-bluetooth-usb-android-ios-dzhoystik-42979029474914_+e30d2ad06e.jpg</picture>
 	<name>Геймпад для смартфона GameSir G4 Pro</name>
-	<stock_quantity>10</stock_quantity>
+	<stock_quantity>0</stock_quantity>
     <vendor>GameSir</vendor>
     <description>
 <![CDATA[ 
